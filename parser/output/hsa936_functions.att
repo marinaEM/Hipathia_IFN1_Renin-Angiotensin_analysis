@@ -1,0 +1,6 @@
+name	label	X	Y	color	shape	type	label.cex	label.color	width	height	genesList	tooltip
+N-hsa936-sa260	type I IFN response	2390	3839.375	white	rectangle	function	0.5	black	46	17	NA	type I IFN response
+N-hsa936-sa196	Proinflammatory cytokine expression_Inflammation	2857.5	3840	white	rectangle	function	0.5	black	46	17	NA	Proinflammatory cytokine expression_Inflammation
+N-hsa936-sa81	ISG expression_antiviral response	1215	2510	white	rectangle	function	0.5	black	46	17	NA	ISG expression_antiviral response
+N-hsa936-sa278_3	IkB	4221.5	2624.5	white	rectangle	function	0.5	black	46	17	NA	IkB
+N-hsa936-csa48_3	ISG15_Nsp3	2595	1065	white	rectangle	function	0.5	black	46	17	NA	ISG15_Nsp3

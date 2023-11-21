@@ -1,0 +1,10 @@
+name	label	X	Y	color	shape	type	label.cex	label.color	width	height	genesList	tooltip
+N-hsa950-csa14_3	Inhibited ISGF3 precursor	885	2403.25	white	rectangle	function	0.5	black	46	17	NA	Inhibited ISGF3 precursor
+N-hsa950-csa34_3	receptor complex	1691	1793.125	white	rectangle	function	0.5	black	46	17	NA	receptor complex
+N-hsa950-csa11_3	receptor complex	1433	1793.25	white	rectangle	function	0.5	black	46	17	NA	receptor complex
+N-hsa950-csa16_3	inhibited 80S ribosome	1899.5	2631.5	white	rectangle	function	0.5	black	46	17	NA	inhibited 80S ribosome
+N-hsa950-csa53_3	IFNs	2176	1844	white	rectangle	function	0.5	black	46	17	NA	IFNs
+N-hsa950-csa59_3	antiviral proteins	2007.05263157895	1845.55263157895	white	rectangle	function	0.5	black	46	17	NA	antiviral proteins
+N-hsa950-csa15_3	inhibited ribosomal 40S SU	2138	2436	white	rectangle	function	0.5	black	46	17	NA	inhibited ribosomal 40S SU
+N-hsa950-csa35_3	RIG-1 M-Protein	390	607	white	rectangle	function	0.5	black	46	17	NA	RIG-1 M-Protein
+N-hsa950-sa77_3	5'cap-viral-RNA	1754.5	540.5	white	rectangle	function	0.5	black	46	17	NA	5'cap-viral-RNA

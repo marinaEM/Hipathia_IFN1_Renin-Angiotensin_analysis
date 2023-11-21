@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sbml xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" level="2" version="4">
+<model metaid="ovw" id="ovw">
+<listOfUnitDefinitions>
+<unitDefinition id="area" name="area" >
+<listOfUnits>
+<unit kind="metre" scale="0" exponent="2" multiplier="1.0" />
+</listOfUnits>
+</unitDefinition><unitDefinition id="volume" name="volume" >
+<listOfUnits>
+<unit kind="litre" scale="0" exponent="1" multiplier="1.0" />
+</listOfUnits>
+</unitDefinition><unitDefinition id="length" name="length" >
+<listOfUnits>
+<unit kind="metre" scale="0" exponent="1" multiplier="1.0" />
+</listOfUnits>
+</unitDefinition><unitDefinition id="substance" name="substance" >
+<listOfUnits>
+<unit kind="mole" scale="0" exponent="1" multiplier="1.0" />
+</listOfUnits>
+</unitDefinition><unitDefinition id="time" name="time" >
+<listOfUnits>
+<unit kind="second" scale="0" exponent="1" multiplier="1.0" />
+</listOfUnits>
+</unitDefinition></listOfUnitDefinitions>
+<notes><html xmlns="http://www.w3.org/1999/xhtml"><head><title/></head><body></body></html></notes><annotation>
+<celldesigner:extension>
+<celldesigner:modelVersion>4.0</celldesigner:modelVersion>
+<celldesigner:modelDisplay sizeX="3999" sizeY="2249"/>
+<celldesigner:listOfIncludedSpecies>
+</celldesigner:listOfIncludedSpecies>
+<celldesigner:listOfCompartmentAliases>
+</celldesigner:listOfCompartmentAliases>
+<celldesigner:listOfComplexSpeciesAliases>
+</celldesigner:listOfComplexSpeciesAliases>
+<celldesigner:listOfSpeciesAliases>
+<celldesigner:speciesAlias id="nel_1" species="s_id_nel_1" >
+<celldesigner:activity>inactive</celldesigner:activity>
+<celldesigner:bounds x="2364.0" y="1473.0" w="291.0" h="95.0" />
+<celldesigner:font size="24"/><celldesigner:view state="usual"/>
+<celldesigner:usualView><celldesigner:innerPosition x="0" y="0"/><celldesigner:boxSize width="291.0" height="95.0"/><celldesigner:singleLine width="1.0"/><celldesigner:paint color="52474270" scheme="Color"/></celldesigner:usualView>
+<celldesigner:briefView><celldesigner:innerPosition x="0" y="0"/><celldesigner:boxSize width="291.0" height="95.0"/><celldesigner:singleLine width="1.0"/><celldesigner:paint color="52474270" scheme="Color"/></celldesigner:briefView>
+</celldesigner:speciesAlias>
+<celldesigner:speciesAlias id="nel_12" species="s_id_nel_12" >
+<celldesigner:activity>inactive</celldesigner:activity>
+<celldesigner:bounds x="2453.0" y="794.0" w="469.0" h="108.0" />
+<celldesigner:font size="24"/><celldesigner:view state="usual"/>
+<celldesigner:usualView><celldesigner:innerPosition x="0" y="0"/><celldesigner:boxSize width="469.0" height="108.0"/><celldesigner:singleLine width="1.0"/><celldesigner:paint color="52474270" scheme="Color"/></celldesigner:usualView>
+<celldesigner:briefView><celldesigner:innerPosition x="0" y="0"/><celldesigner:boxSize width="469.0" height="108.0"/><celldesigner:singleLine width="1.0"/><celldesigner:paint color="52474270" scheme="Color"/></celldesigner:briefView>
+</celldesigner:speciesAlias>
+<celldesigner:speciesAlias id="nel_9" species="s_id_nel_9" >
+<celldesigner:activity>inactive</celldesigner:activity>
+<celldesigner:bounds x="1438.0" y="1026.0" w="425.0" h="95.0" />
+<celldesigner:font size="24"/><celldesigner:view state="usual"/>
+<celldesigner:usualView><celldesigner:innerPosition x="0" y="0"/><celldesigner:boxSize width="425.0" height="95.0"/><celldesigner:singleLine width="1.0"/><celldesigner:paint color="52474270" scheme="Color"/></celldesigner:usualView>
+<celldesigner:briefView><celldesigner:innerPosition x="0" y="0"/><celldesigner:boxSize width="425.0" height="95.0"/><celldesigner:singleLine width="1.0"/><celldesigner:paint color="52474270" scheme="Color"/></celldesigner:briefView>
+</celldesigner:speciesAlias>
+<celldesigner:speciesAlias id="nel_4" species="s_id_nel_4" >
+<celldesigner:activity>inactive</celldesigner:activity>
+<celldesigner:bounds x="1892.0" y="1366.0" w="473.0" h="90.0" />
+<celldesigner:font size="24"/><celldesigner:view state="usual"/>
+<celldesigner:usualView><celldesigner:innerPosition x="0" y="0"/><celldesigner:boxSize width="473.0" height="90.0"/><celldesigner:singleLine width="1.0"/><celldesigner:paint color="52474270" scheme="Color"/></celldesigner:usualView>
+<celldesigner:briefView><celldesigner:innerPosition x="0" y="0"/><celldesigner:boxSize width="473.0" height="90.0"/><celldesigner:singleLine width="1.0"/><celldesigner:paint color="52474270" scheme="Color"/></celldesigner:briefView>
+</celldesigner:speciesAlias>
+<celldesigner:speciesAlias id="nel_5" species="s_id_nel_5" >
+<celldesigner:activity>inactive</celldesigner:activity>
+<celldesigner:bounds x="2716.0" y="1086.0" w="351.0" h="95.0" />
+<celldesigner:font size="24"/><celldesigner:view state="usual"/>
+<celldesigner:usualView><celldesigner:innerPosition x="0" y="0"/><celldesigner:boxSize width="351.0" height="95.0"/><celldesigner:singleLine width="1.0"/><celldesigner:paint color="52474270" scheme="Color"/></celldesigner:usualView>
+<celldesigner:briefView><celldesigner:innerPosition x="0" y="0"/><celldesigner:boxSize width="351.0" height="95.0"/><celldesigner:singleLine width="1.0"/><celldesigner:paint color="52474270" scheme="Color"/></celldesigner:briefView>
+</celldesigner:speciesAlias>
+<celldesigner:speciesAlias id="nel_15" species="s_id_nel_15" >
+<celldesigner:activity>inactive</celldesigner:activity>
+<celldesigner:bounds x="2466.0" y="413.0" w="291.0" h="95.0" />
+<celldesigner:font size="24"/><celldesigner:view state="usual"/>
+<celldesigner:usualView><celldesigner:innerPosition x="0" y="0"/><celldesigner:boxSize width="291.0" height="95.0"/><celldesigner:singleLine width="1.0"/><celldesigner:paint color="52474270" scheme="Color"/></celldesigner:usualView>
+<celldesigner:briefView><celldesigner:innerPosition x="0" y="0"/><celldesigner:boxSize width="291.0" height="95.0"/><celldesigner:singleLine width="1.0"/><celldesigner:paint color="52474270" scheme="Color"/></celldesigner:briefView>
+</celldesigner:speciesAlias>
+<celldesigner:speciesAlias id="sa23" species="s_id_sa23" >
+<celldesigner:activity>inactive</celldesigner:activity>
+<celldesigner:bounds x="1512.5" y="1472.5" w="384.0" h="95.0" />
+<celldesigner:font size="24"/><celldesigner:view state="usual"/>
+<celldesigner:usualView><celldesigner:innerPosition x="0" y="0"/><celldesigner:boxSize width="384.0" height="95.0"/><celldesigner:singleLine width="1.0"/><celldesigner:paint color="52474270" scheme="Color"/></celldesigner:usualView>
+<celldesigner:briefView><celldesigner:innerPosition x="0" y="0"/><celldesigner:boxSize width="384.0" height="95.0"/><celldesigner:singleLine width="1.0"/><celldesigner:paint color="52474270" scheme="Color"/></celldesigner:briefView>
+</celldesigner:speciesAlias>
+<celldesigner:speciesAlias id="nel_3" species="s_id_nel_3" >
+<celldesigner:activity>inactive</celldesigner:activity>
+<celldesigner:bounds x="2841.0" y="1434.0" w="313.0" h="102.0" />
+<celldesigner:font size="24"/><celldesigner:view state="usual"/>
+<celldesigner:usualView><celldesigner:innerPosition x="0" y="0"/><celldesigner:boxSize width="313.0" height="102.0"/><celldesigner:singleLine width="1.0"/><celldesigner:paint color="52474270" scheme="Color"/></celldesigner:usualView>
+<celldesigner:briefView><celldesigner:innerPosition x="0" y="0"/><celldesigner:boxSize width="313.0" height="102.0"/><celldesigner:singleLine width="1.0"/><celldesigner:paint color="52474270" scheme="Color"/></celldesigner:briefView>
+</celldesigner:speciesAlias>
+<celldesigner:speciesAlias id="nel_19" species="s_id_nel_19" >
+<celldesigner:activity>inactive</celldesigner:activity>
+<celldesigner:bounds x="2478.0" y="525.0" w="833.0" h="111.0" />
+<celldesigner:font size="24"/><celldesigner:view state="usual"/>
+<celldesigner:usualView><celldesigner:innerPosition x="0" y="0"/><celldesigner:boxSize width="833.0" height="111.0"/><celldesigner:singleLine width="1.0"/><celldesigner:paint color="52474270" scheme="Color"/></celldesigner:usualView>
+<celldesigner:briefView><celldesigner:innerPosition x="0" y="0"/><celldesigner:boxSize width="833.0" height="111.0"/><celldesigner:singleLine width="1.0"/><celldesigner:paint color="52474270" scheme="Color"/></celldesigner:briefView>
+</celldesigner:speciesAlias>
+<celldesigner:speciesAlias id="nel_11" species="s_id_nel_11" >
+<celldesigner:activity>inactive</celldesigner:activity>
+<celldesigner:bounds x="3498.0" y="1912.0" w="364.0" h="118.0" />
+<celldesigner:font size="24"/><celldesigner:view state="usual"/>
+<celldesigner:usualView><celldesigner:innerPosition x="0" y="0"/><celldesigner:boxSize width="364.0" height="118.0"/><celldesigner:singleLine width="1.0"/><celldesigner:paint color="52474270" scheme="Color"/></celldesigner:usualView>
+<celldesigner:briefView><celldesigner:innerPosition x="0" y="0"/><celldesigner:boxSize width="364.0" height="118.0"/><celldesigner:singleLine width="1.0"/><celldesigner:paint color="52474270" scheme="Color"/></celldesigner:briefView>
+</celldesigner:speciesAlias>
+<celldesigner:speciesAlias id="nel_14" species="s_id_nel_14" >
+<celldesigner:activity>inactive</celldesigner:activity>
+<celldesigner:bounds x="2916.0" y="314.0" w="291.0" h="95.0" />
+<celldesigner:font size="24"/><celldesigner:view state="usual"/>
+<celldesigner:usualView><celldesigner:innerPosition x="0" y="0"/><celldesigner:boxSize width="291.0" height="95.0"/><celldesigner:singleLine width="1.0"/><celldesigner:paint color="52474270" scheme="Color"/></celldesigner:usualView>
+<celldesigner:briefView><celldesigner:innerPosition x="0" y="0"/><celldesigner:boxSize width="291.0" height="95.0"/><celldesigner:singleLine width="1.0"/><celldesigner:paint color="52474270" scheme="Color"/></celldesigner:briefView>
+</celldesigner:speciesAlias>
+<celldesigner:speciesAlias id="nel_10" species="s_id_nel_10" >
+<celldesigner:activity>inactive</celldesigner:activity>
+<celldesigner:bounds x="2357.0" y="1068.0" w="351.0" h="95.0" />
+<celldesigner:font size="24"/><celldesigner:view state="usual"/>
+<celldesigner:usualView><celldesigner:innerPosition x="0" y="0"/><celldesigner:boxSize width="351.0" height="95.0"/><celldesigner:singleLine width="1.0"/><celldesigner:paint color="52474270" scheme="Color"/></celldesigner:usualView>
+<celldesigner:briefView><celldesigner:innerPosition x="0" y="0"/><celldesigner:boxSize width="351.0" height="95.0"/><celldesigner:singleLine width="1.0"/><celldesigner:paint color="52474270" scheme="Color"/></celldesigner:briefView>
+</celldesigner:speciesAlias>
+<celldesigner:speciesAlias id="nel_6" species="s_id_nel_6" >
+<celldesigner:activity>inactive</celldesigner:activity>
+<celldesigner:bounds x="1086.0" y="554.0" w="340.0" h="95.0" />
+<celldesigner:font size="24"/><celldesigner:view state="usual"/>
+<celldesigner:usualView><celldesigner:innerPosition x="0" y="0"/><celldesigner:boxSize width="340.0" height="95.0"/><celldesigner:singleLine width="1.0"/><celldesigner:paint color="52474270" scheme="Color"/></celldesigner:usualView>
+<celldesigner:briefView><celldesigner:innerPosition x="0" y="0"/><celldesigner:boxSize width="340.0" height="95.0"/><celldesigner:singleLine width="1.0"/><celldesigner:paint color="52474270" scheme="Color"/></celldesigner:briefView>
+</celldesigner:speciesAlias>
+<celldesigner:speciesAlias id="nel_13" species="s_id_nel_13" >
+<celldesigner:activity>inactive</celldesigner:activity>
+<celldesigner:bounds x="2617.0" y="314.0" w="314.0" h="95.0" />
+<celldesigner:font size="24"/><celldesigner:view state="usual"/>
+<celldesigner:usualView><celldesigner:innerPosition x="0" y="0"/><celldesigner:boxSize width="314.0" height="95.0"/><celldesigner:singleLine width="1.0"/><celldesigner:paint color="52474270" scheme="Color"/></celldesigner:usualView>
+<celldesigner:briefView><celldesigner:innerPosition x="0" y="0"/><celldesigner:boxSize width="314.0" height="95.0"/><celldesigner:singleLine width="1.0"/><celldesigner:paint color="52474270" scheme="Color"/></celldesigner:briefView>
+</celldesigner:speciesAlias>
+<celldesigner:speciesAlias id="nel_20" species="s_id_nel_20" >
+<celldesigner:activity>inactive</celldesigner:activity>
+<celldesigner:bounds x="3072.0" y="1072.0" w="351.0" h="95.0" />
+<celldesigner:font size="24"/><celldesigner:view state="usual"/>
+<celldesigner:usualView><celldesigner:innerPosition x="0" y="0"/><celldesigner:boxSize width="351.0" height="95.0"/><celldesigner:singleLine width="1.0"/><celldesigner:paint color="52474270" scheme="Color"/></celldesigner:usualView>
+<celldesigner:briefView><celldesigner:innerPosition x="0" y="0"/><celldesigner:boxSize width="351.0" height="95.0"/><celldesigner:singleLine width="1.0"/><celldesigner:paint color="52474270" scheme="Color"/></celldesigner:briefView>
+</celldesigner:speciesAlias>
+<celldesigner:speciesAlias id="nel_21" species="s_id_nel_21" >
+<celldesigner:activity>inactive</celldesigner:activity>
+<celldesigner:bounds x="2786.0" y="1310.0" w="291.0" h="95.0" />
+<celldesigner:font size="24"/><celldesigner:view state="usual"/>
+<celldesigner:usualView><celldesigner:innerPosition x="0" y="0"/><celldesigner:boxSize width="291.0" height="95.0"/><celldesigner:singleLine width="1.0"/><celldesigner:paint color="52474270" scheme="Color"/></celldesigner:usualView>
+<celldesigner:briefView><celldesigner:innerPosition x="0" y="0"/><celldesigner:boxSize width="291.0" height="95.0"/><celldesigner:singleLine width="1.0"/><celldesigner:paint color="52474270" scheme="Color"/></celldesigner:briefView>
+</celldesigner:speciesAlias>
+<celldesigner:speciesAlias id="nel_2" species="s_id_nel_2" >
+<celldesigner:activity>inactive</celldesigner:activity>
+<celldesigner:bounds x="1886.0" y="1785.0" w="482.0" h="157.0" />
+<celldesigner:font size="24"/><celldesigner:view state="usual"/>
+<celldesigner:usualView><celldesigner:innerPosition x="0" y="0"/><celldesigner:boxSize width="482.0" height="157.0"/><celldesigner:singleLine width="1.0"/><celldesigner:paint color="52474270" scheme="Color"/></celldesigner:usualView>
+<celldesigner:briefView><celldesigner:innerPosition x="0" y="0"/><celldesigner:boxSize width="482.0" height="157.0"/><celldesigner:singleLine width="1.0"/><celldesigner:paint color="52474270" scheme="Color"/></celldesigner:briefView>
+</celldesigner:speciesAlias>
+<celldesigner:speciesAlias id="nel_7" species="s_id_nel_7" >
+<celldesigner:activity>inactive</celldesigner:activity>
+<celldesigner:bounds x="1086.0" y="442.0" w="340.0" h="95.0" />
+<celldesigner:font size="24"/><celldesigner:view state="usual"/>
+<celldesigner:usualView><celldesigner:innerPosition x="0" y="0"/><celldesigner:boxSize width="340.0" height="95.0"/><celldesigner:singleLine width="1.0"/><celldesigner:paint color="52474270" scheme="Color"/></celldesigner:usualView>
+<celldesigner:briefView><celldesigner:innerPosition x="0" y="0"/><celldesigner:boxSize width="340.0" height="95.0"/><celldesigner:singleLine width="1.0"/><celldesigner:paint color="52474270" scheme="Color"/></celldesigner:briefView>
+</celldesigner:speciesAlias>
+<celldesigner:speciesAlias id="nel_18" species="s_id_nel_18" >
+<celldesigner:activity>inactive</celldesigner:activity>
+<celldesigner:bounds x="2783.0" y="1213.0" w="291.0" h="95.0" />
+<celldesigner:font size="24"/><celldesigner:view state="usual"/>
+<celldesigner:usualView><celldesigner:innerPosition x="0" y="0"/><celldesigner:boxSize width="291.0" height="95.0"/><celldesigner:singleLine width="1.0"/><celldesigner:paint color="52474270" scheme="Color"/></celldesigner:usualView>
+<celldesigner:briefView><celldesigner:innerPosition x="0" y="0"/><celldesigner:boxSize width="291.0" height="95.0"/><celldesigner:singleLine width="1.0"/><celldesigner:paint color="52474270" scheme="Color"/></celldesigner:briefView>
+</celldesigner:speciesAlias>
+<celldesigner:speciesAlias id="nel_16" species="s_id_nel_16" >
+<celldesigner:activity>inactive</celldesigner:activity>
+<celldesigner:bounds x="3066.0" y="414.0" w="291.0" h="95.0" />
+<celldesigner:font size="24"/><celldesigner:view state="usual"/>
+<celldesigner:usualView><celldesigner:innerPosition x="0" y="0"/><celldesigner:boxSize width="291.0" height="95.0"/><celldesigner:singleLine width="1.0"/><celldesigner:paint color="52474270" scheme="Color"/></celldesigner:usualView>
+<celldesigner:briefView><celldesigner:innerPosition x="0" y="0"/><celldesigner:boxSize width="291.0" height="95.0"/><celldesigner:singleLine width="1.0"/><celldesigner:paint color="52474270" scheme="Color"/></celldesigner:briefView>
+</celldesigner:speciesAlias>
+<celldesigner:speciesAlias id="nel_17" species="s_id_nel_17" >
+<celldesigner:activity>inactive</celldesigner:activity>
+<celldesigner:bounds x="2766.0" y="413.0" w="291.0" h="95.0" />
+<celldesigner:font size="24"/><celldesigner:view state="usual"/>
+<celldesigner:usualView><celldesigner:innerPosition x="0" y="0"/><celldesigner:boxSize width="291.0" height="95.0"/><celldesigner:singleLine width="1.0"/><celldesigner:paint color="52474270" scheme="Color"/></celldesigner:usualView>
+<celldesigner:briefView><celldesigner:innerPosition x="0" y="0"/><celldesigner:boxSize width="291.0" height="95.0"/><celldesigner:singleLine width="1.0"/><celldesigner:paint color="52474270" scheme="Color"/></celldesigner:briefView>
+</celldesigner:speciesAlias>
+<celldesigner:speciesAlias id="nel_22" species="s_id_nel_22" >
+<celldesigner:activity>inactive</celldesigner:activity>
+<celldesigner:bounds x="233.0" y="461.0" w="350.0" h="95.0" />
+<celldesigner:font size="24"/><celldesigner:view state="usual"/>
+<celldesigner:usualView><celldesigner:innerPosition x="0" y="0"/><celldesigner:boxSize width="350.0" height="95.0"/><celldesigner:singleLine width="1.0"/><celldesigner:paint color="52474270" scheme="Color"/></celldesigner:usualView>
+<celldesigner:briefView><celldesigner:innerPosition x="0" y="0"/><celldesigner:boxSize width="350.0" height="95.0"/><celldesigner:singleLine width="1.0"/><celldesigner:paint color="52474270" scheme="Color"/></celldesigner:briefView>
+</celldesigner:speciesAlias>
+<celldesigner:speciesAlias id="nel_8" species="s_id_nel_8" >
+<celldesigner:activity>inactive</celldesigner:activity>
+<celldesigner:bounds x="1944.0" y="1473.0" w="351.0" h="95.0" />
+<celldesigner:font size="24"/><celldesigner:view state="usual"/>
+<celldesigner:usualView><celldesigner:innerPosition x="0" y="0"/><celldesigner:boxSize width="351.0" height="95.0"/><celldesigner:singleLine width="1.0"/><celldesigner:paint color="52474270" scheme="Color"/></celldesigner:usualView>
+<celldesigner:briefView><celldesigner:innerPosition x="0" y="0"/><celldesigner:boxSize width="351.0" height="95.0"/><celldesigner:singleLine width="1.0"/><celldesigner:paint color="52474270" scheme="Color"/></celldesigner:briefView>
+</celldesigner:speciesAlias>
+</celldesigner:listOfSpeciesAliases>
+<celldesigner:listOfProteins></celldesigner:listOfProteins>
+<celldesigner:listOfGenes></celldesigner:listOfGenes>
+<celldesigner:listOfRNAs></celldesigner:listOfRNAs>
+<celldesigner:listOfAntisenseRNAs></celldesigner:listOfAntisenseRNAs>
+<celldesigner:listOfLayers><celldesigner:layer id ="1"  name ="illustrative"  locked ="true"  visible ="false">
+<celldesigner:listOfTexts>
+<celldesigner:layerSpeciesAlias><celldesigner:layerNotes>
+Molecular overview
+
+</celldesigner:layerNotes><celldesigner:paint color="FF000000"/><celldesigner:bounds x="0.0"  y="0.0"  w="3999.0"  h="2249.0"/><celldesigner:font size="11"/></celldesigner:layerSpeciesAlias>
+</celldesigner:listOfTexts>
+<celldesigner:listOfSquares>
+</celldesigner:listOfSquares>
+<celldesigner:listOfFreeLines>
+</celldesigner:listOfFreeLines>
+</celldesigner:layer>
+</celldesigner:listOfLayers>
+</celldesigner:extension>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+<rdf:Description rdf:about="#ovw">
+<dcterms:modified rdf:parseType="Resource"></dcterms:modified>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfCompartments>
+<compartment metaid="default" id="default" name="" size="1" units="volume" >
+<notes><html xmlns="http://www.w3.org/1999/xhtml"><head><title/></head><body>
+</body></html></notes>
+<annotation>
+<celldesigner:extension>
+</celldesigner:extension>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+<rdf:Description rdf:about="#default">
+<dcterms:modified rdf:parseType="Resource"></dcterms:modified>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+</compartment>
+</listOfCompartments>
+<listOfSpecies><species  name="Apoptosis_space_pathway" id="s_id_nel_1" metaid="s_id_nel_1" initialAmount="0.0" hasOnlySubstanceUnits="false" constant="false" boundaryCondition="false" compartment="default"><annotation><celldesigner:extension><celldesigner:positionToCompartment>inside</celldesigner:positionToCompartment><celldesigner:speciesIdentity><celldesigner:class>PHENOTYPE</celldesigner:class>
+<celldesigner:name>Apoptosis_space_pathway</celldesigner:name>
+</celldesigner:speciesIdentity>
+</celldesigner:extension>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+<rdf:Description rdf:about="#s_id_nel_1">
+<bqmodel:is>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:wikipathways:WP4864"/>
+</rdf:Bag>
+</bqmodel:is>
+<dcterms:modified rdf:parseType="Resource"></dcterms:modified>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+</species>
+<species  name="SARS_minus_CoV_minus_2_space_RTC_br_and_space_transcription" id="s_id_nel_12" metaid="s_id_nel_12" initialAmount="0.0" hasOnlySubstanceUnits="false" constant="false" boundaryCondition="false" compartment="default"><annotation><celldesigner:extension><celldesigner:positionToCompartment>inside</celldesigner:positionToCompartment><celldesigner:speciesIdentity><celldesigner:class>PHENOTYPE</celldesigner:class>
+<celldesigner:name>SARS_minus_CoV_minus_2_space_RTC_br_and_space_transcription</celldesigner:name>
+</celldesigner:speciesIdentity>
+</celldesigner:extension>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+<rdf:Description rdf:about="#s_id_nel_12">
+<dcterms:modified rdf:parseType="Resource"></dcterms:modified>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+</species>
+<species  name="PAMP_space_signalling" id="s_id_nel_9" metaid="s_id_nel_9" initialAmount="0.0" hasOnlySubstanceUnits="false" constant="false" boundaryCondition="false" compartment="default"><annotation><celldesigner:extension><celldesigner:positionToCompartment>inside</celldesigner:positionToCompartment><celldesigner:speciesIdentity><celldesigner:class>PHENOTYPE</celldesigner:class>
+<celldesigner:name>PAMP_space_signalling</celldesigner:name>
+</celldesigner:speciesIdentity>
+</celldesigner:extension>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+<rdf:Description rdf:about="#s_id_nel_9">
+<bqmodel:is>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:wikipathways:WP4912"/>
+</rdf:Bag>
+</bqmodel:is>
+<dcterms:modified rdf:parseType="Resource"></dcterms:modified>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+</species>
+<species  name="Electron_space_Transport_space_Chain_space_disruption" id="s_id_nel_4" metaid="s_id_nel_4" initialAmount="0.0" hasOnlySubstanceUnits="false" constant="false" boundaryCondition="false" compartment="default"><annotation><celldesigner:extension><celldesigner:positionToCompartment>inside</celldesigner:positionToCompartment><celldesigner:speciesIdentity><celldesigner:class>PHENOTYPE</celldesigner:class>
+<celldesigner:name>Electron_space_Transport_space_Chain_space_disruption</celldesigner:name>
+</celldesigner:speciesIdentity>
+</celldesigner:extension>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+<rdf:Description rdf:about="#s_id_nel_4">
+<bqmodel:is>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:wikipathways:WP5038"/>
+</rdf:Bag>
+</bqmodel:is>
+<dcterms:modified rdf:parseType="Resource"></dcterms:modified>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+</species>
+<species  name="HMOX1_space_pathway" id="s_id_nel_5" metaid="s_id_nel_5" initialAmount="0.0" hasOnlySubstanceUnits="false" constant="false" boundaryCondition="false" compartment="default"><annotation><celldesigner:extension><celldesigner:positionToCompartment>inside</celldesigner:positionToCompartment><celldesigner:speciesIdentity><celldesigner:class>PHENOTYPE</celldesigner:class>
+<celldesigner:name>HMOX1_space_pathway</celldesigner:name>
+</celldesigner:speciesIdentity>
+</celldesigner:extension>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+<rdf:Description rdf:about="#s_id_nel_5">
+<dcterms:modified rdf:parseType="Resource"></dcterms:modified>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+</species>
+<species  name="Nsp9_space_protein_br_interactions" id="s_id_nel_15" metaid="s_id_nel_15" initialAmount="0.0" hasOnlySubstanceUnits="false" constant="false" boundaryCondition="false" compartment="default"><annotation><celldesigner:extension><celldesigner:positionToCompartment>inside</celldesigner:positionToCompartment><celldesigner:speciesIdentity><celldesigner:class>PHENOTYPE</celldesigner:class>
+<celldesigner:name>Nsp9_space_protein_br_interactions</celldesigner:name>
+</celldesigner:speciesIdentity>
+</celldesigner:extension>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+<rdf:Description rdf:about="#s_id_nel_15">
+<bqmodel:is>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:wikipathways:WP4884"/>
+</rdf:Bag>
+</bqmodel:is>
+<dcterms:modified rdf:parseType="Resource"></dcterms:modified>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+</species>
+<species  name="Autophagy_space_pathway" id="s_id_sa23" metaid="s_id_sa23" initialAmount="0.0" hasOnlySubstanceUnits="false" constant="false" boundaryCondition="false" compartment="default"><annotation><celldesigner:extension><celldesigner:positionToCompartment>inside</celldesigner:positionToCompartment><celldesigner:speciesIdentity><celldesigner:class>PHENOTYPE</celldesigner:class>
+<celldesigner:name>Autophagy_space_pathway</celldesigner:name>
+</celldesigner:speciesIdentity>
+</celldesigner:extension>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+<rdf:Description rdf:about="#s_id_sa23">
+<bqmodel:is>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:wikipathways:WP4936"/>
+</rdf:Bag>
+</bqmodel:is>
+<bqmodel:is>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:wikipathways:WP4863"/>
+</rdf:Bag>
+</bqmodel:is>
+<dcterms:modified rdf:parseType="Resource"></dcterms:modified>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+</species>
+<species  name="Endoplasmic_br_Reticulum_space_stress" id="s_id_nel_3" metaid="s_id_nel_3" initialAmount="0.0" hasOnlySubstanceUnits="false" constant="false" boundaryCondition="false" compartment="default"><annotation><celldesigner:extension><celldesigner:positionToCompartment>inside</celldesigner:positionToCompartment><celldesigner:speciesIdentity><celldesigner:class>PHENOTYPE</celldesigner:class>
+<celldesigner:name>Endoplasmic_br_Reticulum_space_stress</celldesigner:name>
+</celldesigner:speciesIdentity>
+</celldesigner:extension>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+<rdf:Description rdf:about="#s_id_nel_3">
+<bqmodel:is>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:wikipathways:WP5027"/>
+</rdf:Bag>
+</bqmodel:is>
+<bqmodel:is>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:wikipathways:WP4861"/>
+</rdf:Bag>
+</bqmodel:is>
+<dcterms:modified rdf:parseType="Resource"></dcterms:modified>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+</species>
+<species  name="Virus_space_replication_space_cycle" id="s_id_nel_19" metaid="s_id_nel_19" initialAmount="0.0" hasOnlySubstanceUnits="false" constant="false" boundaryCondition="false" compartment="default"><notes><html xmlns="http://www.w3.org/1999/xhtml"><head><title/></head><body>
+<b >Reactome pathways:</b>
+
+<br />
+
+<a  href="https://reactome.org/PathwayBrowser/#/R-HSA-9678108">SARS-CoV-1 infection</a>
+
+<br />
+
+<a  href="https://reactome.org/PathwayBrowser/#/R-HSA-9694516">SARS-CoV-2 infection</a></body></html></notes>
+<annotation><celldesigner:extension><celldesigner:positionToCompartment>inside</celldesigner:positionToCompartment><celldesigner:speciesIdentity><celldesigner:class>PHENOTYPE</celldesigner:class>
+<celldesigner:name>Virus_space_replication_space_cycle</celldesigner:name>
+</celldesigner:speciesIdentity>
+</celldesigner:extension>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+<rdf:Description rdf:about="#s_id_nel_19">
+<bqmodel:is>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:wikipathways:WP4846"/>
+</rdf:Bag>
+</bqmodel:is>
+<dcterms:modified rdf:parseType="Resource"></dcterms:modified>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+</species>
+<species  name="Renin_minus_angiotensin_br_pathway" id="s_id_nel_11" metaid="s_id_nel_11" initialAmount="0.0" hasOnlySubstanceUnits="false" constant="false" boundaryCondition="false" compartment="default"><annotation><celldesigner:extension><celldesigner:positionToCompartment>inside</celldesigner:positionToCompartment><celldesigner:speciesIdentity><celldesigner:class>PHENOTYPE</celldesigner:class>
+<celldesigner:name>Renin_minus_angiotensin_br_pathway</celldesigner:name>
+</celldesigner:speciesIdentity>
+</celldesigner:extension>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+<rdf:Description rdf:about="#s_id_nel_11">
+<bqmodel:is>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:wikipathways:WP4969"/>
+</rdf:Bag>
+</bqmodel:is>
+<bqmodel:is>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:wikipathways:WP4883"/>
+</rdf:Bag>
+</bqmodel:is>
+<bqmodel:is>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:wikipathways:WP4965"/>
+</rdf:Bag>
+</bqmodel:is>
+<bqmodel:is>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:wikipathways:WP4799"/>
+</rdf:Bag>
+</bqmodel:is>
+<dcterms:modified rdf:parseType="Resource"></dcterms:modified>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+</species>
+<species  name="Nsp4_space_and_space_Nsp6_br_protein_space_interactions" id="s_id_nel_14" metaid="s_id_nel_14" initialAmount="0.0" hasOnlySubstanceUnits="false" constant="false" boundaryCondition="false" compartment="default"><annotation><celldesigner:extension><celldesigner:positionToCompartment>inside</celldesigner:positionToCompartment><celldesigner:speciesIdentity><celldesigner:class>PHENOTYPE</celldesigner:class>
+<celldesigner:name>Nsp4_space_and_space_Nsp6_br_protein_space_interactions</celldesigner:name>
+</celldesigner:speciesIdentity>
+</celldesigner:extension>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+<rdf:Description rdf:about="#s_id_nel_14">
+<dcterms:modified rdf:parseType="Resource"></dcterms:modified>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+</species>
+<species  name="Pyrimidine_space_deprivation" id="s_id_nel_10" metaid="s_id_nel_10" initialAmount="0.0" hasOnlySubstanceUnits="false" constant="false" boundaryCondition="false" compartment="default"><annotation><celldesigner:extension><celldesigner:positionToCompartment>inside</celldesigner:positionToCompartment><celldesigner:speciesIdentity><celldesigner:class>PHENOTYPE</celldesigner:class>
+<celldesigner:name>Pyrimidine_space_deprivation</celldesigner:name>
+</celldesigner:speciesIdentity>
+</celldesigner:extension>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+<rdf:Description rdf:about="#s_id_nel_10">
+<bqmodel:is>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:wikipathways:WP4961"/>
+</rdf:Bag>
+</bqmodel:is>
+<dcterms:modified rdf:parseType="Resource"></dcterms:modified>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+</species>
+<species  name="Interferon_space_lambda_br_pathway" id="s_id_nel_6" metaid="s_id_nel_6" initialAmount="0.0" hasOnlySubstanceUnits="false" constant="false" boundaryCondition="false" compartment="default"><annotation><celldesigner:extension><celldesigner:positionToCompartment>inside</celldesigner:positionToCompartment><celldesigner:speciesIdentity><celldesigner:class>PHENOTYPE</celldesigner:class>
+<celldesigner:name>Interferon_space_lambda_br_pathway</celldesigner:name>
+</celldesigner:speciesIdentity>
+</celldesigner:extension>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+<rdf:Description rdf:about="#s_id_nel_6">
+<dcterms:modified rdf:parseType="Resource"></dcterms:modified>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+</species>
+<species  name="E_space_protein_br_interactions" id="s_id_nel_13" metaid="s_id_nel_13" initialAmount="0.0" hasOnlySubstanceUnits="false" constant="false" boundaryCondition="false" compartment="default"><annotation><celldesigner:extension><celldesigner:positionToCompartment>inside</celldesigner:positionToCompartment><celldesigner:speciesIdentity><celldesigner:class>PHENOTYPE</celldesigner:class>
+<celldesigner:name>E_space_protein_br_interactions</celldesigner:name>
+</celldesigner:speciesIdentity>
+</celldesigner:extension>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+<rdf:Description rdf:about="#s_id_nel_13">
+<dcterms:modified rdf:parseType="Resource"></dcterms:modified>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+</species>
+<species  name="Kynurenine_space_synthesis_space_pathway" id="s_id_nel_20" metaid="s_id_nel_20" initialAmount="0.0" hasOnlySubstanceUnits="false" constant="false" boundaryCondition="false" compartment="default"><annotation><celldesigner:extension><celldesigner:positionToCompartment>inside</celldesigner:positionToCompartment><celldesigner:speciesIdentity><celldesigner:class>PHENOTYPE</celldesigner:class>
+<celldesigner:name>Kynurenine_space_synthesis_space_pathway</celldesigner:name>
+</celldesigner:speciesIdentity>
+</celldesigner:extension>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+<rdf:Description rdf:about="#s_id_nel_20">
+<dcterms:modified rdf:parseType="Resource"></dcterms:modified>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+</species>
+<species  name="TGFbeta_space_signalling" id="s_id_nel_21" metaid="s_id_nel_21" initialAmount="0.0" hasOnlySubstanceUnits="false" constant="false" boundaryCondition="false" compartment="default"><annotation><celldesigner:extension><celldesigner:positionToCompartment>inside</celldesigner:positionToCompartment><celldesigner:speciesIdentity><celldesigner:class>PHENOTYPE</celldesigner:class>
+<celldesigner:name>TGFbeta_space_signalling</celldesigner:name>
+</celldesigner:speciesIdentity>
+</celldesigner:extension>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+<rdf:Description rdf:about="#s_id_nel_21">
+<bqmodel:is>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:wikipathways:WP4904"/>
+</rdf:Bag>
+</bqmodel:is>
+<dcterms:modified rdf:parseType="Resource"></dcterms:modified>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+</species>
+<species  name="Coagulation_space_pathway" id="s_id_nel_2" metaid="s_id_nel_2" initialAmount="0.0" hasOnlySubstanceUnits="false" constant="false" boundaryCondition="false" compartment="default"><annotation><celldesigner:extension><celldesigner:positionToCompartment>inside</celldesigner:positionToCompartment><celldesigner:speciesIdentity><celldesigner:class>PHENOTYPE</celldesigner:class>
+<celldesigner:name>Coagulation_space_pathway</celldesigner:name>
+</celldesigner:speciesIdentity>
+</celldesigner:extension>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+<rdf:Description rdf:about="#s_id_nel_2">
+<bqmodel:is>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:wikipathways:WP4927"/>
+</rdf:Bag>
+</bqmodel:is>
+<dcterms:modified rdf:parseType="Resource"></dcterms:modified>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+</species>
+<species  name="Interferon_space_1_br_pathway" id="s_id_nel_7" metaid="s_id_nel_7" initialAmount="0.0" hasOnlySubstanceUnits="false" constant="false" boundaryCondition="false" compartment="default"><annotation><celldesigner:extension><celldesigner:positionToCompartment>inside</celldesigner:positionToCompartment><celldesigner:speciesIdentity><celldesigner:class>PHENOTYPE</celldesigner:class>
+<celldesigner:name>Interferon_space_1_br_pathway</celldesigner:name>
+</celldesigner:speciesIdentity>
+</celldesigner:extension>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+<rdf:Description rdf:about="#s_id_nel_7">
+<bqmodel:is>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:wikipathways:WP4868"/>
+</rdf:Bag>
+</bqmodel:is>
+<bqmodel:is>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:wikipathways:WP4880"/>
+</rdf:Bag>
+</bqmodel:is>
+<bqmodel:is>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:wikipathways:WP5039"/>
+</rdf:Bag>
+</bqmodel:is>
+<dcterms:modified rdf:parseType="Resource"></dcterms:modified>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+</species>
+<species  name="Orf10_space_Cul2_space_pathway" id="s_id_nel_18" metaid="s_id_nel_18" initialAmount="0.0" hasOnlySubstanceUnits="false" constant="false" boundaryCondition="false" compartment="default"><annotation><celldesigner:extension><celldesigner:positionToCompartment>inside</celldesigner:positionToCompartment><celldesigner:speciesIdentity><celldesigner:class>PHENOTYPE</celldesigner:class>
+<celldesigner:name>Orf10_space_Cul2_space_pathway</celldesigner:name>
+</celldesigner:speciesIdentity>
+</celldesigner:extension>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+<rdf:Description rdf:about="#s_id_nel_18">
+<bqmodel:is>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:wikipathways:WP4860"/>
+</rdf:Bag>
+</bqmodel:is>
+<dcterms:modified rdf:parseType="Resource"></dcterms:modified>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+</species>
+<species  name="Nsp14_br_and_space_metabolism" id="s_id_nel_16" metaid="s_id_nel_16" initialAmount="0.0" hasOnlySubstanceUnits="false" constant="false" boundaryCondition="false" compartment="default"><annotation><celldesigner:extension><celldesigner:positionToCompartment>inside</celldesigner:positionToCompartment><celldesigner:speciesIdentity><celldesigner:class>PHENOTYPE</celldesigner:class>
+<celldesigner:name>Nsp14_br_and_space_metabolism</celldesigner:name>
+</celldesigner:speciesIdentity>
+</celldesigner:extension>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+<rdf:Description rdf:about="#s_id_nel_16">
+<dcterms:modified rdf:parseType="Resource"></dcterms:modified>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+</species>
+<species  name="Orf3a_space_protein_br_interactions" id="s_id_nel_17" metaid="s_id_nel_17" initialAmount="0.0" hasOnlySubstanceUnits="false" constant="false" boundaryCondition="false" compartment="default"><annotation><celldesigner:extension><celldesigner:positionToCompartment>inside</celldesigner:positionToCompartment><celldesigner:speciesIdentity><celldesigner:class>PHENOTYPE</celldesigner:class>
+<celldesigner:name>Orf3a_space_protein_br_interactions</celldesigner:name>
+</celldesigner:speciesIdentity>
+</celldesigner:extension>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+<rdf:Description rdf:about="#s_id_nel_17">
+<dcterms:modified rdf:parseType="Resource"></dcterms:modified>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+</species>
+<species  name="NLRP3_space_inflammasome_space_activation" id="s_id_nel_22" metaid="s_id_nel_22" initialAmount="0.0" hasOnlySubstanceUnits="false" constant="false" boundaryCondition="false" compartment="default"><annotation><celldesigner:extension><celldesigner:positionToCompartment>inside</celldesigner:positionToCompartment><celldesigner:speciesIdentity><celldesigner:class>PHENOTYPE</celldesigner:class>
+<celldesigner:name>NLRP3_space_inflammasome_space_activation</celldesigner:name>
+</celldesigner:speciesIdentity>
+</celldesigner:extension>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+<rdf:Description rdf:about="#s_id_nel_22">
+<bqmodel:is>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:wikipathways:WP4876"/>
+</rdf:Bag>
+</bqmodel:is>
+<dcterms:modified rdf:parseType="Resource"></dcterms:modified>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+</species>
+<species  name="JNK_space_pathway" id="s_id_nel_8" metaid="s_id_nel_8" initialAmount="0.0" hasOnlySubstanceUnits="false" constant="false" boundaryCondition="false" compartment="default"><annotation><celldesigner:extension><celldesigner:positionToCompartment>inside</celldesigner:positionToCompartment><celldesigner:speciesIdentity><celldesigner:class>PHENOTYPE</celldesigner:class>
+<celldesigner:name>JNK_space_pathway</celldesigner:name>
+</celldesigner:speciesIdentity>
+</celldesigner:extension>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+<rdf:Description rdf:about="#s_id_nel_8">
+<bqmodel:is>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:wikipathways:WP4877"/>
+</rdf:Bag>
+</bqmodel:is>
+<dcterms:modified rdf:parseType="Resource"></dcterms:modified>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+</species>
+</listOfSpecies>
+</model></sbml>

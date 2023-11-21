@@ -1,0 +1,8 @@
+name	label	X	Y	color	shape	type	label.cex	label.color	width	height	genesList	tooltip
+N-hsa947-sa171_3	CASP1	2756.66666666667	2316	white	rectangle	function	0.5	black	46	17	NA	CASP1
+N-hsa947-sa170_3	CASP1	2857.33333333333	2282	white	rectangle	function	0.5	black	46	17	NA	CASP1
+N-hsa947-sa175_3	TXN	1501.5	1202.5	white	rectangle	function	0.5	black	46	17	NA	TXN
+N-hsa947-sa172_3	proIL-1B	3113.5	1983.5	white	rectangle	function	0.5	black	46	17	NA	proIL-1B
+N-hsa947-sa18_3	proIL-18	3099	1793.25	white	rectangle	function	0.5	black	46	17	NA	proIL-18
+N-hsa947-sa21_3	IL-1B	3354	1920	white	rectangle	function	0.5	black	46	17	NA	IL-1B
+N-hsa947-sa20_3	IL-18	3354	1850	white	rectangle	function	0.5	black	46	17	NA	IL-18

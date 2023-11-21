@@ -1,0 +1,33 @@
+name	label	X	Y	color	shape	type	label.cex	label.color	width	height	genesList	tooltip
+N-hsa938-sa2291	cellular response to exogenous dsRNA	2043.5	1351.5	white	rectangle	function	0.5	black	46	17	NA	cellular response to exogenous dsRNA
+N-hsa938-sa2358	Host translation	3265.5	551.5	white	rectangle	function	0.5	black	46	17	NA	Host translation
+N-hsa938-sa2237	Host translation	2682	630	white	rectangle	function	0.5	black	46	17	NA	Host translation
+N-hsa938-csa357_3	Nucleocapsid	665.846153846154	1058.16346153846	white	rectangle	function	0.5	black	46	17	NA	Nucleocapsid
+N-hsa938-csa387_3	Nucleocapsid	5245.5	370.163461538461	white	rectangle	function	0.5	black	46	17	NA	Nucleocapsid
+N-hsa938-csa438_3	Double-membrane vesicle	3203	2076	white	rectangle	function	0.5	black	46	17	NA	Double-membrane vesicle
+N-hsa938-sa2239_3	ACE2	3360	371.5	white	rectangle	function	0.5	black	46	17	NA	ACE2
+N-hsa938-sa2238_3	ACE2	3279	645	white	rectangle	function	0.5	black	46	17	NA	ACE2
+N-hsa938-sa2066_3	M	2440.58333333333	651.966961492455	white	rectangle	function	0.5	black	46	17	NA	M
+N-hsa938-sa2067_3	Orf7a	2339.45782726046	645.515924043062	white	rectangle	function	0.5	black	46	17	NA	Orf7a
+N-hsa938-sa2115_3	E	1950.56275303644	996.725518724696	white	rectangle	function	0.5	black	46	17	NA	E
+N-hsa938-sa2114_3	Orf7a	1943.43724696356	890.274481275304	white	rectangle	function	0.5	black	46	17	NA	Orf7a
+N-hsa938-sa2116_3	M	1938.56275303644	1190.7255187247	white	rectangle	function	0.5	black	46	17	NA	M
+N-hsa938-sa2297_3	Orf6 (-)ss sgmRNA	3325	2694.5	white	rectangle	function	0.5	black	46	17	NA	Orf6 (-)ss sgmRNA
+N-hsa938-sa2364_3	Nsp11	3876.57602339181	1777.2318452381	white	rectangle	function	0.5	black	46	17	NA	Nsp11
+N-hsa938-sa2296_3	Orf7a (-)ss sgmRNA	3327	2657.5	white	rectangle	function	0.5	black	46	17	NA	Orf7a (-)ss sgmRNA
+N-hsa938-sa2300_3	Orf9b (-)ss sgmRNA	3330	2819.5	white	rectangle	function	0.5	black	46	17	NA	Orf9b (-)ss sgmRNA
+N-hsa938-sa2355_3	N (-)ss sgmRNA	3324	2497.5	white	rectangle	function	0.5	black	46	17	NA	N (-)ss sgmRNA
+N-hsa938-sa1516_3	S1	1024	1138	white	rectangle	function	0.5	black	46	17	NA	S1
+N-hsa938-sa2292_3	M (-)ss sgmRNA	3327	2530.5	white	rectangle	function	0.5	black	46	17	NA	M (-)ss sgmRNA
+N-hsa938-sa2299_3	Orf8 (-)ss sgmRNA	3327	2775.5	white	rectangle	function	0.5	black	46	17	NA	Orf8 (-)ss sgmRNA
+N-hsa938-sa2298_3	Orf3a (-)ss sgmRNA	3325	2734.5	white	rectangle	function	0.5	black	46	17	NA	Orf3a (-)ss sgmRNA
+N-hsa938-sa2302_3	Orf7b (-)ss sgmRNA	3329	2892.5	white	rectangle	function	0.5	black	46	17	NA	Orf7b (-)ss sgmRNA
+N-hsa938-sa2251_3	Orf7b	5525.27153110048	2825.31818181818	white	rectangle	function	0.5	black	46	17	NA	Orf7b
+N-hsa938-sa2249_3	Orf9b	5338.60486443381	2825.31818181818	white	rectangle	function	0.5	black	46	17	NA	Orf9b
+N-hsa938-sa2246_3	Orf6	5072.60486443381	2825.31818181818	white	rectangle	function	0.5	black	46	17	NA	Orf6
+N-hsa938-sa2294_3	E (-)ss sgmRNA	3324	2568.5	white	rectangle	function	0.5	black	46	17	NA	E (-)ss sgmRNA
+N-hsa938-sa2301_3	Orf14 (-)ss sgmRNA	3325	2856.5	white	rectangle	function	0.5	black	46	17	NA	Orf14 (-)ss sgmRNA
+N-hsa938-sa2250_3	Orf14	5432.22986443381	2825.31818181818	white	rectangle	function	0.5	black	46	17	NA	Orf14
+N-hsa938-sa2295_3	S (-)ss sgmRNA	3332	2609.5	white	rectangle	function	0.5	black	46	17	NA	S (-)ss sgmRNA
+N-hsa938-sa2247_3	Orf3a	5163.27153110048	2825.31818181818	white	rectangle	function	0.5	black	46	17	NA	Orf3a
+N-hsa938-sa2248_3	Orf8	5252.27153110048	2825.31818181818	white	rectangle	function	0.5	black	46	17	NA	Orf8

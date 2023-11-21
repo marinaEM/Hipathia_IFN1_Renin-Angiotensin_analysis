@@ -1,0 +1,15 @@
+name	label	X	Y	color	shape	type	label.cex	label.color	width	height	genesList	tooltip
+N-hsa952-sa127	Ferroptosis	2752.3125	1705.375	white	rectangle	function	0.5	black	46	17	NA	Ferroptosis
+N-hsa952-csa11_3	Ferritin	2496.6875	1614.625	white	rectangle	function	0.5	black	46	17	NA	Ferritin
+N-hsa952-csa83_3	PSTPIP1 trimer:Pyrin trimer	4750.8125	578.375	white	rectangle	function	0.5	black	46	17	NA	PSTPIP1 trimer:Pyrin trimer
+N-hsa952-csa88_3	Pyrin trimer:ASC	4690.8125	685.875	white	rectangle	function	0.5	black	46	17	NA	Pyrin trimer:ASC
+N-hsa952-sa460_3	proIL-1B	3867.8125	1590.875	white	rectangle	function	0.5	black	46	17	NA	proIL-1B
+N-hsa952-sa461_3	proIL-18	3447.8125	1599.625	white	rectangle	function	0.5	black	46	17	NA	proIL-18
+N-hsa952-sa385_3	CASP1	4513.3125	1263.375	white	rectangle	function	0.5	black	46	17	NA	CASP1
+N-hsa952-sa382_3	CASP1	4510.8125	1315.875	white	rectangle	function	0.5	black	46	17	NA	CASP1
+N-hsa952-sa366_3	TXN	3905.0625	994.125	white	rectangle	function	0.5	black	46	17	NA	TXN
+N-hsa952-csa32_3	Ubiquitin Ligase Complex	414.1875	636.625	white	rectangle	function	0.5	black	46	17	NA	Ubiquitin Ligase Complex
+N-hsa952-sa249_3	NRF2	570.7875	834.825	white	rectangle	function	0.5	black	46	17	NA	NRF2
+N-hsa952-csa3_3	ALB/BIL	3050	2176	white	rectangle	function	0.5	black	46	17	NA	ALB/BIL
+N-hsa952-sa466_3	IL-1B	3710	2060	white	rectangle	function	0.5	black	46	17	NA	IL-1B
+N-hsa952-sa467_3	IL-18	3610	2060	white	rectangle	function	0.5	black	46	17	NA	IL-18

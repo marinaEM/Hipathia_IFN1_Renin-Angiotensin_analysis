@@ -1,0 +1,21 @@
+name	label	X	Y	color	shape	type	label.cex	label.color	width	height	genesList	tooltip
+N-hsa939-csa11	TGFB/TGFBR	163	842.5	white	rectangle	gene	0.5	black	46	17	7048/7046/7040	TGFB/TGFBR
+N-hsa939-sa7	LTBP1	60	774	white	rectangle	gene	0.5	black	46	17	4052	LTBP1
+N-hsa939-sa33	BAMBI	244	545	white	rectangle	gene	0.5	black	46	17	25805	BAMBI
+N-hsa939-sa72	Orf8	85	715	white	rectangle	gene	0.5	black	46	17	1489677	Orf8
+N-hsa939-csa3	SMAD1/5/8	704.4375	232.5625	white	rectangle	gene	0.5	black	46	17	4093/4090/4086	SMAD1/5/8
+N-hsa939-csa7	BMPR1/2/ACTR2	247	101	white	rectangle	gene	0.5	black	46	17	659/10097	BMPR1/2/ACTR2
+N-hsa939-sa18	MAPK3	520	480	white	rectangle	gene	0.5	black	46	17	5595	MAPK3
+N-hsa939-sa65	Orf3a	340	380	white	rectangle	gene	0.5	black	46	17	1489669	Orf3a
+N-hsa939-sa70	Nsp7b	715	130	white	rectangle	gene	0.5	black	46	17	1489675	Nsp7b
+N-hsa939-sa69	E	715	175	white	rectangle	gene	0.5	black	46	17	1489671	E
+N-hsa939-csa9	E3 ubiquitin ligase complex	652	1359.5	white	rectangle	gene	0.5	black	46	17	9978/8453/6921/6923	E3 ubiquitin ligase complex
+N-hsa939-csa5	SMAD2/3	604	1190	white	rectangle	gene	0.5	black	46	17	4088/4087	SMAD2/3
+N-hsa939-sa44	ACVR1	239	1155	white	rectangle	gene	0.5	black	46	17	90	ACVR1
+N-hsa939-sa45	ACVR1B	239	1100	white	rectangle	gene	0.5	black	46	17	91	ACVR1B
+N-hsa939-sa64	Nsp7b	175	1310	white	rectangle	gene	0.5	black	46	17	1489675	Nsp7b
+N-hsa939-csa16	PP2A	785	750	white	rectangle	gene	0.5	black	46	17	5515/5518	PP2A
+N-hsa939-sa84	Orf7a	705	680	white	rectangle	gene	0.5	black	46	17	1489674	Orf7a
+N-hsa939-sa76	Nsp7	700	994	white	rectangle	gene	0.5	black	46	17	1489675	Nsp7
+N-hsa939-sa38	RHOA	618.666666666667	936.166666666667	white	rectangle	gene	0.5	black	46	17	387	RHOA
+N-hsa939-sa40	RPS6KB1	905	808	white	rectangle	gene	0.5	black	46	17	6198	RPS6KB1

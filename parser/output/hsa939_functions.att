@@ -1,0 +1,4 @@
+name	label	X	Y	color	shape	type	label.cex	label.color	width	height	genesList	tooltip
+N-hsa939-sa55	Modulation of cell cycle	1271.5	743	white	rectangle	function	0.5	black	46	17	NA	Modulation of cell cycle
+N-hsa939-sa38_3	RHOA	818.666666666667	1136.16666666667	white	rectangle	function	0.5	black	46	17	NA	RHOA
+N-hsa939-sa40_3	RPS6KB1	1105	1008	white	rectangle	function	0.5	black	46	17	NA	RPS6KB1

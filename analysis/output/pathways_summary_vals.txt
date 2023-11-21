@@ -1,0 +1,17 @@
+Pathway_name	id_pathways	num_total_paths	num_significant_paths	percent_significant_paths	num_up_paths	percent_up_paths	num_down_paths	percent_down_paths
+Kynurenine synthesis pathway	hsa953	1	1	100	1	100	0	0
+Interferon 1 pathway	hsa936	3	2	66.67	2	66.67	0	0
+E protein interactions	hsa937	6	3	50	0	0	3	50
+Apoptosis pathway	hsa943	2	1	50	1	50	0	0
+Nsp4 and Nsp6 protein interactions	hsa934	11	5	45.45	0	0	5	45.45
+Renin-angiotensin pathway	hsa932	5	2	40	2	40	0	0
+Nsp9 protein interactions	hsa945	69	26	37.68	7	10.14	19	27.54
+JNK pathway	hsa940	4	1	25	0	0	1	25
+Orf3a protein interactions	hsa946	4	1	25	0	0	1	25
+PAMP signalling	hsa941	5	1	20	1	20	0	0
+HMOX1 pathway	hsa952	6	1	16.67	0	0	1	16.67
+Interferon lambda pathway	hsa950	8	1	12.5	1	12.5	0	0
+Coagulation pathway	hsa951	12	1	8.33	1	8.33	0	0
+TGFbeta signalling	hsa939	4	0	0	0	0	0	0
+Pyrimidine deprivation	hsa944	3	0	0	0	0	0	0
+NLRP3 inflammasome activation	hsa947	2	0	0	0	0	0	0

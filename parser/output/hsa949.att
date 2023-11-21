@@ -1,0 +1,58 @@
+name	label	X	Y	color	shape	type	label.cex	label.color	width	height	genesList	tooltip
+N-hsa949-csa5	Cul2 ubiquitin ligase	932	676.5	white	rectangle	gene	0.5	black	46	17	9978/6921/6923/79699/8453	Cul2 ubiquitin ligase
+N-hsa949-csa4	Cul2 ubiquitin ligase:substrate	1302	675.5	white	rectangle	gene	0.5	black	46	17	8453/6923/6921/79699/9978	Cul2 ubiquitin ligase:substrate
+N-hsa949-csa22	Cul2 ubiquitin ligase:N8	2882	675	white	rectangle	gene	0.5	black	46	17	8453/6923/6921/79699/9978/4738	Cul2 ubiquitin ligase:N8
+N-hsa949-csa23	CSN5	2291	1000	white	rectangle	gene	0.5	black	46	17	NA	CSN5
+N-hsa949-csa35	Cul2 ubiquitin ligase:Orf10	932	1334	white	rectangle	gene	0.5	black	46	17	9978/6921/6923/79699/8453	Cul2 ubiquitin ligase:Orf10
+N-hsa949-csa2	Zyg11B:EloBC	651	602.5	white	rectangle	gene	0.5	black	46	17	6923/6921/79699	Zyg11B:EloBC
+N-hsa949-csa3	Rbx1:Cul2	653	772.5	white	rectangle	gene	0.5	black	46	17	9978/8453	Rbx1:Cul2
+N-hsa949-csa32	Cul2 ubiquitin ligase:N8:Orf10:E2-Ub:substrate	2010	1333.5	white	rectangle	gene	0.5	black	46	17	8453/6923/6921/79699/9978/4738	Cul2 ubiquitin ligase:N8:Orf10:E2-Ub:substrate
+N-hsa949-csa20	Cul2 ubiquitin ligase:N8:substrate-Ub	2588	676	white	rectangle	gene	0.5	black	46	17	8453/6923/6921/79699/9978/4738	Cul2 ubiquitin ligase:N8:substrate-Ub
+N-hsa949-csa18	Cul2 ubiquitin ligase:N8:E2:substrate-Ub	2293	675	white	rectangle	gene	0.5	black	46	17	8453/6923/6921/79699/9978/4738	Cul2 ubiquitin ligase:N8:E2:substrate-Ub
+N-hsa949-csa1	ELOB:ELOC	652	397.5	white	rectangle	gene	0.5	black	46	17	6923/6921	ELOB:ELOC
+N-hsa949-sa19	ZYG11B	482	620.5	white	rectangle	gene	0.5	black	46	17	79699	ZYG11B
+N-hsa949-sa171	ubit_traget	2597	947.5	white	rectangle	gene	0.5	black	46	17	NA	ubit_traget
+N-hsa949-csa12	NAE:Pevonedistat	818	1848.5	white	rectangle	gene	0.5	black	46	17	8883/9039	NAE:Pevonedistat
+N-hsa949-csa9	NAE	640	1760	white	rectangle	gene	0.5	black	46	17	8883/9039	NAE
+N-hsa949-sa54	Pevonedistat	651	1909.5	white	rectangle	compound	0.5	black	46	17	NA	Pevonedistat
+N-hsa949-sa17	ELOB	482	380.5	white	rectangle	gene	0.5	black	46	17	6923	ELOB
+N-hsa949-sa18	ELOC	483	501.5	white	rectangle	gene	0.5	black	46	17	6921	ELOC
+N-hsa949-csa17	Cul2 ubiquitin ligase:N8:E2-Ub:substrate	2010	675	white	rectangle	gene	0.5	black	46	17	8453/6923/6921/79699/9978/4738	Cul2 ubiquitin ligase:N8:E2-Ub:substrate
+N-hsa949-csa15	Cul2 ubiquitin ligase:substrate	1662	675	white	rectangle	gene	0.5	black	46	17	8453/6923/6921/79699/9978/4738	Cul2 ubiquitin ligase:substrate
+N-hsa949-sa42	E2	1910.5	282	white	rectangle	gene	0.5	black	46	17	NA	E2
+N-hsa949-csa33	Cul2 ubiquitin ligase:N8:Orf10:substrate	1662	1333.5	white	rectangle	gene	0.5	black	46	17	6923/6921/79699/9978/4738/8453	Cul2 ubiquitin ligase:N8:Orf10:substrate
+N-hsa949-csa28	Cul2 ubiquitin ligase:N8:Orf10:0E2:substrate	2010	1579.5	white	rectangle	gene	0.5	black	46	17	8453/6923/6921/79699/9978/4738	Cul2 ubiquitin ligase:N8:Orf10:0E2:substrate
+N-hsa949-csa34	Cul2 ubiquitin ligase:Orf10:substrate	1302	1335	white	rectangle	gene	0.5	black	46	17	8453/6923/6921/79699/9978	Cul2 ubiquitin ligase:Orf10:substrate
+N-hsa949-csa14	UBE2M:NEDD8	1503	1600	white	rectangle	gene	0.5	black	46	17	9040/4738	UBE2M:NEDD8
+N-hsa949-sa23	E2	1673	284.5	white	rectangle	gene	0.5	black	46	17	NA	E2
+N-hsa949-csa29	Cul2 ubiquitin ligase:N8:Orf10	2882	1336.5	white	rectangle	gene	0.5	black	46	17	8453/6923/6921/79699/9978/4738	Cul2 ubiquitin ligase:N8:Orf10
+N-hsa949-csa30	Cul2 ubiquitin ligase:N8:Orf10:substrate-Ub	2588	1336.5	white	rectangle	gene	0.5	black	46	17	8453/6923/6921/79699/9978/4738	Cul2 ubiquitin ligase:N8:Orf10:substrate-Ub
+N-hsa949-csa11	NAE:NEDD8	818	1673.5	white	rectangle	gene	0.5	black	46	17	8883/9039/4738	NAE:NEDD8
+N-hsa949-sa102	UBE2M	1576	2124	white	rectangle	gene	0.5	black	46	17	9040	UBE2M
+N-hsa949-sa176	NAE1	483	1796.5	white	rectangle	gene	0.5	black	46	17	8883	NAE1
+N-hsa949-sa177	UBA3	483	1910.5	white	rectangle	gene	0.5	black	46	17	9039	UBA3
+N-hsa949-sa118	NEDD8	499	1697.5	white	rectangle	gene	0.5	black	46	17	4738	NEDD8
+N-hsa949-csa19	Cul2 ubiquitin ligase:N8:E2:substrate	2010	916	white	rectangle	gene	0.5	black	46	17	8453/6923/6921/79699/9978/4738	Cul2 ubiquitin ligase:N8:E2:substrate
+N-hsa949-sa55	Orf10	845	1067.5	white	rectangle	gene	0.5	black	46	17	NA	Orf10
+N-hsa949-sa20	RBX1	482	741.5	white	rectangle	gene	0.5	black	46	17	9978	RBX1
+N-hsa949-sa21	CUL2	496	874.5	white	rectangle	gene	0.5	black	46	17	8453	CUL2
+N-hsa949-sa175	UBA3	347	1918.5	white	rectangle	gene	0.5	black	46	17	9039	UBA3
+N-hsa949-sa12	RBX1	352	750	white	rectangle	gene	0.5	black	46	17	9978	RBX1
+N-hsa949-sa15	E2	353	266	white	rectangle	gene	0.5	black	46	17	NA	E2
+N-hsa949-sa16	DUB	334	1235	white	rectangle	gene	0.5	black	46	17	NA	DUB
+N-hsa949-sa24	DUB	2708	1222.5	white	rectangle	gene	0.5	black	46	17	NA	DUB
+N-hsa949-sa173	NEDD8	345	1697.5	white	rectangle	gene	0.5	black	46	17	4738	NEDD8
+N-hsa949-sa162	ubit_traget	2817	947.5	white	rectangle	gene	0.5	black	46	17	NA	ubit_traget
+N-hsa949-sa10	ELOC	352	510	white	rectangle	gene	0.5	black	46	17	6921	ELOC
+N-hsa949-sa11	ZYG11B	351	629	white	rectangle	gene	0.5	black	46	17	79699	ZYG11B
+N-hsa949-sa9	ELOB	353	389	white	rectangle	gene	0.5	black	46	17	6923	ELOB
+N-hsa949-sa41	E1	1909.5	128	white	rectangle	gene	0.5	black	46	17	NA	E1
+N-hsa949-sa22	E1	1672	129.5	white	rectangle	gene	0.5	black	46	17	NA	E1
+N-hsa949-sa43	Ub	1737	93	white	rectangle	compound	0.5	black	46	17	NA	Ub
+N-hsa949-sa44	ATP	1773	78	white	rectangle	compound	0.5	black	46	17	NA	ATP
+N-hsa949-sa255	UBE2M	348	2131.5	white	rectangle	gene	0.5	black	46	17	9040	UBE2M
+N-hsa949-sa14	E1	351	140	white	rectangle	gene	0.5	black	46	17	NA	E1
+N-hsa949-sa174	NAE1	344	1804.5	white	rectangle	gene	0.5	black	46	17	8883	NAE1
+N-hsa949-sa278	Orf10 (+)ss sgmRNA	628	1070.5	white	rectangle	gene	0.5	black	46	17	NA	Orf10 (+)ss sgmRNA
+N-hsa949-sa13	CUL2	352	933	white	rectangle	gene	0.5	black	46	17	8453	CUL2
+N-hsa949-csa31	Cul2 ubiquitin ligase:N8:Orf10:E2:substrate-Ub	2293	1336.5	white	rectangle	gene	0.5	black	46	17	8453/4738/9978/6921/6923/79699	Cul2 ubiquitin ligase:N8:Orf10:E2:substrate-Ub

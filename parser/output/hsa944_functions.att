@@ -1,0 +1,9 @@
+name	label	X	Y	color	shape	type	label.cex	label.color	width	height	genesList	tooltip
+N-hsa944-sa163	DNA damage	1331	1152	white	rectangle	function	0.5	black	46	17	NA	DNA damage
+N-hsa944-sa162	RTC and transcription pw	1800	486.5	white	rectangle	function	0.5	black	46	17	NA	RTC and transcription pw
+N-hsa944-sa177	HCoVs autophagy (WP4863)	2945	1240	white	rectangle	function	0.5	black	46	17	NA	HCoVs autophagy (WP4863)
+N-hsa944-sa176	Interferon 1 pathway	1995	37.5	white	rectangle	function	0.5	black	46	17	NA	Interferon 1 pathway
+N-hsa944-sa175	HCoVs Type I Ifn signalling(WP4868)	1635	67.5	white	rectangle	function	0.5	black	46	17	NA	HCoVs Type I Ifn signalling(WP4868)
+N-hsa944-sa178	HCoVs IFN induction WP4880	2300	75.5	white	rectangle	function	0.5	black	46	17	NA	HCoVs IFN induction WP4880
+N-hsa944-sa140	RNA biosynthesis	1795	595	white	rectangle	function	0.5	black	46	17	NA	RNA biosynthesis
+N-hsa944-sa142_3	DNA	1670	1122.5	white	rectangle	function	0.5	black	46	17	NA	DNA

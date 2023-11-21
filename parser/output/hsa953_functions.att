@@ -1,0 +1,6 @@
+name	label	X	Y	color	shape	type	label.cex	label.color	width	height	genesList	tooltip
+N-hsa953-sa35	Regulatory T-cell generation	2453	1221	white	rectangle	function	0.5	black	46	17	NA	Regulatory T-cell generation
+N-hsa953-sa375	T-cell apoptosis	2462.5	1398.75	white	rectangle	function	0.5	black	46	17	NA	T-cell apoptosis
+N-hsa953-sa376	Dendritic cell maturation	2445	1477.5	white	rectangle	function	0.5	black	46	17	NA	Dendritic cell maturation
+N-hsa953-sa374	Th1 cell cytokine production	2445	1677.5	white	rectangle	function	0.5	black	46	17	NA	Th1 cell cytokine production
+N-hsa953-sa371	Effector T-cell apoptosis	1655	347.5	white	rectangle	function	0.5	black	46	17	NA	Effector T-cell apoptosis

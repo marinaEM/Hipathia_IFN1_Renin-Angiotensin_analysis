@@ -1,0 +1,51 @@
+name	label	X	Y	color	shape	type	label.cex	label.color	width	height	genesList	tooltip
+N-hsa950-csa18	IKK-TBK1	723	499	white	rectangle	gene	0.5	black	46	17	3551/29110	IKK-TBK1
+N-hsa950-csa4	ISGF3	951	2408.25	white	rectangle	gene	0.5	black	46	17	6772/6773/10379	ISGF3
+N-hsa950-csa12	ISGF3 precursor	808	2007.25	white	rectangle	gene	0.5	black	46	17	6772/6773	ISGF3 precursor
+N-hsa950-sa10	IRF9	1063	2088	white	rectangle	gene	0.5	black	46	17	10379	IRF9
+N-hsa950-csa10	receptor complex	798	1593.25	white	rectangle	gene	0.5	black	46	17	282618/282616/282617/101180976/163702/3716/7297	receptor complex
+N-hsa950-csa9	receptor complex	388	1593.25	white	rectangle	gene	0.5	black	46	17	7297/3716/163702	receptor complex
+N-hsa950-csa60	Ifn lambda	637.394736842105	1404.94736842105	white	rectangle	gene	0.5	black	46	17	282618,282616,282617,101180976	Ifn lambda
+N-hsa950-sa97	IFN-III	662	1220	white	rectangle	gene	0.5	black	46	17	NA	IFN-III
+N-hsa950-csa44	80S ribosome	1647.5	2178.5	white	rectangle	gene	0.5	black	46	17	NA	80S ribosome
+N-hsa950-csa47	ribosomal 60S subunit	1890.25	2139	white	rectangle	gene	0.5	black	46	17	NA	ribosomal 60S subunit
+N-hsa950-csa48	ribosomal 40S subunit	1889.75	2178	white	rectangle	gene	0.5	black	46	17	NA	ribosomal 40S subunit
+N-hsa950-csa17	RIG-I-MAVS	1089.75	284	white	rectangle	gene	0.5	black	46	17	57506/23586/3551/29110	RIG-I-MAVS
+N-hsa950-csa23	RIG-I-mitoMAVS	876	245	white	rectangle	gene	0.5	black	46	17	23586/57506	RIG-I-mitoMAVS
+N-hsa950-sa70	Nsp1	1832	2323	white	rectangle	gene	0.5	black	46	17	1489680	Nsp1
+N-hsa950-sa45	SOCS1	1303	1958	white	rectangle	gene	0.5	black	46	17	8651	SOCS1
+N-hsa950-csa37	RIG-I:dsRNA	687.5	240	white	rectangle	gene	0.5	black	46	17	23586	RIG-I:dsRNA
+N-hsa950-csa36	RIG-I:dsRNA	494	269	white	rectangle	gene	0.5	black	46	17	23586	RIG-I:dsRNA
+N-hsa950-csa38	Riplet:TRIM25	622	93	white	rectangle	gene	0.5	black	46	17	7706/84282	Riplet:TRIM25
+N-hsa950-sa14	ISGs	1480.5	2306	white	rectangle	gene	0.5	black	46	17	NA	ISGs
+N-hsa950-csa21	RIG-I-MAVS	1793	410	white	rectangle	gene	0.5	black	46	17	23586/57506	RIG-I-MAVS
+N-hsa950-sa93	dsRNA	1948	356.5	white	rectangle	gene	0.5	black	46	17	NA	dsRNA
+N-hsa950-sa103	M	203	274	white	rectangle	gene	0.5	black	46	17	43740571	M
+N-hsa950-sa99	RIG-I	347	367.5	white	rectangle	gene	0.5	black	46	17	23586	RIG-I
+N-hsa950-sa100	MAVS	722	382	white	rectangle	gene	0.5	black	46	17	57506	MAVS
+N-hsa950-sa11	STAT3	693	2098	white	rectangle	gene	0.5	black	46	17	6774	STAT3
+N-hsa950-sa5	STAT1	818	1892.25	white	rectangle	gene	0.5	black	46	17	6772	STAT1
+N-hsa950-sa7	STAT2	923	1892.25	white	rectangle	gene	0.5	black	46	17	6773	STAT2
+N-hsa950-sa46	SOCS3	1083	1788	white	rectangle	gene	0.5	black	46	17	9021	SOCS3
+N-hsa950-csa41	p38-NFkB	1416.5	914	white	rectangle	gene	0.5	black	46	17	4791/4790/5600/6300/5603/1432/3661	p38-NFkB
+N-hsa950-sa89	IRF3	1311	923	white	rectangle	gene	0.5	black	46	17	3661	IRF3
+N-hsa950-sa101	PLPro	524	178	white	rectangle	gene	0.5	black	46	17	1489680	PLPro
+N-hsa950-sa88	IRF3	1212	609	white	rectangle	gene	0.5	black	46	17	3661	IRF3
+N-hsa950-sa96	IFN-III	965	1226.5	white	rectangle	gene	0.5	black	46	17	NA	IFN-III
+N-hsa950-sa92	IRF1	1693	1039	white	rectangle	gene	0.5	black	46	17	3659	IRF1
+N-hsa950-sa16	IFN-sensitive-response-element	1285.5	2511	white	rectangle	gene	0.5	black	46	17	NA	IFN-sensitive-response-element
+N-hsa950-sa125	dsRNA_vesicle	248	176.5	white	rectangle	gene	0.5	black	46	17	NA	dsRNA_vesicle
+N-hsa950-sa128	RNA	416	86.5	white	rectangle	gene	0.5	black	46	17	NA	RNA
+N-hsa950-sa76	viral RNA+N-methyl-Guanine	1553.5	274.5	white	rectangle	gene	0.5	black	46	17	NA	viral RNA+N-methyl-Guanine
+N-hsa950-sa81	nsp16	1679.5	298	white	rectangle	gene	0.5	black	46	17	NA	nsp16
+N-hsa950-sa75	viral RNA	1550.5	204.5	white	rectangle	gene	0.5	black	46	17	NA	viral RNA
+N-hsa950-sa80	nsp14	1679.5	231	white	rectangle	gene	0.5	black	46	17	NA	nsp14
+N-hsa950-csa14	Inhibited ISGF3 precursor	685	2203.25	white	rectangle	gene	0.5	black	46	17	6772/6773/6774	Inhibited ISGF3 precursor
+N-hsa950-csa34	receptor complex	1491	1593.125	white	rectangle	gene	0.5	black	46	17	282618/282616/282617/101180976/163702/3716/7297/8651	receptor complex
+N-hsa950-csa11	receptor complex	1233	1593.25	white	rectangle	gene	0.5	black	46	17	282618/282616/282617/101180976/163702/3716/7297/9021	receptor complex
+N-hsa950-csa16	inhibited 80S ribosome	1699.5	2431.5	white	rectangle	gene	0.5	black	46	17	1489680	inhibited 80S ribosome
+N-hsa950-csa53	IFNs	1976	1644	white	rectangle	gene	0.5	black	46	17	NA	IFNs
+N-hsa950-csa59	antiviral proteins	1807.05263157895	1645.55263157895	white	rectangle	gene	0.5	black	46	17	NA	antiviral proteins
+N-hsa950-csa15	inhibited ribosomal 40S SU	1938	2236	white	rectangle	gene	0.5	black	46	17	1489680	inhibited ribosomal 40S SU
+N-hsa950-csa35	RIG-1 M-Protein	190	407	white	rectangle	gene	0.5	black	46	17	23586/43740571	RIG-1 M-Protein
+N-hsa950-sa77	5'cap-viral-RNA	1554.5	340.5	white	rectangle	gene	0.5	black	46	17	NA	5'cap-viral-RNA

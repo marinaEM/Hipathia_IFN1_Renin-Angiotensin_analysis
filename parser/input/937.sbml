@@ -1,0 +1,2500 @@
+<?xml version='1.0' encoding='utf-8'?>
+<sbml xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" level="3" version="1" layout:required="false" xmlns="http://www.sbml.org/sbml/level3/version1/core" qual:required="true" xmlns:layout="http://www.sbml.org/sbml/level3/version1/layout/version1" xmlns:qual="http://www.sbml.org/sbml/level3/version1/qual/version1"><model id="model_id"><listOfCompartments><compartment constant="true" id="comp1" /></listOfCompartments><layout:listOfLayouts><layout:layout id="layout1"><layout:dimensions width="3490" height="1584" /><layout:listOfAdditionalGraphicalObjects><layout:generalGlyph layout:reference="csa7" layout:id="csa7_glyph"><layout:boundingBox><layout:position layout:x="747.5" layout:y="1214.5" /><layout:dimensions layout:height="86.0" layout:width="272.0" /></layout:boundingBox></layout:generalGlyph><layout:generalGlyph layout:reference="csa3" layout:id="csa3_glyph"><layout:boundingBox><layout:position layout:x="567.5" layout:y="1032.5" /><layout:dimensions layout:height="120.0" layout:width="100.0" /></layout:boundingBox></layout:generalGlyph><layout:generalGlyph layout:reference="csa4" layout:id="csa4_glyph"><layout:boundingBox><layout:position layout:x="2129.5259740259744" layout:y="1187.1428571428573" /><layout:dimensions layout:height="147.0" layout:width="170.0" /></layout:boundingBox></layout:generalGlyph><layout:generalGlyph layout:reference="csa2" layout:id="csa2_glyph"><layout:boundingBox><layout:position layout:x="1176.7759740259744" layout:y="435.1428571428569" /><layout:dimensions layout:height="200.0" layout:width="184.5" /></layout:boundingBox></layout:generalGlyph><layout:generalGlyph layout:reference="csa10" layout:id="csa10_glyph"><layout:boundingBox><layout:position layout:x="2846.5" layout:y="1168.0" /><layout:dimensions layout:height="220.0" layout:width="202.0" /></layout:boundingBox></layout:generalGlyph><layout:generalGlyph layout:reference="csa8" layout:id="csa8_glyph"><layout:boundingBox><layout:position layout:x="1799.4740259740256" layout:y="283.3571428571431" /><layout:dimensions layout:height="120.0" layout:width="100.0" /></layout:boundingBox></layout:generalGlyph><layout:generalGlyph layout:reference="csa1" layout:id="csa1_glyph"><layout:boundingBox><layout:position layout:x="1458.7759740259744" layout:y="434.1428571428569" /><layout:dimensions layout:height="200.0" layout:width="184.5" /></layout:boundingBox></layout:generalGlyph><layout:generalGlyph layout:reference="sa13" layout:id="sa13_glyph"><layout:boundingBox><layout:position layout:x="1299.0259740259744" layout:y="163.14285714285688" /><layout:dimensions layout:height="40.0" layout:width="80.0" /></layout:boundingBox></layout:generalGlyph><layout:generalGlyph layout:reference="sa17" layout:id="sa17_glyph"><layout:boundingBox><layout:position layout:x="1590.0" layout:y="775.0" /><layout:dimensions layout:height="40.0" layout:width="80.0" /></layout:boundingBox></layout:generalGlyph><layout:generalGlyph layout:reference="sa33" layout:id="sa33_glyph"><layout:boundingBox><layout:position layout:x="629.5259740259744" layout:y="1236.0519480519483" /><layout:dimensions layout:height="40.0" layout:width="80.0" /></layout:boundingBox></layout:generalGlyph><layout:generalGlyph layout:reference="sa12" layout:id="sa12_glyph"><layout:boundingBox><layout:position layout:x="1231.0259740259744" layout:y="234.14285714285688" /><layout:dimensions layout:height="40.0" layout:width="80.0" /></layout:boundingBox></layout:generalGlyph><layout:generalGlyph layout:reference="sa1" layout:id="sa1_glyph"><layout:boundingBox><layout:position layout:x="935.0" layout:y="384.32653061224164" /><layout:dimensions layout:height="40.0" layout:width="80.0" /></layout:boundingBox></layout:generalGlyph><layout:generalGlyph layout:reference="sa79" layout:id="sa79_glyph"><layout:boundingBox><layout:position layout:x="1235.0" layout:y="678.5" /><layout:dimensions layout:height="25.0" layout:width="70.0" /></layout:boundingBox></layout:generalGlyph><layout:generalGlyph layout:reference="sa21" layout:id="sa21_glyph"><layout:boundingBox><layout:position layout:x="1370.5259740259744" layout:y="717.1428571428569" /><layout:dimensions layout:height="40.0" layout:width="80.0" /></layout:boundingBox></layout:generalGlyph><layout:generalGlyph layout:reference="sa73" layout:id="sa73_glyph"><layout:boundingBox><layout:position layout:x="2322.5" layout:y="1432.5" /><layout:dimensions layout:height="100.0" layout:width="570.0" /></layout:boundingBox></layout:generalGlyph><layout:generalGlyph layout:reference="sa7" layout:id="sa7_glyph"><layout:boundingBox><layout:position layout:x="935.0" layout:y="600.4489795918389" /><layout:dimensions layout:height="40.0" layout:width="80.0" /></layout:boundingBox></layout:generalGlyph><layout:generalGlyph layout:reference="sa32" layout:id="sa32_glyph"><layout:boundingBox><layout:position layout:x="177.5259740259744" layout:y="1073.0519480519479" /><layout:dimensions layout:height="40.0" layout:width="80.0" /></layout:boundingBox></layout:generalGlyph><layout:generalGlyph layout:reference="sa15" layout:id="sa15_glyph"><layout:boundingBox><layout:position layout:x="1625.0" layout:y="300.0" /><layout:dimensions layout:height="40.0" layout:width="80.0" /></layout:boundingBox></layout:generalGlyph><layout:generalGlyph layout:reference="sa11" layout:id="sa11_glyph"><layout:boundingBox><layout:position layout:x="1461.0" layout:y="351.0" /><layout:dimensions layout:height="40.0" layout:width="80.0" /></layout:boundingBox></layout:generalGlyph><layout:generalGlyph layout:reference="sa30" layout:id="sa30_glyph"><layout:boundingBox><layout:position layout:x="280.0714285714289" layout:y="1234.9610389610389" /><layout:dimensions layout:height="40.0" layout:width="80.0" /></layout:boundingBox></layout:generalGlyph><layout:generalGlyph layout:reference="sa24" layout:id="sa24_glyph"><layout:boundingBox><layout:position layout:x="1982.5259740259744" layout:y="1234.1428571428573" /><layout:dimensions layout:height="40.0" layout:width="80.0" /></layout:boundingBox></layout:generalGlyph><layout:generalGlyph layout:reference="sa34" layout:id="sa34_glyph"><layout:boundingBox><layout:position layout:x="537.5259740259744" layout:y="1234.0519480519483" /><layout:dimensions layout:height="40.0" layout:width="80.0" /></layout:boundingBox></layout:generalGlyph><layout:generalGlyph layout:reference="sa25" layout:id="sa25_glyph"><layout:boundingBox><layout:position layout:x="1858.071428571429" layout:y="1221.3246753246754" /><layout:dimensions layout:height="52.0" layout:width="92.0" /></layout:boundingBox></layout:generalGlyph><layout:generalGlyph layout:reference="sa67" layout:id="sa67_glyph"><layout:boundingBox><layout:position layout:x="3113.0" layout:y="1468.0" /><layout:dimensions layout:height="25.0" layout:width="25.0" /></layout:boundingBox></layout:generalGlyph><layout:generalGlyph layout:reference="sa66" layout:id="sa66_glyph"><layout:boundingBox><layout:position layout:x="3230.0" layout:y="1110.0" /><layout:dimensions layout:height="25.0" layout:width="25.0" /></layout:boundingBox></layout:generalGlyph><layout:generalGlyph layout:reference="sa5" layout:id="sa5_glyph"><layout:boundingBox><layout:position layout:x="935.0" layout:y="557.2244897959195" /><layout:dimensions layout:height="40.0" layout:width="80.0" /></layout:boundingBox></layout:generalGlyph><layout:generalGlyph layout:reference="sa2" layout:id="sa2_glyph"><layout:boundingBox><layout:position layout:x="935.0" layout:y="427.5510204081611" /><layout:dimensions layout:height="40.0" layout:width="80.0" /></layout:boundingBox></layout:generalGlyph><layout:generalGlyph layout:reference="sa3" layout:id="sa3_glyph"><layout:boundingBox><layout:position layout:x="935.0" layout:y="342.673469387757" /><layout:dimensions layout:height="40.0" layout:width="80.0" /></layout:boundingBox></layout:generalGlyph><layout:generalGlyph layout:reference="sa77" layout:id="sa77_glyph"><layout:boundingBox><layout:position layout:x="1780.0" layout:y="455.0" /><layout:dimensions layout:height="50.0" layout:width="330.0" /></layout:boundingBox></layout:generalGlyph><layout:generalGlyph layout:reference="sa78" layout:id="sa78_glyph"><layout:boundingBox><layout:position layout:x="1585.0" layout:y="680.0" /><layout:dimensions layout:height="50.0" layout:width="200.0" /></layout:boundingBox></layout:generalGlyph><layout:generalGlyph layout:reference="sa26" layout:id="sa26_glyph"><layout:boundingBox><layout:position layout:x="1710.0259740259744" layout:y="1289.6428571428573" /><layout:dimensions layout:height="25.0" layout:width="25.0" /></layout:boundingBox></layout:generalGlyph><layout:generalGlyph layout:reference="sa8" layout:id="sa8_glyph"><layout:boundingBox><layout:position layout:x="935.0" layout:y="470.77551020408055" /><layout:dimensions layout:height="40.0" layout:width="80.0" /></layout:boundingBox></layout:generalGlyph><layout:generalGlyph layout:reference="sa6" layout:id="sa6_glyph"><layout:boundingBox><layout:position layout:x="935.0" layout:y="643.673469387757" /><layout:dimensions layout:height="40.0" layout:width="80.0" /></layout:boundingBox></layout:generalGlyph><layout:generalGlyph layout:reference="sa74" layout:id="sa74_glyph"><layout:boundingBox><layout:position layout:x="703.5" layout:y="1399.5" /><layout:dimensions layout:height="96.0" layout:width="498.0" /></layout:boundingBox></layout:generalGlyph><layout:generalGlyph layout:reference="sa9" layout:id="sa9_glyph"><layout:boundingBox><layout:position layout:x="935.0" layout:y="514.0" /><layout:dimensions layout:height="40.0" layout:width="80.0" /></layout:boundingBox></layout:generalGlyph></layout:listOfAdditionalGraphicalObjects></layout:layout></layout:listOfLayouts><qual:listOfQualitativeSpecies><qual:qualitativeSpecies qual:maxLevel="1" qual:compartment="comp1" qual:name="CRB3:PALS1:PATJ_space_complex_complex" qual:constant="false" qual:id="csa7"><annotation><rdf:RDF>
+<rdf:Description rdf:about="#s_id_csa7">
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:refseq:NM_170605" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:10207" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ensembl:ENSG00000132849" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:Q8NI35" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:Q8NI35" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:PATJ" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:PATJ" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc:28881" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc:20237" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ensembl:ENSG00000130545" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:92359" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:92359" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:Q9BUF7" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:Q9BUF7" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:CRB3" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:CRB3" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:refseq:NM_139161" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc:18669" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:64398" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:refseq:NM_022474" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:64398" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ensembl:ENSG00000072415" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:MPP5" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:MPP5" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:Q8N3R9" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:Q8N3R9" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:function:CRB3&amp;PATJ&amp;MPP5" /></rdf:Bag></bqbiol:isDescribedBy><bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:cdid:s_id_csa7" /></rdf:Bag></bqbiol:isDescribedBy></rdf:Description>
+</rdf:RDF>
+</annotation></qual:qualitativeSpecies><qual:qualitativeSpecies qual:maxLevel="1" qual:compartment="comp1" qual:name="E-PALS1_complex" qual:constant="false" qual:id="csa3"><annotation><rdf:RDF>
+<rdf:Description rdf:about="#s_id_csa3">
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc:18669" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:64398" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:refseq:NM_022474" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:64398" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ensembl:ENSG00000072415" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:MPP5" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:PALS1" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:Q8N3R9" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:Q8N3R9" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isEncodedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbiprotein:BCD58755" />
+</rdf:Bag>
+</bqbiol:isEncodedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:E" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:function:E_cell&amp;MPP5" /></rdf:Bag></bqbiol:isDescribedBy><bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:cdid:s_id_csa3" /></rdf:Bag></bqbiol:isDescribedBy></rdf:Description>
+</rdf:RDF>
+</annotation></qual:qualitativeSpecies><qual:qualitativeSpecies qual:maxLevel="1" qual:compartment="comp1" qual:name="ASIC1_space_trimer:H+:STOML3_complex" qual:constant="false" qual:id="csa4"><annotation><rdf:RDF>
+<rdf:Description rdf:about="#s_id_csa4">
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ensembl:ENSG00000133115" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:161003" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:161003" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc:19420" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:STOML3" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:Q8TAV4" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:Q8TAV4" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:STOML3" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:refseq:NM_001144033" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:ASIC1" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:ASIC1" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ensembl:ENSG00000110881" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:P78348" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:P78348" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:41" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:41" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:refseq:NM_020039" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc:100" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:function:ASIC1&amp;STOML3&amp;!E_cell" /></rdf:Bag></bqbiol:isDescribedBy><bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:cdid:s_id_csa4" /></rdf:Bag></bqbiol:isDescribedBy></rdf:Description>
+</rdf:RDF>
+</annotation></qual:qualitativeSpecies><qual:qualitativeSpecies qual:maxLevel="1" qual:compartment="comp1" qual:name="histone_complex_nucleus" qual:constant="false" qual:id="csa2"><annotation><rdf:RDF>
+<rdf:Description rdf:about="#s_id_csa2">
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:8350" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:P68431" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:P68431" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:8350" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc:4766" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:refseq:NM_003529" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:H3C1" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ensembl:ENSG00000275714" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:H3C1" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource" />
+<bqmodel:is>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:interpro:IPR002119" />
+</rdf:Bag>
+</bqmodel:is>
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc:4794" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:8370" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ensembl:ENSG00000270882" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:P62805" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:P62805" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:refseq:NM_003548" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:H4C1" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:121504" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:H4C14" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:H3C15" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:H3C15" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:333932" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:126961" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc:20505" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:Q71DI3" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:Q71DI3" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ensembl:ENSG00000203852" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:refseq:NM_001005464" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc:4760" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:H2BC21" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:H2BC21" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ensembl:ENSG00000184678" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:refseq:NM_003528" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:Q16778" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:Q16778" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:8349" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:8349" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ensembl:ENSG00000197837" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc:20510" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:refseq:NM_175054" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:H4-16" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:P62805" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:P62805" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:H4C1" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:121504" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:121504" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ensembl:ENSG00000278637" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc:4781" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:8359" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:P62805" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:P62805" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:H4C1" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:refseq:NM_003538" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:H4C1" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:121504" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc:4793" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:8294" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ensembl:ENSG00000276180" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:H4C9" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:refseq:NM_003495" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:P62805" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:P62805" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:H4C1" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:121504" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:function:H4C14&amp;H4-16&amp;H4C1&amp;H3C15&amp;H3C1&amp;H4C9&amp;H2BC21&amp;H2A" /></rdf:Bag></bqbiol:isDescribedBy><bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:cdid:s_id_csa2" /></rdf:Bag></bqbiol:isDescribedBy></rdf:Description>
+</rdf:RDF>
+</annotation></qual:qualitativeSpecies><qual:qualitativeSpecies qual:maxLevel="1" qual:compartment="comp1" qual:name="ATP1A:ATP1B:FXYDs_complex" qual:constant="false" qual:id="csa10"><annotation><rdf:RDF>
+<rdf:Description rdf:about="#s_id_csa10">
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc:799" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:P05023" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:P05023" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ensembl:ENSG00000163399" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:refseq:NM_001160233" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:ATP1A1" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:ATP1A1" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ec-code:7.2.2.13" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:476" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:476" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:P05026" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:P05026" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc:804" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:ATP1B1" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ensembl:ENSG00000143153" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:ATP1B1" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:refseq:NM_001677" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:481" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:481" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource" />
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc:799" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:P05023" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:P05023" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ensembl:ENSG00000163399" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:refseq:NM_001160233" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:ATP1A1" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:ATP1A1" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ec-code:7.2.2.13" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:476" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:476" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:P05026" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:P05026" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc:804" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:ATP1B1" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ensembl:ENSG00000143153" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:ATP1B1" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:refseq:NM_001677" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:481" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:481" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:function:!E_cell" /></rdf:Bag></bqbiol:isDescribedBy><bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:cdid:s_id_csa10" /></rdf:Bag></bqbiol:isDescribedBy></rdf:Description>
+</rdf:RDF>
+</annotation></qual:qualitativeSpecies><qual:qualitativeSpecies qual:maxLevel="1" qual:compartment="comp1" qual:name="P-TEFb_complex" qual:constant="false" qual:id="csa8"><annotation><rdf:RDF>
+<rdf:Description rdf:about="#s_id_csa8">
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ec-code:2.7.11.23" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc:1780" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ensembl:ENSG00000136807" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ec-code:2.7.11.22" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:refseq:NM_001261" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:P50750" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:P50750" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:CDK9" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:CDK9" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:1025" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:1025" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:CCNT1" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:CCNT1" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:refseq:NM_001240" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ensembl:ENSG00000129315" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc:1599" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:904" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:904" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:O60563" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:O60563" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:function:CDK9&amp;CCNT1" /></rdf:Bag></bqbiol:isDescribedBy><bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:cdid:s_id_csa8" /></rdf:Bag></bqbiol:isDescribedBy></rdf:Description>
+</rdf:RDF>
+</annotation></qual:qualitativeSpecies><qual:qualitativeSpecies qual:maxLevel="1" qual:compartment="comp1" qual:name="histone_complex_nucleus" qual:constant="false" qual:id="csa1"><annotation><rdf:RDF>
+<rdf:Description rdf:about="#s_id_csa1">
+<dcterms:modified rdf:parseType="Resource" />
+<bqmodel:is>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:interpro:IPR002119" />
+</rdf:Bag>
+</bqmodel:is>
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:H3C15" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:H3C15" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:333932" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:126961" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc:20505" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:Q71DI3" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:Q71DI3" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ensembl:ENSG00000203852" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:refseq:NM_001005464" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ensembl:ENSG00000197837" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc:20510" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:refseq:NM_175054" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:H4-16" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:P62805" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:P62805" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:H4C1" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:121504" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:121504" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc:4794" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:8370" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ensembl:ENSG00000270882" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:P62805" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:P62805" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:refseq:NM_003548" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:H4C1" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:121504" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:H4C14" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc:4793" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:8294" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ensembl:ENSG00000276180" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:H4C9" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:refseq:NM_003495" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:P62805" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:P62805" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:H4C1" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:121504" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc:4760" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:H2BC21" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:H2BC21" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ensembl:ENSG00000184678" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:refseq:NM_003528" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:Q16778" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:Q16778" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:8349" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:8349" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:8350" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:P68431" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:P68431" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:8350" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc:4766" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:refseq:NM_003529" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:H3C1" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ensembl:ENSG00000275714" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:H3C1" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ensembl:ENSG00000278637" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc:4781" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:8359" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:P62805" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:P62805" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:H4C1" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:refseq:NM_003538" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:H4C1" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:121504" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:function:BRD2|BRD4&amp;histone_complex_nucleus" /></rdf:Bag></bqbiol:isDescribedBy><bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:cdid:s_id_csa1" /></rdf:Bag></bqbiol:isDescribedBy></rdf:Description>
+</rdf:RDF>
+</annotation></qual:qualitativeSpecies><qual:qualitativeSpecies qual:maxLevel="1" qual:compartment="comp1" qual:name="E_nucleus" qual:constant="true" qual:id="sa13"><annotation><rdf:RDF>
+<rdf:Description rdf:about="#s_id_sa13">
+<bqbiol:isEncodedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbiprotein:BCD58755" />
+</rdf:Bag>
+</bqbiol:isEncodedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:E" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:function:E_nucleus" /></rdf:Bag></bqbiol:isDescribedBy><bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:cdid:s_id_sa13" /></rdf:Bag></bqbiol:isDescribedBy></rdf:Description>
+</rdf:RDF>
+</annotation></qual:qualitativeSpecies><qual:qualitativeSpecies qual:maxLevel="1" qual:compartment="comp1" qual:name="TBP" qual:constant="false" qual:id="sa17"><annotation><rdf:RDF>
+<rdf:Description rdf:about="#s_id_sa17">
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ensembl:ENSG00000112592" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:6908" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:6908" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:P20226" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:P20226" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc:11588" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:TBP" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:TBP" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:refseq:NM_003194" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:function:TBP&amp;BRD2" /></rdf:Bag></bqbiol:isDescribedBy><bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:cdid:s_id_sa17" /></rdf:Bag></bqbiol:isDescribedBy></rdf:Description>
+</rdf:RDF>
+</annotation></qual:qualitativeSpecies><qual:qualitativeSpecies qual:maxLevel="1" qual:compartment="comp1" qual:name="PATJ" qual:constant="false" qual:id="sa33"><annotation><rdf:RDF>
+<rdf:Description rdf:about="#s_id_sa33">
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:refseq:NM_170605" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:10207" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ensembl:ENSG00000132849" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:Q8NI35" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:Q8NI35" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:PATJ" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:PATJ" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc:28881" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:function:PATJ" /></rdf:Bag></bqbiol:isDescribedBy><bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:cdid:s_id_sa33" /></rdf:Bag></bqbiol:isDescribedBy></rdf:Description>
+</rdf:RDF>
+</annotation></qual:qualitativeSpecies><qual:qualitativeSpecies qual:maxLevel="1" qual:compartment="comp1" qual:name="BRD4" qual:constant="false" qual:id="sa12"><annotation><rdf:RDF>
+<rdf:Description rdf:about="#s_id_sa12">
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:23476" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:23476" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc:13575" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:refseq:NM_058243" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:BRD4" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:O60885" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:O60885" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:BRD4" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ensembl:ENSG00000141867" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:function:BRD4&amp;!E_nucleus" /></rdf:Bag></bqbiol:isDescribedBy><bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:cdid:s_id_sa12" /></rdf:Bag></bqbiol:isDescribedBy></rdf:Description>
+</rdf:RDF>
+</annotation></qual:qualitativeSpecies><qual:qualitativeSpecies qual:maxLevel="1" qual:compartment="comp1" qual:name="H3C1" qual:constant="true" qual:id="sa1"><annotation><rdf:RDF>
+<rdf:Description rdf:about="#s_id_sa1">
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:8350" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:P68431" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:P68431" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:8350" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc:4766" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:refseq:NM_003529" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:H3C1" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ensembl:ENSG00000275714" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:H3C1" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:function:H3C1" /></rdf:Bag></bqbiol:isDescribedBy><bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:cdid:s_id_sa1" /></rdf:Bag></bqbiol:isDescribedBy></rdf:Description>
+</rdf:RDF>
+</annotation></qual:qualitativeSpecies><qual:qualitativeSpecies qual:maxLevel="1" qual:compartment="comp1" qual:name="JQ-1_simple_molecule" qual:constant="true" qual:id="sa79"><annotation><rdf:RDF>
+<rdf:Description rdf:about="#s_id_sa79">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:pubchem.compound:46907787" />
+</rdf:Bag>
+</bqbiol:is>
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:function:JQ-1_simple_molecule" /></rdf:Bag></bqbiol:isDescribedBy><bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:cdid:s_id_sa79" /></rdf:Bag></bqbiol:isDescribedBy></rdf:Description>
+</rdf:RDF>
+</annotation></qual:qualitativeSpecies><qual:qualitativeSpecies qual:maxLevel="1" qual:compartment="comp1" qual:name="BRD2" qual:constant="false" qual:id="sa21"><annotation><rdf:RDF>
+<rdf:Description rdf:about="#s_id_sa21">
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:refseq:NM_001113182" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc:1103" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:P25440" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:P25440" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:6046" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:6046" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ensembl:ENSG00000204256" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:BRD2" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:BRD2" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:function:BRD2&amp;!JQ-1_simple_molecule&amp;!E_nucleus" /></rdf:Bag></bqbiol:isDescribedBy><bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:cdid:s_id_sa21" /></rdf:Bag></bqbiol:isDescribedBy></rdf:Description>
+</rdf:RDF>
+</annotation></qual:qualitativeSpecies><qual:qualitativeSpecies qual:maxLevel="1" qual:compartment="comp1" qual:name="Activity_space_of_space_sodium_space_channels_phenotype" qual:constant="false" qual:id="sa73"><annotation><rdf:RDF>
+<rdf:Description rdf:about="#s_id_sa73">
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:function:ATP1A:ATP1B:FXYDs_complex|ASIC1_space_trimer:H+:STOML3_complex|!STOML3" /></rdf:Bag></bqbiol:isDescribedBy><bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:cdid:s_id_sa73" /></rdf:Bag></bqbiol:isDescribedBy></rdf:Description>
+</rdf:RDF>
+</annotation></qual:qualitativeSpecies><qual:qualitativeSpecies qual:maxLevel="1" qual:compartment="comp1" qual:name="H2BC21" qual:constant="true" qual:id="sa7"><annotation><rdf:RDF>
+<rdf:Description rdf:about="#s_id_sa7">
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc:4760" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:H2BC21" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:H2BC21" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ensembl:ENSG00000184678" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:refseq:NM_003528" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:Q16778" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:Q16778" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:8349" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:8349" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:function:H2BC21" /></rdf:Bag></bqbiol:isDescribedBy><bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:cdid:s_id_sa7" /></rdf:Bag></bqbiol:isDescribedBy></rdf:Description>
+</rdf:RDF>
+</annotation></qual:qualitativeSpecies><qual:qualitativeSpecies qual:maxLevel="1" qual:compartment="comp1" qual:name="E_cell" qual:constant="true" qual:id="sa32"><annotation><rdf:RDF>
+<rdf:Description rdf:about="#s_id_sa32">
+<bqbiol:isEncodedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbiprotein:BCD58755" />
+</rdf:Bag>
+</bqbiol:isEncodedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:E" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:function:E_cell" /></rdf:Bag></bqbiol:isDescribedBy><bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:cdid:s_id_sa32" /></rdf:Bag></bqbiol:isDescribedBy></rdf:Description>
+</rdf:RDF>
+</annotation></qual:qualitativeSpecies><qual:qualitativeSpecies qual:maxLevel="1" qual:compartment="comp1" qual:name="CDK9" qual:constant="false" qual:id="sa15"><annotation><rdf:RDF>
+<rdf:Description rdf:about="#s_id_sa15">
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ec-code:2.7.11.23" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc:1780" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ensembl:ENSG00000136807" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ec-code:2.7.11.22" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:refseq:NM_001261" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:P50750" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:P50750" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:CDK9" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:CDK9" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:1025" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:1025" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:function:CDK9&amp;BRD4" /></rdf:Bag></bqbiol:isDescribedBy><bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:cdid:s_id_sa15" /></rdf:Bag></bqbiol:isDescribedBy></rdf:Description>
+</rdf:RDF>
+</annotation></qual:qualitativeSpecies><qual:qualitativeSpecies qual:maxLevel="1" qual:compartment="comp1" qual:name="CCNT1" qual:constant="false" qual:id="sa11"><annotation><rdf:RDF>
+<rdf:Description rdf:about="#s_id_sa11">
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:CCNT1" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:CCNT1" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:refseq:NM_001240" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ensembl:ENSG00000129315" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc:1599" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:904" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:904" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:O60563" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:O60563" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:function:CCNT1&amp;BRD4" /></rdf:Bag></bqbiol:isDescribedBy><bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:cdid:s_id_sa11" /></rdf:Bag></bqbiol:isDescribedBy></rdf:Description>
+</rdf:RDF>
+</annotation></qual:qualitativeSpecies><qual:qualitativeSpecies qual:maxLevel="1" qual:compartment="comp1" qual:name="MPP5" qual:constant="false" qual:id="sa30"><annotation><rdf:RDF>
+<rdf:Description rdf:about="#s_id_sa30">
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc:18669" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:64398" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:refseq:NM_022474" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:64398" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ensembl:ENSG00000072415" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:MPP5" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:PALS1" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:Q8N3R9" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:Q8N3R9" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:function:MPP5" /></rdf:Bag></bqbiol:isDescribedBy><bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:cdid:s_id_sa30" /></rdf:Bag></bqbiol:isDescribedBy></rdf:Description>
+</rdf:RDF>
+</annotation></qual:qualitativeSpecies><qual:qualitativeSpecies qual:maxLevel="1" qual:compartment="comp1" qual:name="STOML3" qual:constant="true" qual:id="sa24"><annotation><rdf:RDF>
+<rdf:Description rdf:about="#s_id_sa24">
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ensembl:ENSG00000133115" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:161003" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:161003" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc:19420" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:STOML3" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:Q8TAV4" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:Q8TAV4" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:STOML3" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:refseq:NM_001144033" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:function:STOML3" /></rdf:Bag></bqbiol:isDescribedBy><bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:cdid:s_id_sa24" /></rdf:Bag></bqbiol:isDescribedBy></rdf:Description>
+</rdf:RDF>
+</annotation></qual:qualitativeSpecies><qual:qualitativeSpecies qual:maxLevel="1" qual:compartment="comp1" qual:name="CRB3" qual:constant="false" qual:id="sa34"><annotation><rdf:RDF>
+<rdf:Description rdf:about="#s_id_sa34">
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc:20237" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ensembl:ENSG00000130545" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:92359" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:92359" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:Q9BUF7" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:Q9BUF7" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:CRB3" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:CRB3" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:refseq:NM_139161" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:function:CRB3" /></rdf:Bag></bqbiol:isDescribedBy><bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:cdid:s_id_sa34" /></rdf:Bag></bqbiol:isDescribedBy></rdf:Description>
+</rdf:RDF>
+</annotation></qual:qualitativeSpecies><qual:qualitativeSpecies qual:maxLevel="1" qual:compartment="comp1" qual:name="ASIC1" qual:constant="false" qual:id="sa25"><annotation><rdf:RDF>
+<rdf:Description rdf:about="#s_id_sa25">
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:ASIC1" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:ASIC1" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ensembl:ENSG00000110881" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:P78348" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:P78348" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:41" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:41" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:refseq:NM_020039" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc:100" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:ASIC1" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:ASIC1" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ensembl:ENSG00000110881" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:P78348" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:P78348" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:41" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:41" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:refseq:NM_020039" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc:100" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:function:H+_ion" /></rdf:Bag></bqbiol:isDescribedBy><bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:cdid:s_id_sa25" /></rdf:Bag></bqbiol:isDescribedBy></rdf:Description>
+</rdf:RDF>
+</annotation></qual:qualitativeSpecies><qual:qualitativeSpecies qual:maxLevel="1" qual:compartment="comp1" qual:name="Na+_ion" qual:constant="false" qual:id="sa67"><annotation><rdf:RDF>
+<rdf:Description rdf:about="#s_id_sa67">
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:obo.chebi:CHEBI%3A29101" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:obo.chebi:CHEBI%3A29101" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:function:ATP1A:ATP1B:FXYDs_complex" /></rdf:Bag></bqbiol:isDescribedBy><bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:cdid:s_id_sa67" /></rdf:Bag></bqbiol:isDescribedBy></rdf:Description>
+</rdf:RDF>
+</annotation></qual:qualitativeSpecies><qual:qualitativeSpecies qual:maxLevel="1" qual:compartment="comp1" qual:name="K+_ion" qual:constant="false" qual:id="sa66"><annotation><rdf:RDF>
+<rdf:Description rdf:about="#s_id_sa66">
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:obo.chebi:CHEBI%3A29103" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:obo.chebi:CHEBI%3A29103" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:function:ATP1A:ATP1B:FXYDs_complex" /></rdf:Bag></bqbiol:isDescribedBy><bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:cdid:s_id_sa66" /></rdf:Bag></bqbiol:isDescribedBy></rdf:Description>
+</rdf:RDF>
+</annotation></qual:qualitativeSpecies><qual:qualitativeSpecies qual:maxLevel="1" qual:compartment="comp1" qual:name="H4C9" qual:constant="true" qual:id="sa5"><annotation><rdf:RDF>
+<rdf:Description rdf:about="#s_id_sa5">
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc:4793" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:8294" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ensembl:ENSG00000276180" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:H4C9" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:refseq:NM_003495" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:P62805" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:P62805" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:H4C1" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:121504" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:function:H4C9" /></rdf:Bag></bqbiol:isDescribedBy><bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:cdid:s_id_sa5" /></rdf:Bag></bqbiol:isDescribedBy></rdf:Description>
+</rdf:RDF>
+</annotation></qual:qualitativeSpecies><qual:qualitativeSpecies qual:maxLevel="1" qual:compartment="comp1" qual:name="H4C1" qual:constant="true" qual:id="sa2"><annotation><rdf:RDF>
+<rdf:Description rdf:about="#s_id_sa2">
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ensembl:ENSG00000278637" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc:4781" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:8359" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:P62805" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:P62805" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:H4C1" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:refseq:NM_003538" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:H4C1" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:121504" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:function:H4C1" /></rdf:Bag></bqbiol:isDescribedBy><bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:cdid:s_id_sa2" /></rdf:Bag></bqbiol:isDescribedBy></rdf:Description>
+</rdf:RDF>
+</annotation></qual:qualitativeSpecies><qual:qualitativeSpecies qual:maxLevel="1" qual:compartment="comp1" qual:name="H3C15" qual:constant="true" qual:id="sa3"><annotation><rdf:RDF>
+<rdf:Description rdf:about="#s_id_sa3">
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:H3C15" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:H3C15" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:333932" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:126961" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc:20505" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:Q71DI3" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:Q71DI3" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ensembl:ENSG00000203852" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:refseq:NM_001005464" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:function:H3C15" /></rdf:Bag></bqbiol:isDescribedBy><bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:cdid:s_id_sa3" /></rdf:Bag></bqbiol:isDescribedBy></rdf:Description>
+</rdf:RDF>
+</annotation></qual:qualitativeSpecies><qual:qualitativeSpecies qual:maxLevel="1" qual:compartment="comp1" qual:name="RNA_space_Polymerase_space_II-dependent_space_Transcription_space__phenotype" qual:constant="false" qual:id="sa77"><annotation><rdf:RDF>
+<rdf:Description rdf:about="#s_id_sa77">
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:function:P-TEFb_complex" /></rdf:Bag></bqbiol:isDescribedBy><bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:cdid:s_id_sa77" /></rdf:Bag></bqbiol:isDescribedBy></rdf:Description>
+</rdf:RDF>
+</annotation></qual:qualitativeSpecies><qual:qualitativeSpecies qual:maxLevel="1" qual:compartment="comp1" qual:name="Chromatin_space_organization_phenotype" qual:constant="false" qual:id="sa78"><annotation><rdf:RDF>
+<rdf:Description rdf:about="#s_id_sa78">
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:function:histone_complex_nucleus" /></rdf:Bag></bqbiol:isDescribedBy><bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:cdid:s_id_sa78" /></rdf:Bag></bqbiol:isDescribedBy></rdf:Description>
+</rdf:RDF>
+</annotation></qual:qualitativeSpecies><qual:qualitativeSpecies qual:maxLevel="1" qual:compartment="comp1" qual:name="H+_ion" qual:constant="true" qual:id="sa26"><annotation><rdf:RDF>
+<rdf:Description rdf:about="#s_id_sa26">
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:obo.chebi:CHEBI%3A15378" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:function:H+_ion" /></rdf:Bag></bqbiol:isDescribedBy><bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:cdid:s_id_sa26" /></rdf:Bag></bqbiol:isDescribedBy></rdf:Description>
+</rdf:RDF>
+</annotation></qual:qualitativeSpecies><qual:qualitativeSpecies qual:maxLevel="1" qual:compartment="comp1" qual:name="H4-16" qual:constant="true" qual:id="sa8"><annotation><rdf:RDF>
+<rdf:Description rdf:about="#s_id_sa8">
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ensembl:ENSG00000197837" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc:20510" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:refseq:NM_175054" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:H4-16" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:P62805" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:P62805" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:H4C1" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:121504" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:121504" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:function:H4-16" /></rdf:Bag></bqbiol:isDescribedBy><bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:cdid:s_id_sa8" /></rdf:Bag></bqbiol:isDescribedBy></rdf:Description>
+</rdf:RDF>
+</annotation></qual:qualitativeSpecies><qual:qualitativeSpecies qual:maxLevel="1" qual:compartment="comp1" qual:name="H2A" qual:constant="true" qual:id="sa6"><annotation><rdf:RDF>
+<rdf:Description rdf:about="#s_id_sa6">
+<bqmodel:is>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:interpro:IPR002119" />
+</rdf:Bag>
+</bqmodel:is>
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:function:H2A" /></rdf:Bag></bqbiol:isDescribedBy><bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:cdid:s_id_sa6" /></rdf:Bag></bqbiol:isDescribedBy></rdf:Description>
+</rdf:RDF>
+</annotation></qual:qualitativeSpecies><qual:qualitativeSpecies qual:maxLevel="1" qual:compartment="comp1" qual:name="Maintenance_space_of_space_tight_space_junction_phenotype" qual:constant="false" qual:id="sa74"><annotation><rdf:RDF>
+<rdf:Description rdf:about="#s_id_sa74">
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:function:E-PALS1_complex|CRB3:PALS1:PATJ_space_complex_complex" /></rdf:Bag></bqbiol:isDescribedBy><bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:cdid:s_id_sa74" /></rdf:Bag></bqbiol:isDescribedBy></rdf:Description>
+</rdf:RDF>
+</annotation></qual:qualitativeSpecies><qual:qualitativeSpecies qual:maxLevel="1" qual:compartment="comp1" qual:name="H4C14" qual:constant="true" qual:id="sa9"><annotation><rdf:RDF>
+<rdf:Description rdf:about="#s_id_sa9">
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc:4794" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:8370" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ensembl:ENSG00000270882" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:P62805" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:P62805" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:refseq:NM_003548" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:H4C1" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:ncbigene:121504" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:hgnc.symbol:H4C14" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:function:H4C14" /></rdf:Bag></bqbiol:isDescribedBy><bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:cdid:s_id_sa9" /></rdf:Bag></bqbiol:isDescribedBy></rdf:Description>
+</rdf:RDF>
+</annotation></qual:qualitativeSpecies></qual:listOfQualitativeSpecies><qual:listOfTransitions><qual:transition qual:id="tr_csa7"><qual:listOfInputs><qual:input qual:qualitativeSpecies="sa34" qual:transitionEffect="none" qual:sign="positive" qual:id="tr_csa7_in_0" /><qual:input qual:qualitativeSpecies="sa33" qual:transitionEffect="none" qual:sign="positive" qual:id="tr_csa7_in_1" /><qual:input qual:qualitativeSpecies="sa30" qual:transitionEffect="none" qual:sign="positive" qual:id="tr_csa7_in_2" /></qual:listOfInputs><qual:listOfOutputs><qual:output qual:qualitativeSpecies="csa7" qual:transitionEffect="assignmentLevel" qual:id="tr_csa7_out" /></qual:listOfOutputs><qual:listOfFunctionTerms><qual:defaultTerm qual:resultLevel="0" /><qual:functionTerm qual:resultLevel="1"><math xmlns="http://www.w3.org/1998/Math/MathML"><apply><and /><apply><eq /><ci>sa34</ci><cn type="integer">1</cn></apply><apply><eq /><ci>sa33</ci><cn type="integer">1</cn></apply><apply><eq /><ci>sa30</ci><cn type="integer">1</cn></apply></apply></math></qual:functionTerm></qual:listOfFunctionTerms><annotation><rdf:RDF><rdf:Description rdf:about="#re31">
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:pubmed:20861307" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource" />
+</rdf:Description>
+</rdf:RDF></annotation></qual:transition><qual:transition qual:id="tr_csa3"><qual:listOfInputs><qual:input qual:qualitativeSpecies="sa32" qual:transitionEffect="none" qual:sign="positive" qual:id="tr_csa3_in_0" /><qual:input qual:qualitativeSpecies="sa30" qual:transitionEffect="none" qual:sign="positive" qual:id="tr_csa3_in_1" /></qual:listOfInputs><qual:listOfOutputs><qual:output qual:qualitativeSpecies="csa3" qual:transitionEffect="assignmentLevel" qual:id="tr_csa3_out" /></qual:listOfOutputs><qual:listOfFunctionTerms><qual:defaultTerm qual:resultLevel="0" /><qual:functionTerm qual:resultLevel="1"><math xmlns="http://www.w3.org/1998/Math/MathML"><apply><and /><apply><eq /><ci>sa32</ci><cn type="integer">1</cn></apply><apply><eq /><ci>sa30</ci><cn type="integer">1</cn></apply></apply></math></qual:functionTerm></qual:listOfFunctionTerms><annotation><rdf:RDF><rdf:Description rdf:about="#re11">
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:pubmed:20861307" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource" />
+</rdf:Description>
+</rdf:RDF></annotation></qual:transition><qual:transition qual:id="tr_csa4"><qual:listOfInputs><qual:input qual:qualitativeSpecies="sa25" qual:transitionEffect="none" qual:sign="positive" qual:id="tr_csa4_in_0" /><qual:input qual:qualitativeSpecies="sa24" qual:transitionEffect="none" qual:sign="positive" qual:id="tr_csa4_in_1" /><qual:input qual:qualitativeSpecies="sa32" qual:transitionEffect="none" qual:sign="negative" qual:id="tr_csa4_in_2" /></qual:listOfInputs><qual:listOfOutputs><qual:output qual:qualitativeSpecies="csa4" qual:transitionEffect="assignmentLevel" qual:id="tr_csa4_out" /></qual:listOfOutputs><qual:listOfFunctionTerms><qual:defaultTerm qual:resultLevel="0" /><qual:functionTerm qual:resultLevel="1"><math xmlns="http://www.w3.org/1998/Math/MathML"><apply><and /><apply><eq /><ci>sa25</ci><cn type="integer">1</cn></apply><apply><eq /><ci>sa24</ci><cn type="integer">1</cn></apply><apply><eq /><ci>sa32</ci><cn type="integer">0</cn></apply></apply></math></qual:functionTerm></qual:listOfFunctionTerms><annotation><rdf:RDF><rdf:Description rdf:about="#re18">
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:pubmed:21524776" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource" />
+</rdf:Description>
+</rdf:RDF></annotation></qual:transition><qual:transition qual:id="tr_csa2"><qual:listOfInputs><qual:input qual:qualitativeSpecies="sa9" qual:transitionEffect="none" qual:sign="positive" qual:id="tr_csa2_in_0" /><qual:input qual:qualitativeSpecies="sa8" qual:transitionEffect="none" qual:sign="positive" qual:id="tr_csa2_in_1" /><qual:input qual:qualitativeSpecies="sa2" qual:transitionEffect="none" qual:sign="positive" qual:id="tr_csa2_in_2" /><qual:input qual:qualitativeSpecies="sa3" qual:transitionEffect="none" qual:sign="positive" qual:id="tr_csa2_in_3" /><qual:input qual:qualitativeSpecies="sa1" qual:transitionEffect="none" qual:sign="positive" qual:id="tr_csa2_in_4" /><qual:input qual:qualitativeSpecies="sa5" qual:transitionEffect="none" qual:sign="positive" qual:id="tr_csa2_in_5" /><qual:input qual:qualitativeSpecies="sa7" qual:transitionEffect="none" qual:sign="positive" qual:id="tr_csa2_in_6" /><qual:input qual:qualitativeSpecies="sa6" qual:transitionEffect="none" qual:sign="positive" qual:id="tr_csa2_in_7" /></qual:listOfInputs><qual:listOfOutputs><qual:output qual:qualitativeSpecies="csa2" qual:transitionEffect="assignmentLevel" qual:id="tr_csa2_out" /></qual:listOfOutputs><qual:listOfFunctionTerms><qual:defaultTerm qual:resultLevel="0" /><qual:functionTerm qual:resultLevel="1"><math xmlns="http://www.w3.org/1998/Math/MathML"><apply><and /><apply><eq /><ci>sa9</ci><cn type="integer">1</cn></apply><apply><eq /><ci>sa8</ci><cn type="integer">1</cn></apply><apply><eq /><ci>sa2</ci><cn type="integer">1</cn></apply><apply><eq /><ci>sa3</ci><cn type="integer">1</cn></apply><apply><eq /><ci>sa1</ci><cn type="integer">1</cn></apply><apply><eq /><ci>sa5</ci><cn type="integer">1</cn></apply><apply><eq /><ci>sa7</ci><cn type="integer">1</cn></apply><apply><eq /><ci>sa6</ci><cn type="integer">1</cn></apply></apply></math></qual:functionTerm></qual:listOfFunctionTerms><annotation><rdf:RDF><rdf:Description rdf:about="#re5">
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:doi:10.1016/j.molcel.2008.01.018" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource" />
+</rdf:Description>
+</rdf:RDF></annotation></qual:transition><qual:transition qual:id="tr_csa10"><qual:listOfInputs><qual:input qual:qualitativeSpecies="sa32" qual:transitionEffect="none" qual:sign="negative" qual:id="tr_csa10_in_0" /></qual:listOfInputs><qual:listOfOutputs><qual:output qual:qualitativeSpecies="csa10" qual:transitionEffect="assignmentLevel" qual:id="tr_csa10_out" /></qual:listOfOutputs><qual:listOfFunctionTerms><qual:defaultTerm qual:resultLevel="0" /><qual:functionTerm qual:resultLevel="1"><math xmlns="http://www.w3.org/1998/Math/MathML"><apply><eq /><ci>sa32</ci><cn type="integer">0</cn></apply></math></qual:functionTerm></qual:listOfFunctionTerms><annotation><rdf:RDF><rdf:Description rdf:about="#re16">
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:pubmed:21524776" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource" />
+</rdf:Description>
+</rdf:RDF></annotation></qual:transition><qual:transition qual:id="tr_csa8"><qual:listOfInputs><qual:input qual:qualitativeSpecies="sa15" qual:transitionEffect="none" qual:sign="positive" qual:id="tr_csa8_in_0" /><qual:input qual:qualitativeSpecies="sa11" qual:transitionEffect="none" qual:sign="positive" qual:id="tr_csa8_in_1" /></qual:listOfInputs><qual:listOfOutputs><qual:output qual:qualitativeSpecies="csa8" qual:transitionEffect="assignmentLevel" qual:id="tr_csa8_out" /></qual:listOfOutputs><qual:listOfFunctionTerms><qual:defaultTerm qual:resultLevel="0" /><qual:functionTerm qual:resultLevel="1"><math xmlns="http://www.w3.org/1998/Math/MathML"><apply><and /><apply><eq /><ci>sa15</ci><cn type="integer">1</cn></apply><apply><eq /><ci>sa11</ci><cn type="integer">1</cn></apply></apply></math></qual:functionTerm></qual:listOfFunctionTerms><annotation><rdf:RDF><rdf:Description rdf:about="#re28">
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:doi:10.1038/emboj.2008.121" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource" />
+</rdf:Description>
+</rdf:RDF></annotation></qual:transition><qual:transition qual:id="tr_csa1"><qual:listOfInputs><qual:input qual:qualitativeSpecies="csa2" qual:transitionEffect="none" qual:sign="positive" qual:id="tr_csa1_in_0" /><qual:input qual:qualitativeSpecies="sa21" qual:transitionEffect="none" qual:sign="positive" qual:id="tr_csa1_in_1" /><qual:input qual:qualitativeSpecies="sa12" qual:transitionEffect="none" qual:sign="positive" qual:id="tr_csa1_in_2" /></qual:listOfInputs><qual:listOfOutputs><qual:output qual:qualitativeSpecies="csa1" qual:transitionEffect="assignmentLevel" qual:id="tr_csa1_out" /></qual:listOfOutputs><qual:listOfFunctionTerms><qual:defaultTerm qual:resultLevel="0" /><qual:functionTerm qual:resultLevel="1"><math xmlns="http://www.w3.org/1998/Math/MathML"><apply><and /><apply><or /><apply><eq /><ci>sa21</ci><cn type="integer">1</cn></apply><apply><eq /><ci>sa12</ci><cn type="integer">1</cn></apply></apply><apply><eq /><ci>csa2</ci><cn type="integer">1</cn></apply></apply></math></qual:functionTerm></qual:listOfFunctionTerms><annotation><rdf:RDF><rdf:Description rdf:about="#re3">
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:doi:10.1016/j.molcel.2008.01.018" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:doi:10.1038/nsmb.3228." />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource" />
+</rdf:Description>
+</rdf:RDF></annotation></qual:transition><qual:transition qual:id="tr_sa17"><qual:listOfInputs><qual:input qual:qualitativeSpecies="sa17" qual:transitionEffect="none" qual:sign="positive" qual:id="tr_sa17_in_0" /><qual:input qual:qualitativeSpecies="sa21" qual:transitionEffect="none" qual:sign="positive" qual:id="tr_sa17_in_1" /></qual:listOfInputs><qual:listOfOutputs><qual:output qual:qualitativeSpecies="sa17" qual:transitionEffect="assignmentLevel" qual:id="tr_sa17_out" /></qual:listOfOutputs><qual:listOfFunctionTerms><qual:defaultTerm qual:resultLevel="0" /><qual:functionTerm qual:resultLevel="1"><math xmlns="http://www.w3.org/1998/Math/MathML"><apply><and /><apply><eq /><ci>sa17</ci><cn type="integer">1</cn></apply><apply><eq /><ci>sa21</ci><cn type="integer">1</cn></apply></apply></math></qual:functionTerm></qual:listOfFunctionTerms><annotation><rdf:RDF><rdf:Description rdf:about="#re7">
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:doi:10.1007/s11010-006-9223-6" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource" />
+</rdf:Description>
+</rdf:RDF></annotation></qual:transition><qual:transition qual:id="tr_sa33"><qual:listOfInputs><qual:input qual:qualitativeSpecies="sa33" qual:transitionEffect="none" qual:sign="positive" qual:id="tr_sa33_in_0" /></qual:listOfInputs><qual:listOfOutputs><qual:output qual:qualitativeSpecies="sa33" qual:transitionEffect="assignmentLevel" qual:id="tr_sa33_out" /></qual:listOfOutputs><qual:listOfFunctionTerms><qual:defaultTerm qual:resultLevel="0" /><qual:functionTerm qual:resultLevel="1"><math xmlns="http://www.w3.org/1998/Math/MathML"><apply><eq /><ci>sa33</ci><cn type="integer">1</cn></apply></math></qual:functionTerm></qual:listOfFunctionTerms><annotation><rdf:RDF><rdf:Description rdf:about="#re15">
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:pubmed:20861307" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource" />
+</rdf:Description>
+</rdf:RDF></annotation></qual:transition><qual:transition qual:id="tr_sa12"><qual:listOfInputs><qual:input qual:qualitativeSpecies="sa12" qual:transitionEffect="none" qual:sign="positive" qual:id="tr_sa12_in_0" /><qual:input qual:qualitativeSpecies="sa13" qual:transitionEffect="none" qual:sign="negative" qual:id="tr_sa12_in_1" /></qual:listOfInputs><qual:listOfOutputs><qual:output qual:qualitativeSpecies="sa12" qual:transitionEffect="assignmentLevel" qual:id="tr_sa12_out" /></qual:listOfOutputs><qual:listOfFunctionTerms><qual:defaultTerm qual:resultLevel="0" /><qual:functionTerm qual:resultLevel="1"><math xmlns="http://www.w3.org/1998/Math/MathML"><apply><and /><apply><eq /><ci>sa12</ci><cn type="integer">1</cn></apply><apply><eq /><ci>sa13</ci><cn type="integer">0</cn></apply></apply></math></qual:functionTerm></qual:listOfFunctionTerms><annotation><rdf:RDF><rdf:Description rdf:about="#re4">
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:doi:10.1038/s41586-020-2286-9" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource" />
+</rdf:Description>
+</rdf:RDF></annotation></qual:transition><qual:transition qual:id="tr_sa21"><qual:listOfInputs><qual:input qual:qualitativeSpecies="sa21" qual:transitionEffect="none" qual:sign="positive" qual:id="tr_sa21_in_0" /><qual:input qual:qualitativeSpecies="sa79" qual:transitionEffect="none" qual:sign="negative" qual:id="tr_sa21_in_1" /><qual:input qual:qualitativeSpecies="sa13" qual:transitionEffect="none" qual:sign="negative" qual:id="tr_sa21_in_2" /></qual:listOfInputs><qual:listOfOutputs><qual:output qual:qualitativeSpecies="sa21" qual:transitionEffect="assignmentLevel" qual:id="tr_sa21_out" /></qual:listOfOutputs><qual:listOfFunctionTerms><qual:defaultTerm qual:resultLevel="0" /><qual:functionTerm qual:resultLevel="1"><math xmlns="http://www.w3.org/1998/Math/MathML"><apply><and /><apply><eq /><ci>sa21</ci><cn type="integer">1</cn></apply><apply><eq /><ci>sa79</ci><cn type="integer">0</cn></apply><apply><eq /><ci>sa13</ci><cn type="integer">0</cn></apply></apply></math></qual:functionTerm></qual:listOfFunctionTerms><annotation><rdf:RDF><rdf:Description rdf:about="#re6">
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:doi:10.1038/s41586-020-2286-9" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:doi:10.1080/15592294.2018.1469891" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource" />
+</rdf:Description>
+</rdf:RDF></annotation></qual:transition><qual:transition qual:id="tr_sa73"><qual:listOfInputs><qual:input qual:qualitativeSpecies="csa10" qual:transitionEffect="none" qual:sign="positive" qual:id="tr_sa73_in_0" /><qual:input qual:qualitativeSpecies="csa4" qual:transitionEffect="none" qual:sign="positive" qual:id="tr_sa73_in_1" /><qual:input qual:qualitativeSpecies="sa24" qual:transitionEffect="none" qual:sign="negative" qual:id="tr_sa73_in_2" /></qual:listOfInputs><qual:listOfOutputs><qual:output qual:qualitativeSpecies="sa73" qual:transitionEffect="assignmentLevel" qual:id="tr_sa73_out" /></qual:listOfOutputs><qual:listOfFunctionTerms><qual:defaultTerm qual:resultLevel="0" /><qual:functionTerm qual:resultLevel="1"><math xmlns="http://www.w3.org/1998/Math/MathML"><apply><or /><apply><eq /><ci>csa10</ci><cn type="integer">1</cn></apply><apply><eq /><ci>csa4</ci><cn type="integer">1</cn></apply><apply><eq /><ci>sa24</ci><cn type="integer">0</cn></apply></apply></math></qual:functionTerm></qual:listOfFunctionTerms><annotation><rdf:RDF><rdf:Description rdf:about="#re34">
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:pubmed:21524776" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource" />
+</rdf:Description>
+<rdf:Description rdf:about="#re36">
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:pubmed:21524776" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource" />
+</rdf:Description>
+<rdf:Description rdf:about="#re35">
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:pubmed:21524776" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource" />
+</rdf:Description>
+</rdf:RDF></annotation></qual:transition><qual:transition qual:id="tr_sa15"><qual:listOfInputs><qual:input qual:qualitativeSpecies="sa15" qual:transitionEffect="none" qual:sign="positive" qual:id="tr_sa15_in_0" /><qual:input qual:qualitativeSpecies="sa12" qual:transitionEffect="none" qual:sign="positive" qual:id="tr_sa15_in_1" /></qual:listOfInputs><qual:listOfOutputs><qual:output qual:qualitativeSpecies="sa15" qual:transitionEffect="assignmentLevel" qual:id="tr_sa15_out" /></qual:listOfOutputs><qual:listOfFunctionTerms><qual:defaultTerm qual:resultLevel="0" /><qual:functionTerm qual:resultLevel="1"><math xmlns="http://www.w3.org/1998/Math/MathML"><apply><and /><apply><eq /><ci>sa15</ci><cn type="integer">1</cn></apply><apply><eq /><ci>sa12</ci><cn type="integer">1</cn></apply></apply></math></qual:functionTerm></qual:listOfFunctionTerms><annotation><rdf:RDF><rdf:Description rdf:about="#re1">
+<bqbiol:isEncodedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:doi:10.18632/oncotarget.18583" />
+</rdf:Bag>
+</bqbiol:isEncodedBy>
+<bqmodel:is>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:doi:10.1016/j.molcel.2005.06.027" />
+</rdf:Bag>
+</bqmodel:is>
+<dcterms:modified rdf:parseType="Resource" />
+</rdf:Description>
+</rdf:RDF></annotation></qual:transition><qual:transition qual:id="tr_sa11"><qual:listOfInputs><qual:input qual:qualitativeSpecies="sa11" qual:transitionEffect="none" qual:sign="positive" qual:id="tr_sa11_in_0" /><qual:input qual:qualitativeSpecies="sa12" qual:transitionEffect="none" qual:sign="positive" qual:id="tr_sa11_in_1" /></qual:listOfInputs><qual:listOfOutputs><qual:output qual:qualitativeSpecies="sa11" qual:transitionEffect="assignmentLevel" qual:id="tr_sa11_out" /></qual:listOfOutputs><qual:listOfFunctionTerms><qual:defaultTerm qual:resultLevel="0" /><qual:functionTerm qual:resultLevel="1"><math xmlns="http://www.w3.org/1998/Math/MathML"><apply><and /><apply><eq /><ci>sa11</ci><cn type="integer">1</cn></apply><apply><eq /><ci>sa12</ci><cn type="integer">1</cn></apply></apply></math></qual:functionTerm></qual:listOfFunctionTerms><annotation><rdf:RDF><rdf:Description rdf:about="#re2">
+<bqmodel:is>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:doi:10.1016/j.molcel.2005.06.027" />
+</rdf:Bag>
+</bqmodel:is>
+<dcterms:modified rdf:parseType="Resource" />
+</rdf:Description>
+</rdf:RDF></annotation></qual:transition><qual:transition qual:id="tr_sa30"><qual:listOfInputs><qual:input qual:qualitativeSpecies="sa30" qual:transitionEffect="none" qual:sign="positive" qual:id="tr_sa30_in_0" /></qual:listOfInputs><qual:listOfOutputs><qual:output qual:qualitativeSpecies="sa30" qual:transitionEffect="assignmentLevel" qual:id="tr_sa30_out" /></qual:listOfOutputs><qual:listOfFunctionTerms><qual:defaultTerm qual:resultLevel="0" /><qual:functionTerm qual:resultLevel="1"><math xmlns="http://www.w3.org/1998/Math/MathML"><apply><eq /><ci>sa30</ci><cn type="integer">1</cn></apply></math></qual:functionTerm></qual:listOfFunctionTerms><annotation><rdf:RDF><rdf:Description rdf:about="#re13">
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:pubmed:20861307" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource" />
+</rdf:Description>
+</rdf:RDF></annotation></qual:transition><qual:transition qual:id="tr_sa34"><qual:listOfInputs><qual:input qual:qualitativeSpecies="sa34" qual:transitionEffect="none" qual:sign="positive" qual:id="tr_sa34_in_0" /></qual:listOfInputs><qual:listOfOutputs><qual:output qual:qualitativeSpecies="sa34" qual:transitionEffect="assignmentLevel" qual:id="tr_sa34_out" /></qual:listOfOutputs><qual:listOfFunctionTerms><qual:defaultTerm qual:resultLevel="0" /><qual:functionTerm qual:resultLevel="1"><math xmlns="http://www.w3.org/1998/Math/MathML"><apply><eq /><ci>sa34</ci><cn type="integer">1</cn></apply></math></qual:functionTerm></qual:listOfFunctionTerms><annotation><rdf:RDF><rdf:Description rdf:about="#re14">
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:pubmed:20861307" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource" />
+</rdf:Description>
+</rdf:RDF></annotation></qual:transition><qual:transition qual:id="tr_sa25"><qual:listOfInputs><qual:input qual:qualitativeSpecies="sa26" qual:transitionEffect="none" qual:sign="positive" qual:id="tr_sa25_in_0" /></qual:listOfInputs><qual:listOfOutputs><qual:output qual:qualitativeSpecies="sa25" qual:transitionEffect="assignmentLevel" qual:id="tr_sa25_out" /></qual:listOfOutputs><qual:listOfFunctionTerms><qual:defaultTerm qual:resultLevel="0" /><qual:functionTerm qual:resultLevel="1"><math xmlns="http://www.w3.org/1998/Math/MathML"><apply><eq /><ci>sa26</ci><cn type="integer">1</cn></apply></math></qual:functionTerm></qual:listOfFunctionTerms><annotation><rdf:RDF><rdf:Description rdf:about="#re17">
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:pubmed:21524776" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource" />
+</rdf:Description>
+</rdf:RDF></annotation></qual:transition><qual:transition qual:id="tr_sa67"><qual:listOfInputs><qual:input qual:qualitativeSpecies="csa10" qual:transitionEffect="none" qual:sign="positive" qual:id="tr_sa67_in_0" /></qual:listOfInputs><qual:listOfOutputs><qual:output qual:qualitativeSpecies="sa67" qual:transitionEffect="assignmentLevel" qual:id="tr_sa67_out" /></qual:listOfOutputs><qual:listOfFunctionTerms><qual:defaultTerm qual:resultLevel="0" /><qual:functionTerm qual:resultLevel="1"><math xmlns="http://www.w3.org/1998/Math/MathML"><apply><eq /><ci>csa10</ci><cn type="integer">1</cn></apply></math></qual:functionTerm></qual:listOfFunctionTerms><annotation><rdf:RDF><rdf:Description rdf:about="#re20">
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:pubmed:21524776" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource" />
+</rdf:Description>
+</rdf:RDF></annotation></qual:transition><qual:transition qual:id="tr_sa66"><qual:listOfInputs><qual:input qual:qualitativeSpecies="csa10" qual:transitionEffect="none" qual:sign="positive" qual:id="tr_sa66_in_0" /></qual:listOfInputs><qual:listOfOutputs><qual:output qual:qualitativeSpecies="sa66" qual:transitionEffect="assignmentLevel" qual:id="tr_sa66_out" /></qual:listOfOutputs><qual:listOfFunctionTerms><qual:defaultTerm qual:resultLevel="0" /><qual:functionTerm qual:resultLevel="1"><math xmlns="http://www.w3.org/1998/Math/MathML"><apply><eq /><ci>csa10</ci><cn type="integer">1</cn></apply></math></qual:functionTerm></qual:listOfFunctionTerms><annotation><rdf:RDF><rdf:Description rdf:about="#re19">
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:pubmed:21524776" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource" />
+</rdf:Description>
+</rdf:RDF></annotation></qual:transition><qual:transition qual:id="tr_sa77"><qual:listOfInputs><qual:input qual:qualitativeSpecies="csa8" qual:transitionEffect="none" qual:sign="positive" qual:id="tr_sa77_in_0" /></qual:listOfInputs><qual:listOfOutputs><qual:output qual:qualitativeSpecies="sa77" qual:transitionEffect="assignmentLevel" qual:id="tr_sa77_out" /></qual:listOfOutputs><qual:listOfFunctionTerms><qual:defaultTerm qual:resultLevel="0" /><qual:functionTerm qual:resultLevel="1"><math xmlns="http://www.w3.org/1998/Math/MathML"><apply><eq /><ci>csa8</ci><cn type="integer">1</cn></apply></math></qual:functionTerm></qual:listOfFunctionTerms><annotation><rdf:RDF><rdf:Description rdf:about="#re29">
+<bqmodel:is>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:doi:10.1038/emboj.2008.121" />
+</rdf:Bag>
+</bqmodel:is>
+<dcterms:modified rdf:parseType="Resource" />
+</rdf:Description>
+</rdf:RDF></annotation></qual:transition><qual:transition qual:id="tr_sa78"><qual:listOfInputs><qual:input qual:qualitativeSpecies="csa1" qual:transitionEffect="none" qual:sign="positive" qual:id="tr_sa78_in_0" /></qual:listOfInputs><qual:listOfOutputs><qual:output qual:qualitativeSpecies="sa78" qual:transitionEffect="assignmentLevel" qual:id="tr_sa78_out" /></qual:listOfOutputs><qual:listOfFunctionTerms><qual:defaultTerm qual:resultLevel="0" /><qual:functionTerm qual:resultLevel="1"><math xmlns="http://www.w3.org/1998/Math/MathML"><apply><eq /><ci>csa1</ci><cn type="integer">1</cn></apply></math></qual:functionTerm></qual:listOfFunctionTerms><annotation><rdf:RDF><rdf:Description rdf:about="#re30">
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:pubmed:18406326" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource" />
+</rdf:Description>
+</rdf:RDF></annotation></qual:transition><qual:transition qual:id="tr_sa74"><qual:listOfInputs><qual:input qual:qualitativeSpecies="csa3" qual:transitionEffect="none" qual:sign="positive" qual:id="tr_sa74_in_0" /><qual:input qual:qualitativeSpecies="csa7" qual:transitionEffect="none" qual:sign="positive" qual:id="tr_sa74_in_1" /></qual:listOfInputs><qual:listOfOutputs><qual:output qual:qualitativeSpecies="sa74" qual:transitionEffect="assignmentLevel" qual:id="tr_sa74_out" /></qual:listOfOutputs><qual:listOfFunctionTerms><qual:defaultTerm qual:resultLevel="0" /><qual:functionTerm qual:resultLevel="1"><math xmlns="http://www.w3.org/1998/Math/MathML"><apply><or /><apply><eq /><ci>csa3</ci><cn type="integer">1</cn></apply><apply><eq /><ci>csa7</ci><cn type="integer">1</cn></apply></apply></math></qual:functionTerm></qual:listOfFunctionTerms><annotation><rdf:RDF><rdf:Description rdf:about="#re33">
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:pubmed:20861307" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource" />
+</rdf:Description>
+<rdf:Description rdf:about="#re32">
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:pubmed:20861307" />
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource" />
+</rdf:Description>
+</rdf:RDF></annotation></qual:transition></qual:listOfTransitions></model></sbml>

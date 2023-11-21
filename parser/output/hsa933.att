@@ -1,0 +1,70 @@
+name	label	X	Y	color	shape	type	label.cex	label.color	width	height	genesList	tooltip
+N-hsa933-csa95	TIM9-TIM10 complex	753	1958	white	rectangle	gene	0.5	black	46	17	26520/26519	TIM9-TIM10 complex
+N-hsa933-sa695	Nsp4	888	1828	white	rectangle	gene	0.5	black	46	17	NA	Nsp4
+N-hsa933-csa24	complex 2	851.5	276.5	white	rectangle	gene	0.5	black	46	17	6389/6390/6391/6392	complex 2
+N-hsa933-csa84	complex 2	1181.5	276.5	white	rectangle	gene	0.5	black	46	17	6389/6390/6392/6391	complex 2
+N-hsa933-sa219	Q	1135	282	white	rectangle	compound	0.5	black	46	17	NA	Q
+N-hsa933-csa20	Complex 1	147.0625	247.25	white	rectangle	gene	0.5	black	46	17	4707/4708/4709/4710/4711/4712/4713/4714/4715/4716/54539/4724/4725/4726/4694/4695/4696/4697/4698/4700/4701/4702/4704/4705/126328/55967/51079/4706/4719/4720/4722/374291/4728/4723/4729/4731/4535/4536/4537/4538/4539/4540/4541	Complex 1
+N-hsa933-csa44	OXPHOS factors	1074.125	546.5	white	rectangle	gene	0.5	black	46	17	617,3052,1347,79145,152100,55744,28958,51287,493753,388753,65260,84334,1352,1353,84987,1355,51241,10063,285521,90639,116228,25994,192286,79133,25915,29078,51103,51295,91942,80224,28976,55572,55101,55744,65260,90871,137682,55471,284184,80224,2232,112812,90624,644096,54949	OXPHOS factors
+N-hsa933-sa359	SIRT3	440	1468	white	rectangle	gene	0.5	black	46	17	23410	SIRT3
+N-hsa933-csa90	Nsp8-affected Mt ribosomal proteins	1927	1513	white	rectangle	gene	0.5	black	46	17	64969,23107,51116,64432	Nsp8-affected Mt ribosomal proteins
+N-hsa933-sa494	Nsp8	1493	1473	white	rectangle	gene	0.5	black	46	17	NA	Nsp8
+N-hsa933-csa93	TIM22 complex	353	1930	white	rectangle	gene	0.5	black	46	17	29928/6391/90580	TIM22 complex
+N-hsa933-sa700	TIMM29	323	1772	white	rectangle	gene	0.5	black	46	17	90580	TIMM29
+N-hsa933-sa2	NADH	331.5	639.5	white	rectangle	compound	0.5	black	46	17	NA	NADH
+N-hsa933-sa665	NDUFA1	343	778	white	rectangle	gene	0.5	black	46	17	4694	NDUFA1
+N-hsa933-sa661	NDUFB9	343	748	white	rectangle	gene	0.5	black	46	17	4715	NDUFB9
+N-hsa933-csa98	mtDNA encoded OXPHOS units	275.875	883.25	white	rectangle	gene	0.5	black	46	17	NA	mtDNA encoded OXPHOS units
+N-hsa933-sa459	mt mRNA	2043	1285.5	white	rectangle	gene	0.5	black	46	17	NA	mt mRNA
+N-hsa933-csa58	Mt translation	2131.5	1506.5	white	rectangle	gene	0.5	black	46	17	7284,10102,85476,56652	Mt translation
+N-hsa933-csa51	Mt ribosomal proteins	1928	1394.5	white	rectangle	gene	0.5	black	46	17	11222,51021,56945	Mt ribosomal proteins
+N-hsa933-sa668	ACAD9	1063	935	white	rectangle	gene	0.5	black	46	17	28976	ACAD9
+N-hsa933-sa667	ECSIT	1063	963	white	rectangle	gene	0.5	black	46	17	51295	ECSIT
+N-hsa933-sa669	NDUFAF7	1063	992	white	rectangle	gene	0.5	black	46	17	55471	NDUFAF7
+N-hsa933-csa34	complex 3	1417.25	238.75	white	rectangle	gene	0.5	black	46	17	4519/7386/7388/100128525/27089/617/29796/10975/7381/7384/7385	complex 3
+N-hsa933-csa103	mtDNA encoded OXPHOS units	1630.875	543.25	white	rectangle	gene	0.5	black	46	17	NA	mtDNA encoded OXPHOS units
+N-hsa933-csa50	paraquat dication	241	1362	white	rectangle	gene	0.5	black	46	17	NA	paraquat dication
+N-hsa933-sa397	paraquat	227.5	1507.375	white	rectangle	compound	0.5	black	46	17	NA	paraquat
+N-hsa933-sa24	O_sub_2_endsub_	1650.5	350.5	white	rectangle	compound	0.5	black	46	17	NA	O_sub_2_endsub_
+N-hsa933-sa253	Cyt C	1811.5	264.5	white	rectangle	gene	0.5	black	46	17	54205	Cyt C
+N-hsa933-sa652	mt DNA	1926.5	939	white	rectangle	gene	0.5	black	46	17	NA	mt DNA
+N-hsa933-csa53	Mt-tRNA synthetase	1868.625	1246.14177145228	white	rectangle	gene	0.5	black	46	17	57505,55157,2617,3735,57038	Mt-tRNA synthetase
+N-hsa933-sa692	TRMT1	1883	1124	white	rectangle	gene	0.5	black	46	17	55621	TRMT1
+N-hsa933-csa47	ATP Synthase	2262	223	white	rectangle	gene	0.5	black	46	17	516/517/518/9551/539/521/10632/4509/515/10476/522/93974/4508/498/506/509/513/432369/514	ATP Synthase
+N-hsa933-sa20	H+	1788	163	white	rectangle	compound	0.5	black	46	17	NA	H+
+N-hsa933-sa710	ATP5MG	2353	668	white	rectangle	gene	0.5	black	46	17	10632	ATP5MG
+N-hsa933-sa713	Nsp6	2223	571	white	rectangle	gene	0.5	black	46	17	NA	Nsp6
+N-hsa933-sa355	H_sub_2_endsub_O_sub_2_endsub_	785	1325.5	white	rectangle	compound	0.5	black	46	17	NA	H_sub_2_endsub_O_sub_2_endsub_
+N-hsa933-sa391	TXN2	975	1558	white	rectangle	gene	0.5	black	46	17	25828	TXN2
+N-hsa933-csa97	PRDX	878	1399	white	rectangle	gene	0.5	black	46	17	5052,7001,25824,9588,10935	PRDX
+N-hsa933-sa381	glutathione	595	1415.5	white	rectangle	compound	0.5	black	46	17	NA	glutathione
+N-hsa933-sa379	GPX4	675	1480	white	rectangle	gene	0.5	black	46	17	2879	GPX4
+N-hsa933-sa378	GPX1	675	1433	white	rectangle	gene	0.5	black	46	17	2876	GPX1
+N-hsa933-sa364	hydroxide	485	1210.5	white	rectangle	compound	0.5	black	46	17	NA	hydroxide
+N-hsa933-sa13	Cyt C	1684.5	264.5	white	rectangle	gene	0.5	black	46	17	54205	Cyt C
+N-hsa933-sa255	QH_sub_2_endsub_	1627.5	271.5	white	rectangle	compound	0.5	black	46	17	NA	QH_sub_2_endsub_
+N-hsa933-sa370	H+	743	1113	white	rectangle	compound	0.5	black	46	17	NA	H+
+N-hsa933-sa376	Fe3+	867	1070.5	white	rectangle	compound	0.5	black	46	17	NA	Fe3+
+N-hsa933-sa375	Fe2+	867	937	white	rectangle	compound	0.5	black	46	17	NA	Fe2+
+N-hsa933-sa360	superoxide	365	1325.5	white	rectangle	compound	0.5	black	46	17	NA	superoxide
+N-hsa933-sa358	SOD2	505	1403	white	rectangle	gene	0.5	black	46	17	6648	SOD2
+N-hsa933-sa653	damaged mt DNA	1926.5	754	white	rectangle	gene	0.5	black	46	17	NA	damaged mt DNA
+N-hsa933-sa460	TFAM	2038	1013	white	rectangle	gene	0.5	black	46	17	7019	TFAM
+N-hsa933-csa54	Mt-DNA repair	2092.5	788	white	rectangle	gene	0.5	black	46	17	2074,1161,5428	Mt-DNA repair
+N-hsa933-csa52	Mt-dNTP pool	1624.5	749.5	white	rectangle	gene	0.5	black	46	17	1716,7084,50484,8803,8802	Mt-dNTP pool
+N-hsa933-csa92	TOM complex	755.5	2075.5	white	rectangle	gene	0.5	black	46	17	26520,56993,9868	TOM complex
+N-hsa933-sa691	Orf9b	538	2168	white	rectangle	gene	0.5	black	46	17	NA	Orf9b
+N-hsa933-csa94	TIM23 complex	521	1971	white	rectangle	gene	0.5	black	46	17	100287932/10440/10245	TIM23 complex
+N-hsa933-sa498	Orf9c	703	838	white	rectangle	gene	0.5	black	46	17	NA	Orf9c
+N-hsa933-sa499	Nsp7	977	1041	white	rectangle	gene	0.5	black	46	17	NA	Nsp7
+N-hsa933-sa380	glutathione disulfide	595	1670.5	white	rectangle	compound	0.5	black	46	17	NA	glutathione disulfide
+N-hsa933-sa382	NADPH	668	1606.5	white	rectangle	compound	0.5	black	46	17	NA	NADPH
+N-hsa933-sa384	GSR	503	1583	white	rectangle	gene	0.5	black	46	17	2936	GSR
+N-hsa933-sa393	TXNRD2	1055	1433	white	rectangle	gene	0.5	black	46	17	10587	TXNRD2
+N-hsa933-csa57	Mt replication	1632	976	white	rectangle	gene	0.5	black	46	17	5428,11232,123263,55149	Mt replication
+N-hsa933-sa372	SOD1	943	1201	white	rectangle	gene	0.5	black	46	17	6647	SOD1
+N-hsa933-csa56	MT transcription	2088.5	1144	white	rectangle	gene	0.5	black	46	17	51106,64216,5442	MT transcription
+N-hsa933-sa690	precursor protein N-terminus binding	652	1897	white	rectangle	gene	0.5	black	46	17	NA	precursor protein N-terminus binding
+N-hsa933-csa35	complex 4	1871.33333333333	248	white	rectangle	gene	0.5	black	46	17	4512/4513/4514/1327/84701/9377/1329/1337/1339/1340/125965/1345/1346/1347/1349/170712/1350/1351/341947	complex 4
+N-hsa933-csa60	mtDNA encoded OXPHOS units	1945.75	1703.5	white	rectangle	gene	0.5	black	46	17	4535,4536,4537,4539,4541,4540,4538,4514,4513,4512,4509,4508,4519	mtDNA encoded OXPHOS units
+N-hsa933-csa55	MT tRNAs	1670.5	1216	white	rectangle	gene	0.5	black	46	17	4549,4511,4556,4558,4564,4565,4566,4567,4568,4570,4571,4572,4573,4574,4575,4576,4577,4578	MT tRNAs

@@ -1,0 +1,24 @@
+
+V1	V2	V3
+N-hsa939-csa11	activation	N-hsa939-csa5
+N-hsa939-csa11	activation	N-hsa939-csa16
+N-hsa939-csa11	activation	N-hsa939-sa38
+N-hsa939-sa7	inhibition	N-hsa939-csa11
+N-hsa939-sa33	inhibition	N-hsa939-csa11
+N-hsa939-sa33	inhibition	N-hsa939-csa3
+N-hsa939-sa33	inhibition	N-hsa939-csa5
+N-hsa939-sa72	activation	N-hsa939-csa11
+N-hsa939-csa7	activation	N-hsa939-csa3
+N-hsa939-sa18	inhibition	N-hsa939-csa3
+N-hsa939-sa18	inhibition	N-hsa939-csa5
+N-hsa939-sa65	activation	N-hsa939-csa3
+N-hsa939-sa65	activation	N-hsa939-csa5
+N-hsa939-sa70	activation	N-hsa939-csa3
+N-hsa939-sa69	activation	N-hsa939-csa3
+N-hsa939-csa9	inhibition	N-hsa939-csa5
+N-hsa939-sa44	activation	N-hsa939-csa5
+N-hsa939-sa45	activation	N-hsa939-csa5
+N-hsa939-sa64	activation	N-hsa939-csa5
+N-hsa939-csa16	activation	N-hsa939-sa40
+N-hsa939-sa84	activation	N-hsa939-csa16
+N-hsa939-sa76	activation	N-hsa939-sa38

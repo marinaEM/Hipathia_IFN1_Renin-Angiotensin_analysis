@@ -1,0 +1,227 @@
+<?xml version='1.0' encoding='utf-8'?>
+<sbml xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" level="3" version="1" layout:required="false" xmlns="http://www.sbml.org/sbml/level3/version1/core" qual:required="true" xmlns:layout="http://www.sbml.org/sbml/level3/version1/layout/version1" xmlns:qual="http://www.sbml.org/sbml/level3/version1/qual/version1"><model id="model_id"><listOfCompartments><compartment constant="true" id="comp1" /></listOfCompartments><layout:listOfLayouts><layout:layout id="layout1"><layout:dimensions width="3999" height="2249" /><layout:listOfAdditionalGraphicalObjects><layout:generalGlyph layout:reference="nel_1" layout:id="nel_1_glyph"><layout:boundingBox><layout:position layout:x="2364.0" layout:y="1473.0" /><layout:dimensions layout:height="95.0" layout:width="291.0" /></layout:boundingBox></layout:generalGlyph><layout:generalGlyph layout:reference="nel_12" layout:id="nel_12_glyph"><layout:boundingBox><layout:position layout:x="2453.0" layout:y="794.0" /><layout:dimensions layout:height="108.0" layout:width="469.0" /></layout:boundingBox></layout:generalGlyph><layout:generalGlyph layout:reference="nel_9" layout:id="nel_9_glyph"><layout:boundingBox><layout:position layout:x="1438.0" layout:y="1026.0" /><layout:dimensions layout:height="95.0" layout:width="425.0" /></layout:boundingBox></layout:generalGlyph><layout:generalGlyph layout:reference="nel_4" layout:id="nel_4_glyph"><layout:boundingBox><layout:position layout:x="1892.0" layout:y="1366.0" /><layout:dimensions layout:height="90.0" layout:width="473.0" /></layout:boundingBox></layout:generalGlyph><layout:generalGlyph layout:reference="nel_5" layout:id="nel_5_glyph"><layout:boundingBox><layout:position layout:x="2716.0" layout:y="1086.0" /><layout:dimensions layout:height="95.0" layout:width="351.0" /></layout:boundingBox></layout:generalGlyph><layout:generalGlyph layout:reference="nel_15" layout:id="nel_15_glyph"><layout:boundingBox><layout:position layout:x="2466.0" layout:y="413.0" /><layout:dimensions layout:height="95.0" layout:width="291.0" /></layout:boundingBox></layout:generalGlyph><layout:generalGlyph layout:reference="sa23" layout:id="sa23_glyph"><layout:boundingBox><layout:position layout:x="1512.5" layout:y="1472.5" /><layout:dimensions layout:height="95.0" layout:width="384.0" /></layout:boundingBox></layout:generalGlyph><layout:generalGlyph layout:reference="nel_3" layout:id="nel_3_glyph"><layout:boundingBox><layout:position layout:x="2841.0" layout:y="1434.0" /><layout:dimensions layout:height="102.0" layout:width="313.0" /></layout:boundingBox></layout:generalGlyph><layout:generalGlyph layout:reference="nel_19" layout:id="nel_19_glyph"><layout:boundingBox><layout:position layout:x="2478.0" layout:y="525.0" /><layout:dimensions layout:height="111.0" layout:width="833.0" /></layout:boundingBox></layout:generalGlyph><layout:generalGlyph layout:reference="nel_11" layout:id="nel_11_glyph"><layout:boundingBox><layout:position layout:x="3498.0" layout:y="1912.0" /><layout:dimensions layout:height="118.0" layout:width="364.0" /></layout:boundingBox></layout:generalGlyph><layout:generalGlyph layout:reference="nel_14" layout:id="nel_14_glyph"><layout:boundingBox><layout:position layout:x="2916.0" layout:y="314.0" /><layout:dimensions layout:height="95.0" layout:width="291.0" /></layout:boundingBox></layout:generalGlyph><layout:generalGlyph layout:reference="nel_10" layout:id="nel_10_glyph"><layout:boundingBox><layout:position layout:x="2357.0" layout:y="1068.0" /><layout:dimensions layout:height="95.0" layout:width="351.0" /></layout:boundingBox></layout:generalGlyph><layout:generalGlyph layout:reference="nel_6" layout:id="nel_6_glyph"><layout:boundingBox><layout:position layout:x="1086.0" layout:y="554.0" /><layout:dimensions layout:height="95.0" layout:width="340.0" /></layout:boundingBox></layout:generalGlyph><layout:generalGlyph layout:reference="nel_13" layout:id="nel_13_glyph"><layout:boundingBox><layout:position layout:x="2617.0" layout:y="314.0" /><layout:dimensions layout:height="95.0" layout:width="314.0" /></layout:boundingBox></layout:generalGlyph><layout:generalGlyph layout:reference="nel_20" layout:id="nel_20_glyph"><layout:boundingBox><layout:position layout:x="3072.0" layout:y="1072.0" /><layout:dimensions layout:height="95.0" layout:width="351.0" /></layout:boundingBox></layout:generalGlyph><layout:generalGlyph layout:reference="nel_21" layout:id="nel_21_glyph"><layout:boundingBox><layout:position layout:x="2786.0" layout:y="1310.0" /><layout:dimensions layout:height="95.0" layout:width="291.0" /></layout:boundingBox></layout:generalGlyph><layout:generalGlyph layout:reference="nel_2" layout:id="nel_2_glyph"><layout:boundingBox><layout:position layout:x="1886.0" layout:y="1785.0" /><layout:dimensions layout:height="157.0" layout:width="482.0" /></layout:boundingBox></layout:generalGlyph><layout:generalGlyph layout:reference="nel_7" layout:id="nel_7_glyph"><layout:boundingBox><layout:position layout:x="1086.0" layout:y="442.0" /><layout:dimensions layout:height="95.0" layout:width="340.0" /></layout:boundingBox></layout:generalGlyph><layout:generalGlyph layout:reference="nel_18" layout:id="nel_18_glyph"><layout:boundingBox><layout:position layout:x="2783.0" layout:y="1213.0" /><layout:dimensions layout:height="95.0" layout:width="291.0" /></layout:boundingBox></layout:generalGlyph><layout:generalGlyph layout:reference="nel_16" layout:id="nel_16_glyph"><layout:boundingBox><layout:position layout:x="3066.0" layout:y="414.0" /><layout:dimensions layout:height="95.0" layout:width="291.0" /></layout:boundingBox></layout:generalGlyph><layout:generalGlyph layout:reference="nel_17" layout:id="nel_17_glyph"><layout:boundingBox><layout:position layout:x="2766.0" layout:y="413.0" /><layout:dimensions layout:height="95.0" layout:width="291.0" /></layout:boundingBox></layout:generalGlyph><layout:generalGlyph layout:reference="nel_22" layout:id="nel_22_glyph"><layout:boundingBox><layout:position layout:x="233.0" layout:y="461.0" /><layout:dimensions layout:height="95.0" layout:width="350.0" /></layout:boundingBox></layout:generalGlyph><layout:generalGlyph layout:reference="nel_8" layout:id="nel_8_glyph"><layout:boundingBox><layout:position layout:x="1944.0" layout:y="1473.0" /><layout:dimensions layout:height="95.0" layout:width="351.0" /></layout:boundingBox></layout:generalGlyph></layout:listOfAdditionalGraphicalObjects></layout:layout></layout:listOfLayouts><qual:listOfQualitativeSpecies><qual:qualitativeSpecies qual:maxLevel="1" qual:compartment="comp1" qual:name="Apoptosis_space_pathway_phenotype" qual:constant="true" qual:id="nel_1"><annotation><rdf:RDF>
+<rdf:Description rdf:about="#s_id_nel_1">
+<bqmodel:is>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:wikipathways:WP4864" />
+</rdf:Bag>
+</bqmodel:is>
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:function:Apoptosis_space_pathway_phenotype" /></rdf:Bag></bqbiol:isDescribedBy><bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:cdid:s_id_nel_1" /></rdf:Bag></bqbiol:isDescribedBy></rdf:Description>
+</rdf:RDF>
+</annotation></qual:qualitativeSpecies><qual:qualitativeSpecies qual:maxLevel="1" qual:compartment="comp1" qual:name="SARS-CoV-2_space_RTC_br_and_space_transcription_phenotype" qual:constant="true" qual:id="nel_12"><annotation><rdf:RDF>
+<rdf:Description rdf:about="#s_id_nel_12">
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:function:SARS-CoV-2_space_RTC_br_and_space_transcription_phenotype" /></rdf:Bag></bqbiol:isDescribedBy><bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:cdid:s_id_nel_12" /></rdf:Bag></bqbiol:isDescribedBy></rdf:Description>
+</rdf:RDF>
+</annotation></qual:qualitativeSpecies><qual:qualitativeSpecies qual:maxLevel="1" qual:compartment="comp1" qual:name="PAMP_space_signalling_phenotype" qual:constant="true" qual:id="nel_9"><annotation><rdf:RDF>
+<rdf:Description rdf:about="#s_id_nel_9">
+<bqmodel:is>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:wikipathways:WP4912" />
+</rdf:Bag>
+</bqmodel:is>
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:function:PAMP_space_signalling_phenotype" /></rdf:Bag></bqbiol:isDescribedBy><bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:cdid:s_id_nel_9" /></rdf:Bag></bqbiol:isDescribedBy></rdf:Description>
+</rdf:RDF>
+</annotation></qual:qualitativeSpecies><qual:qualitativeSpecies qual:maxLevel="1" qual:compartment="comp1" qual:name="Electron_space_Transport_space_Chain_space_disruption_phenotype" qual:constant="true" qual:id="nel_4"><annotation><rdf:RDF>
+<rdf:Description rdf:about="#s_id_nel_4">
+<bqmodel:is>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:wikipathways:WP5038" />
+</rdf:Bag>
+</bqmodel:is>
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:function:Electron_space_Transport_space_Chain_space_disruption_phenotype" /></rdf:Bag></bqbiol:isDescribedBy><bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:cdid:s_id_nel_4" /></rdf:Bag></bqbiol:isDescribedBy></rdf:Description>
+</rdf:RDF>
+</annotation></qual:qualitativeSpecies><qual:qualitativeSpecies qual:maxLevel="1" qual:compartment="comp1" qual:name="HMOX1_space_pathway_phenotype" qual:constant="true" qual:id="nel_5"><annotation><rdf:RDF>
+<rdf:Description rdf:about="#s_id_nel_5">
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:function:HMOX1_space_pathway_phenotype" /></rdf:Bag></bqbiol:isDescribedBy><bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:cdid:s_id_nel_5" /></rdf:Bag></bqbiol:isDescribedBy></rdf:Description>
+</rdf:RDF>
+</annotation></qual:qualitativeSpecies><qual:qualitativeSpecies qual:maxLevel="1" qual:compartment="comp1" qual:name="Nsp9_space_protein_br_interactions_phenotype" qual:constant="true" qual:id="nel_15"><annotation><rdf:RDF>
+<rdf:Description rdf:about="#s_id_nel_15">
+<bqmodel:is>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:wikipathways:WP4884" />
+</rdf:Bag>
+</bqmodel:is>
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:function:Nsp9_space_protein_br_interactions_phenotype" /></rdf:Bag></bqbiol:isDescribedBy><bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:cdid:s_id_nel_15" /></rdf:Bag></bqbiol:isDescribedBy></rdf:Description>
+</rdf:RDF>
+</annotation></qual:qualitativeSpecies><qual:qualitativeSpecies qual:maxLevel="1" qual:compartment="comp1" qual:name="Autophagy_space_pathway_phenotype" qual:constant="true" qual:id="sa23"><annotation><rdf:RDF>
+<rdf:Description rdf:about="#s_id_sa23">
+<bqmodel:is>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:wikipathways:WP4936" />
+</rdf:Bag>
+</bqmodel:is>
+<bqmodel:is>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:wikipathways:WP4863" />
+</rdf:Bag>
+</bqmodel:is>
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:function:Autophagy_space_pathway_phenotype" /></rdf:Bag></bqbiol:isDescribedBy><bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:cdid:s_id_sa23" /></rdf:Bag></bqbiol:isDescribedBy></rdf:Description>
+</rdf:RDF>
+</annotation></qual:qualitativeSpecies><qual:qualitativeSpecies qual:maxLevel="1" qual:compartment="comp1" qual:name="Endoplasmic_br_Reticulum_space_stress_phenotype" qual:constant="true" qual:id="nel_3"><annotation><rdf:RDF>
+<rdf:Description rdf:about="#s_id_nel_3">
+<bqmodel:is>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:wikipathways:WP5027" />
+</rdf:Bag>
+</bqmodel:is>
+<bqmodel:is>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:wikipathways:WP4861" />
+</rdf:Bag>
+</bqmodel:is>
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:function:Endoplasmic_br_Reticulum_space_stress_phenotype" /></rdf:Bag></bqbiol:isDescribedBy><bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:cdid:s_id_nel_3" /></rdf:Bag></bqbiol:isDescribedBy></rdf:Description>
+</rdf:RDF>
+</annotation></qual:qualitativeSpecies><qual:qualitativeSpecies qual:maxLevel="1" qual:compartment="comp1" qual:name="Virus_space_replication_space_cycle_phenotype" qual:constant="true" qual:id="nel_19"><annotation><rdf:RDF>
+<rdf:Description rdf:about="#s_id_nel_19">
+<bqmodel:is>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:wikipathways:WP4846" />
+</rdf:Bag>
+</bqmodel:is>
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:function:Virus_space_replication_space_cycle_phenotype" /></rdf:Bag></bqbiol:isDescribedBy><bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:cdid:s_id_nel_19" /></rdf:Bag></bqbiol:isDescribedBy></rdf:Description>
+</rdf:RDF>
+</annotation></qual:qualitativeSpecies><qual:qualitativeSpecies qual:maxLevel="1" qual:compartment="comp1" qual:name="Renin-angiotensin_br_pathway_phenotype" qual:constant="true" qual:id="nel_11"><annotation><rdf:RDF>
+<rdf:Description rdf:about="#s_id_nel_11">
+<bqmodel:is>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:wikipathways:WP4969" />
+</rdf:Bag>
+</bqmodel:is>
+<bqmodel:is>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:wikipathways:WP4883" />
+</rdf:Bag>
+</bqmodel:is>
+<bqmodel:is>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:wikipathways:WP4965" />
+</rdf:Bag>
+</bqmodel:is>
+<bqmodel:is>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:wikipathways:WP4799" />
+</rdf:Bag>
+</bqmodel:is>
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:function:Renin-angiotensin_br_pathway_phenotype" /></rdf:Bag></bqbiol:isDescribedBy><bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:cdid:s_id_nel_11" /></rdf:Bag></bqbiol:isDescribedBy></rdf:Description>
+</rdf:RDF>
+</annotation></qual:qualitativeSpecies><qual:qualitativeSpecies qual:maxLevel="1" qual:compartment="comp1" qual:name="Nsp4_space_and_space_Nsp6_br_protein_space_interactions_phenotype" qual:constant="true" qual:id="nel_14"><annotation><rdf:RDF>
+<rdf:Description rdf:about="#s_id_nel_14">
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:function:Nsp4_space_and_space_Nsp6_br_protein_space_interactions_phenotype" /></rdf:Bag></bqbiol:isDescribedBy><bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:cdid:s_id_nel_14" /></rdf:Bag></bqbiol:isDescribedBy></rdf:Description>
+</rdf:RDF>
+</annotation></qual:qualitativeSpecies><qual:qualitativeSpecies qual:maxLevel="1" qual:compartment="comp1" qual:name="Pyrimidine_space_deprivation_phenotype" qual:constant="true" qual:id="nel_10"><annotation><rdf:RDF>
+<rdf:Description rdf:about="#s_id_nel_10">
+<bqmodel:is>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:wikipathways:WP4961" />
+</rdf:Bag>
+</bqmodel:is>
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:function:Pyrimidine_space_deprivation_phenotype" /></rdf:Bag></bqbiol:isDescribedBy><bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:cdid:s_id_nel_10" /></rdf:Bag></bqbiol:isDescribedBy></rdf:Description>
+</rdf:RDF>
+</annotation></qual:qualitativeSpecies><qual:qualitativeSpecies qual:maxLevel="1" qual:compartment="comp1" qual:name="Interferon_space_lambda_br_pathway_phenotype" qual:constant="true" qual:id="nel_6"><annotation><rdf:RDF>
+<rdf:Description rdf:about="#s_id_nel_6">
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:function:Interferon_space_lambda_br_pathway_phenotype" /></rdf:Bag></bqbiol:isDescribedBy><bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:cdid:s_id_nel_6" /></rdf:Bag></bqbiol:isDescribedBy></rdf:Description>
+</rdf:RDF>
+</annotation></qual:qualitativeSpecies><qual:qualitativeSpecies qual:maxLevel="1" qual:compartment="comp1" qual:name="E_space_protein_br_interactions_phenotype" qual:constant="true" qual:id="nel_13"><annotation><rdf:RDF>
+<rdf:Description rdf:about="#s_id_nel_13">
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:function:E_space_protein_br_interactions_phenotype" /></rdf:Bag></bqbiol:isDescribedBy><bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:cdid:s_id_nel_13" /></rdf:Bag></bqbiol:isDescribedBy></rdf:Description>
+</rdf:RDF>
+</annotation></qual:qualitativeSpecies><qual:qualitativeSpecies qual:maxLevel="1" qual:compartment="comp1" qual:name="Kynurenine_space_synthesis_space_pathway_phenotype" qual:constant="true" qual:id="nel_20"><annotation><rdf:RDF>
+<rdf:Description rdf:about="#s_id_nel_20">
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:function:Kynurenine_space_synthesis_space_pathway_phenotype" /></rdf:Bag></bqbiol:isDescribedBy><bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:cdid:s_id_nel_20" /></rdf:Bag></bqbiol:isDescribedBy></rdf:Description>
+</rdf:RDF>
+</annotation></qual:qualitativeSpecies><qual:qualitativeSpecies qual:maxLevel="1" qual:compartment="comp1" qual:name="TGFbeta_space_signalling_phenotype" qual:constant="true" qual:id="nel_21"><annotation><rdf:RDF>
+<rdf:Description rdf:about="#s_id_nel_21">
+<bqmodel:is>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:wikipathways:WP4904" />
+</rdf:Bag>
+</bqmodel:is>
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:function:TGFbeta_space_signalling_phenotype" /></rdf:Bag></bqbiol:isDescribedBy><bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:cdid:s_id_nel_21" /></rdf:Bag></bqbiol:isDescribedBy></rdf:Description>
+</rdf:RDF>
+</annotation></qual:qualitativeSpecies><qual:qualitativeSpecies qual:maxLevel="1" qual:compartment="comp1" qual:name="Coagulation_space_pathway_phenotype" qual:constant="true" qual:id="nel_2"><annotation><rdf:RDF>
+<rdf:Description rdf:about="#s_id_nel_2">
+<bqmodel:is>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:wikipathways:WP4927" />
+</rdf:Bag>
+</bqmodel:is>
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:function:Coagulation_space_pathway_phenotype" /></rdf:Bag></bqbiol:isDescribedBy><bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:cdid:s_id_nel_2" /></rdf:Bag></bqbiol:isDescribedBy></rdf:Description>
+</rdf:RDF>
+</annotation></qual:qualitativeSpecies><qual:qualitativeSpecies qual:maxLevel="1" qual:compartment="comp1" qual:name="Interferon_space_1_br_pathway_phenotype" qual:constant="true" qual:id="nel_7"><annotation><rdf:RDF>
+<rdf:Description rdf:about="#s_id_nel_7">
+<bqmodel:is>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:wikipathways:WP4868" />
+</rdf:Bag>
+</bqmodel:is>
+<bqmodel:is>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:wikipathways:WP4880" />
+</rdf:Bag>
+</bqmodel:is>
+<bqmodel:is>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:wikipathways:WP5039" />
+</rdf:Bag>
+</bqmodel:is>
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:function:Interferon_space_1_br_pathway_phenotype" /></rdf:Bag></bqbiol:isDescribedBy><bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:cdid:s_id_nel_7" /></rdf:Bag></bqbiol:isDescribedBy></rdf:Description>
+</rdf:RDF>
+</annotation></qual:qualitativeSpecies><qual:qualitativeSpecies qual:maxLevel="1" qual:compartment="comp1" qual:name="Orf10_space_Cul2_space_pathway_phenotype" qual:constant="true" qual:id="nel_18"><annotation><rdf:RDF>
+<rdf:Description rdf:about="#s_id_nel_18">
+<bqmodel:is>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:wikipathways:WP4860" />
+</rdf:Bag>
+</bqmodel:is>
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:function:Orf10_space_Cul2_space_pathway_phenotype" /></rdf:Bag></bqbiol:isDescribedBy><bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:cdid:s_id_nel_18" /></rdf:Bag></bqbiol:isDescribedBy></rdf:Description>
+</rdf:RDF>
+</annotation></qual:qualitativeSpecies><qual:qualitativeSpecies qual:maxLevel="1" qual:compartment="comp1" qual:name="Nsp14_br_and_space_metabolism_phenotype" qual:constant="true" qual:id="nel_16"><annotation><rdf:RDF>
+<rdf:Description rdf:about="#s_id_nel_16">
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:function:Nsp14_br_and_space_metabolism_phenotype" /></rdf:Bag></bqbiol:isDescribedBy><bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:cdid:s_id_nel_16" /></rdf:Bag></bqbiol:isDescribedBy></rdf:Description>
+</rdf:RDF>
+</annotation></qual:qualitativeSpecies><qual:qualitativeSpecies qual:maxLevel="1" qual:compartment="comp1" qual:name="Orf3a_space_protein_br_interactions_phenotype" qual:constant="true" qual:id="nel_17"><annotation><rdf:RDF>
+<rdf:Description rdf:about="#s_id_nel_17">
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:function:Orf3a_space_protein_br_interactions_phenotype" /></rdf:Bag></bqbiol:isDescribedBy><bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:cdid:s_id_nel_17" /></rdf:Bag></bqbiol:isDescribedBy></rdf:Description>
+</rdf:RDF>
+</annotation></qual:qualitativeSpecies><qual:qualitativeSpecies qual:maxLevel="1" qual:compartment="comp1" qual:name="NLRP3_space_inflammasome_space_activation_phenotype" qual:constant="true" qual:id="nel_22"><annotation><rdf:RDF>
+<rdf:Description rdf:about="#s_id_nel_22">
+<bqmodel:is>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:wikipathways:WP4876" />
+</rdf:Bag>
+</bqmodel:is>
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:function:NLRP3_space_inflammasome_space_activation_phenotype" /></rdf:Bag></bqbiol:isDescribedBy><bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:cdid:s_id_nel_22" /></rdf:Bag></bqbiol:isDescribedBy></rdf:Description>
+</rdf:RDF>
+</annotation></qual:qualitativeSpecies><qual:qualitativeSpecies qual:maxLevel="1" qual:compartment="comp1" qual:name="JNK_space_pathway_phenotype" qual:constant="true" qual:id="nel_8"><annotation><rdf:RDF>
+<rdf:Description rdf:about="#s_id_nel_8">
+<bqmodel:is>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:wikipathways:WP4877" />
+</rdf:Bag>
+</bqmodel:is>
+<dcterms:modified rdf:parseType="Resource" />
+<bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:function:JNK_space_pathway_phenotype" /></rdf:Bag></bqbiol:isDescribedBy><bqbiol:isDescribedBy><rdf:Bag><rdf:li rdf:resource="urn:casq:cdid:s_id_nel_8" /></rdf:Bag></bqbiol:isDescribedBy></rdf:Description>
+</rdf:RDF>
+</annotation></qual:qualitativeSpecies></qual:listOfQualitativeSpecies><qual:listOfTransitions /></model></sbml>

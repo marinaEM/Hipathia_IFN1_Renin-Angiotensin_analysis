@@ -1,0 +1,103 @@
+name	label	X	Y	color	shape	type	label.cex	label.color	width	height	genesList	tooltip
+N-hsa952-csa85	Pyrin trimer	4340.8125	435.875	white	rectangle	gene	0.5	black	46	17	4210	Pyrin trimer
+N-hsa952-sa377	PSTPIP1	4354.8125	354.875	white	rectangle	gene	0.5	black	46	17	9051	PSTPIP1
+N-hsa952-csa29	TFRC:holoTF	299	1469	white	rectangle	gene	0.5	black	46	17	7018/7037	TFRC:holoTF
+N-hsa952-csa27	TFRC:holoTF	307.5625	1754.5	white	rectangle	gene	0.5	black	46	17	7018/7037	TFRC:holoTF
+N-hsa952-csa30	TFRC:TF	300	1229	white	rectangle	gene	0.5	black	46	17	7018/7037	TFRC:TF
+N-hsa952-csa93	Caspase-1 Tetramer	3648.3125	1263.875	white	rectangle	gene	0.5	black	46	17	834	Caspase-1 Tetramer
+N-hsa952-csa94	CASP1(120-197):CASP1(317-404)	3956.4375	1270.25	white	rectangle	gene	0.5	black	46	17	834	CASP1(120-197):CASP1(317-404)
+N-hsa952-csa2	Nrf2/Maf	1087.1875	1005.625	white	rectangle	gene	0.5	black	46	17	4094/4780	Nrf2/Maf
+N-hsa952-sa43	NRF2	999.1875	910.625	white	rectangle	gene	0.5	black	46	17	4780	NRF2
+N-hsa952-sa5	MAF	1160.1875	910.625	white	rectangle	gene	0.5	black	46	17	4094	MAF
+N-hsa952-csa81	NLRP3 oligomer:ASC	4048.3125	627.5	white	rectangle	gene	0.5	black	46	17	114548/29108	NLRP3 oligomer:ASC
+N-hsa952-csa78	NLRP3 oligomer:ASC:Caspase1	4038	836.5	white	rectangle	gene	0.5	black	46	17	114548/29108/834	NLRP3 oligomer:ASC:Caspase1
+N-hsa952-sa381	CTSG	4205.8125	1025.875	white	rectangle	gene	0.5	black	46	17	1511	CTSG
+N-hsa952-sa468	NLRP3	4099.8125	427.375	white	rectangle	gene	0.5	black	46	17	114548	NLRP3
+N-hsa952-sa375	ASC	4220.8125	510.875	white	rectangle	gene	0.5	black	46	17	29108	ASC
+N-hsa952-csa31	TFRC:TF	55.21875	1486	white	rectangle	gene	0.5	black	46	17	7018/7037	TFRC:TF
+N-hsa952-csa7	NRF2:KEAP1	1520.3125	447.875	white	rectangle	gene	0.5	black	46	17	4780/9817	NRF2:KEAP1
+N-hsa952-sa6	NRF2	1833.6875	524.625	white	rectangle	gene	0.5	black	46	17	4780	NRF2
+N-hsa952-sa78	KEAP1	1832.6875	462.425	white	rectangle	gene	0.5	black	46	17	9817	KEAP1
+N-hsa952-sa126	Dimethly fumarate	1651.6875	425.625	white	rectangle	compound	0.5	black	46	17	NA	Dimethly fumarate
+N-hsa952-csa21	BLVRA:Zn2+	2512.6875	1135.625	white	rectangle	gene	0.5	black	46	17	644	BLVRA:Zn2+
+N-hsa952-sa150	BLVRA	1248.6875	1234.125	white	rectangle	gene	0.5	black	46	17	644	BLVRA
+N-hsa952-csa4	BACH1/Maf	1227.1875	1004.625	white	rectangle	gene	0.5	black	46	17	571/4094	BACH1/Maf
+N-hsa952-sa44	BACH1	1292.6875	911.625	white	rectangle	gene	0.5	black	46	17	571	BACH1
+N-hsa952-csa73	SUGT1:HSP90AB1	3395.8125	475.875	white	rectangle	gene	0.5	black	46	17	3326/10910	SUGT1:HSP90AB1
+N-hsa952-csa72	NLRP3:SUGT1:HSP90	3594.3125	373.375	white	rectangle	gene	0.5	black	46	17	114548/10910	NLRP3:SUGT1:HSP90
+N-hsa952-csa11	Ferritin	2296.6875	1414.625	white	rectangle	gene	0.5	black	46	17	2512/2495	Ferritin
+N-hsa952-sa145	FTL	1252.6875	1318.125	white	rectangle	gene	0.5	black	46	17	2512	FTL
+N-hsa952-sa144	FTH1	1249.6875	1360.125	white	rectangle	gene	0.5	black	46	17	2495	FTH1
+N-hsa952-csa69	Thioredoxin:TXNIP	3520.8125	629.625	white	rectangle	gene	0.5	black	46	17	7295/10628	Thioredoxin:TXNIP
+N-hsa952-sa363	TXNIP	3720.3125	613.875	white	rectangle	gene	0.5	black	46	17	10628	TXNIP
+N-hsa952-sa364	TXN	3720.8125	673.375	white	rectangle	gene	0.5	black	46	17	7295	TXN
+N-hsa952-csa6	Neddylated CUL3:RBX1	1420.6875	269.625	white	rectangle	gene	0.5	black	46	17	8452/9978	Neddylated CUL3:RBX1
+N-hsa952-csa19	CUL3:RBX1	1260.8125	220.875	white	rectangle	gene	0.5	black	46	17	8452/9978	CUL3:RBX1
+N-hsa952-sa384	CASP1	4075.8125	1125.875	white	rectangle	gene	0.5	black	46	17	834	CASP1
+N-hsa952-sa383	CASP1	3955.8125	1125.875	white	rectangle	gene	0.5	black	46	17	834	CASP1
+N-hsa952-csa10	Ubiquitin Ligase Complex	559.0875	417.425	white	rectangle	gene	0.5	black	46	17	4780/9978/9817/8452	Ubiquitin Ligase Complex
+N-hsa952-sa217	TFRC	153.6875	1776.625	white	rectangle	gene	0.5	black	46	17	7037	TFRC
+N-hsa952-csa23	holoTF	1352	2001	white	rectangle	gene	0.5	black	46	17	7018	holoTF
+N-hsa952-sa376	CASP1	4228.3125	750.875	white	rectangle	gene	0.5	black	46	17	834	CASP1
+N-hsa952-csa74	TXNIP:NLRP3	3935.8125	485.875	white	rectangle	gene	0.5	black	46	17	114548/10628	TXNIP:NLRP3
+N-hsa952-sa525	NLRP3	3419.8125	377.375	white	rectangle	gene	0.5	black	46	17	114548	NLRP3
+N-hsa952-sa38	Bilirubin	2896.75	1867	white	rectangle	compound	0.5	black	46	17	NA	Bilirubin
+N-hsa952-sa40	ALB	2809	1860	white	rectangle	gene	0.5	black	46	17	213	ALB
+N-hsa952-sa214	Transferrin	1700	2114	white	rectangle	gene	0.5	black	46	17	7018	Transferrin
+N-hsa952-csa8	Ubiquitin Ligase Complex	856.6875	412.625	white	rectangle	gene	0.5	black	46	17	9978/4780/9817/8452	Ubiquitin Ligase Complex
+N-hsa952-sa89	E2	1237.6875	379.625	white	rectangle	gene	0.5	black	46	17	NA	E2
+N-hsa952-csa20	Ubiquitin Ligase Complex	1189.6875	444.625	white	rectangle	gene	0.5	black	46	17	9978/4780/9817/8452	Ubiquitin Ligase Complex
+N-hsa952-sa189	CAND1	1429.6875	596.625	white	rectangle	gene	0.5	black	46	17	55832	CAND1
+N-hsa952-csa12	SLC40A1:CP:Cu2+	1817.6875	1740.625	white	rectangle	gene	0.5	black	46	17	30061/1356	SLC40A1:CP:Cu2+
+N-hsa952-sa140	SLC40A1	1250.6875	1403.125	white	rectangle	gene	0.5	black	46	17	30061	SLC40A1
+N-hsa952-csa15	HMBS:DIPY	2850.8125	610.875	white	rectangle	gene	0.5	black	46	17	3145	HMBS:DIPY
+N-hsa952-sa114	UROD	2920.8125	890.875	white	rectangle	gene	0.5	black	46	17	7389	UROD
+N-hsa952-sa464	IL-1B	3512.8125	1393.375	white	rectangle	gene	0.5	black	46	17	3553	IL-1B
+N-hsa952-sa462	proIL-1B	3512.8125	1255.875	white	rectangle	gene	0.5	black	46	17	3553	proIL-1B
+N-hsa952-csa14	ALAD:Zn2+	2903.6875	368.625	white	rectangle	gene	0.5	black	46	17	210	ALAD:Zn2+
+N-hsa952-sa168	HMOX1	1920.8125	1140.875	white	rectangle	gene	0.5	black	46	17	3162	HMOX1
+N-hsa952-csa13	CYBRD1:Heme	1587.6875	1745.625	white	rectangle	gene	0.5	black	46	17	79901	CYBRD1:Heme
+N-hsa952-csa22	SLC40A1:HEPH:Cu2+	2091.6875	1741.625	white	rectangle	gene	0.5	black	46	17	30061/9843	SLC40A1:HEPH:Cu2+
+N-hsa952-sa53	FECH	2371.4375	599.125	white	rectangle	gene	0.5	black	46	17	2235	FECH
+N-hsa952-sa118	CPOX	2527.6875	884.625	white	rectangle	gene	0.5	black	46	17	1371	CPOX
+N-hsa952-sa30	FLVCR1-2	2105.15835347087	721.743203034478	white	rectangle	gene	0.5	black	46	17	28982	FLVCR1-2
+N-hsa952-sa29	HMOX1	1760	1140	white	rectangle	gene	0.5	black	46	17	3162	HMOX1
+N-hsa952-sa169	ORF3a	1840	1040	white	rectangle	gene	0.5	black	46	17	43740569	ORF3a
+N-hsa952-sa367	NLRP3	1605.8125	828.375	white	rectangle	gene	0.5	black	46	17	114548	NLRP3
+N-hsa952-csa101	Nf-KB Complex	1503.3125	915.875	white	rectangle	gene	0.5	black	46	17	4790/4791/5970	Nf-KB Complex
+N-hsa952-csa5	ALAS1:ALAS2	2326.4375	330.125	white	rectangle	gene	0.5	black	46	17	211/212	ALAS1:ALAS2
+N-hsa952-sa22	Biliverdin	2303.8125	1077.375	white	rectangle	compound	0.5	black	46	17	NA	Biliverdin
+N-hsa952-sa36	BLVRB	2620.6875	1136.625	white	rectangle	gene	0.5	black	46	17	645	BLVRB
+N-hsa952-sa243	STEAP3	489.6875	1337.625	white	rectangle	gene	0.5	black	46	17	55240	STEAP3
+N-hsa952-sa151	BLVRB	1256.6875	1277.125	white	rectangle	gene	0.5	black	46	17	645	BLVRB
+N-hsa952-sa32	Bilirubin	2905.8125	1078.375	white	rectangle	compound	0.5	black	46	17	NA	Bilirubin
+N-hsa952-csa17	PPO:FAD	2547.6875	700.625	white	rectangle	gene	0.5	black	46	17	NA	PPO:FAD
+N-hsa952-sa50	HMOX1	1257.6875	1151.125	white	rectangle	gene	0.5	black	46	17	3162	HMOX1
+N-hsa952-sa3	NRF2	1834.1875	665.625	white	rectangle	gene	0.5	black	46	17	4780	NRF2
+N-hsa952-sa190	PKC	1720.8125	570.875	white	rectangle	gene	0.5	black	46	17	NA	PKC
+N-hsa952-sa526	CK2	1720.8125	630.875	white	rectangle	gene	0.5	black	46	17	NA	CK2
+N-hsa952-sa241	MCOLN1	713.6875	1347.625	white	rectangle	gene	0.5	black	46	17	57192	MCOLN1
+N-hsa952-sa164	SLC11A2	1286.6875	1773.625	white	rectangle	gene	0.5	black	46	17	4891	SLC11A2
+N-hsa952-sa147	FECH	1274.6875	800.125	white	rectangle	gene	0.5	black	46	17	2235	FECH
+N-hsa952-sa465	IL-18	3407.8125	1393.375	white	rectangle	gene	0.5	black	46	17	3606	IL-18
+N-hsa952-sa463	proIL-18	3397.8125	1255.875	white	rectangle	gene	0.5	black	46	17	3606	proIL-18
+N-hsa952-sa48	miRNA-155	1400.6875	955.125	white	rectangle	gene	0.5	black	46	17	406947	miRNA-155
+N-hsa952-sa39	ABCC1	2980.8125	1790.875	white	rectangle	gene	0.5	black	46	17	213	ABCC1
+N-hsa952-sa171	ORF9c	3050.8125	1710.875	white	rectangle	gene	0.5	black	46	17	NA	ORF9c
+N-hsa952-sa112	UROS	2880.8125	780.875	white	rectangle	gene	0.5	black	46	17	7390	UROS
+N-hsa952-sa471	SARS E	3980.8125	200.875	white	rectangle	gene	0.5	black	46	17	1489671	SARS E
+N-hsa952-sa469	SARS Orf3a	4080.8125	210.875	white	rectangle	gene	0.5	black	46	17	1489669	SARS Orf3a
+N-hsa952-sa494	NLRP3 Elicitor Small Molecules	4043.3125	264.625	white	rectangle	compound	0.5	black	46	17	NA	NLRP3 Elicitor Small Molecules
+N-hsa952-sa495	NLRP3 Elicitor Proteins	4075.8125	310.875	white	rectangle	gene	0.5	black	46	17	351	NLRP3 Elicitor Proteins
+N-hsa952-csa83	PSTPIP1 trimer:Pyrin trimer	4550.8125	378.375	white	rectangle	gene	0.5	black	46	17	4210/9051	PSTPIP1 trimer:Pyrin trimer
+N-hsa952-csa88	Pyrin trimer:ASC	4490.8125	485.875	white	rectangle	gene	0.5	black	46	17	4210/29108	Pyrin trimer:ASC
+N-hsa952-sa460	proIL-1B	3667.8125	1390.875	white	rectangle	gene	0.5	black	46	17	3553	proIL-1B
+N-hsa952-sa461	proIL-18	3247.8125	1399.625	white	rectangle	gene	0.5	black	46	17	3606	proIL-18
+N-hsa952-sa385	CASP1	4313.3125	1063.375	white	rectangle	gene	0.5	black	46	17	834	CASP1
+N-hsa952-sa382	CASP1	4310.8125	1115.875	white	rectangle	gene	0.5	black	46	17	834	CASP1
+N-hsa952-sa366	TXN	3705.0625	794.125	white	rectangle	gene	0.5	black	46	17	7295	TXN
+N-hsa952-csa32	Ubiquitin Ligase Complex	214.1875	436.625	white	rectangle	gene	0.5	black	46	17	9978/9817/8452	Ubiquitin Ligase Complex
+N-hsa952-sa249	NRF2	370.7875	634.825	white	rectangle	gene	0.5	black	46	17	4780	NRF2
+N-hsa952-csa3	ALB/BIL	2850	1976	white	rectangle	gene	0.5	black	46	17	213	ALB/BIL
+N-hsa952-sa466	IL-1B	3510	1860	white	rectangle	gene	0.5	black	46	17	3553	IL-1B
+N-hsa952-sa467	IL-18	3410	1860	white	rectangle	gene	0.5	black	46	17	3606	IL-18

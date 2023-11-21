@@ -1,0 +1,25 @@
+name	label	X	Y	color	shape	type	label.cex	label.color	width	height	genesList	tooltip
+N-hsa934-sa164	Plasma membrane organization	744.75	427.833333333333	white	rectangle	function	0.5	black	46	17	NA	Plasma membrane organization
+N-hsa934-csa93_3	Nsp4_ALG11	314.5	468.5	white	rectangle	function	0.5	black	46	17	NA	Nsp4_ALG11
+N-hsa934-csa33_3	V-ATPase	877.25	1382.75	white	rectangle	function	0.5	black	46	17	NA	V-ATPase
+N-hsa934-csa50_3	ATP6AP1:Bafilomycin A1	423	1721	white	rectangle	function	0.5	black	46	17	NA	ATP6AP1:Bafilomycin A1
+N-hsa934-csa53_3	SIGMAR1:Drugs	305	1062	white	rectangle	function	0.5	black	46	17	NA	SIGMAR1:Drugs
+N-hsa934-sa226_3	SIGMAR1	568.5	2047.5	white	rectangle	function	0.5	black	46	17	NA	SIGMAR1
+N-hsa934-sa227_3	SIGMAR1	248.5	1823.5	white	rectangle	function	0.5	black	46	17	NA	SIGMAR1
+N-hsa934-csa40_3	P-ATPase:Nsp6	2437.41666666667	313	white	rectangle	function	0.5	black	46	17	NA	P-ATPase:Nsp6
+N-hsa934-csa45_3	SLC6A15:Nsp6	2454	629	white	rectangle	function	0.5	black	46	17	NA	SLC6A15:Nsp6
+N-hsa934-csa43_3	F-ATPase:Nsp6	1651.77777777778	1726.94444444444	white	rectangle	function	0.5	black	46	17	NA	F-ATPase:Nsp6
+N-hsa934-csa5_3	Nsp4_IDE	549.5	267	white	rectangle	function	0.5	black	46	17	NA	Nsp4_IDE
+N-hsa934-csa4_3	Nsp4:IDE	780.5	406	white	rectangle	function	0.5	black	46	17	NA	Nsp4:IDE
+N-hsa934-csa19_3	Nsp6:SIGMAR1	415.666666666667	1951.16666666667	white	rectangle	function	0.5	black	46	17	NA	Nsp6:SIGMAR1
+N-hsa934-csa92_3	Nsp6:SIGMAR1	244.5	1900.5	white	rectangle	function	0.5	black	46	17	NA	Nsp6:SIGMAR1
+N-hsa934-csa47_3	SLC6A15:Orf9c	2562	728	white	rectangle	function	0.5	black	46	17	NA	SLC6A15:Orf9c
+N-hsa934-csa49_3	SLC6A15:Loratadine	2285	881	white	rectangle	function	0.5	black	46	17	NA	SLC6A15:Loratadine
+N-hsa934-csa48_3	SLC6A15:M	2681	827	white	rectangle	function	0.5	black	46	17	NA	SLC6A15:M
+N-hsa934-csa44_3	NUP210:Selinexor	329	776	white	rectangle	function	0.5	black	46	17	NA	NUP210:Selinexor
+N-hsa934-sa224_3	NUP210	655.5	1900.5	white	rectangle	function	0.5	black	46	17	NA	NUP210
+N-hsa934-csa12_3	Nsp4:DNAJC11	1487	970	white	rectangle	function	0.5	black	46	17	NA	Nsp4:DNAJC11
+N-hsa934-sa154_3	IDE	866.516339869281	317	white	rectangle	function	0.5	black	46	17	NA	IDE
+N-hsa934-csa13_3	Nsp4:NUP210	536.5	1870	white	rectangle	function	0.5	black	46	17	NA	Nsp4:NUP210
+N-hsa934-csa34_3	V-ATPase:Nsp6	879.75	1206.25	white	rectangle	function	0.5	black	46	17	NA	V-ATPase:Nsp6
+N-hsa934-csa27_3	TIM complex:Nsp4	1338.125	1650.625	white	rectangle	function	0.5	black	46	17	NA	TIM complex:Nsp4

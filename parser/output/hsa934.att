@@ -1,0 +1,63 @@
+name	label	X	Y	color	shape	type	label.cex	label.color	width	height	genesList	tooltip
+N-hsa934-csa15	Nsp4_ALG11	110	423	white	rectangle	gene	0.5	black	46	17	440138	Nsp4_ALG11
+N-hsa934-csa30	V-ATPase	335	1065	white	rectangle	gene	0.5	black	46	17	537	V-ATPase
+N-hsa934-csa94	V-type proton ATPase	111	1268.5	white	rectangle	gene	0.5	black	46	17	525/90423/526/523/528/51606/529/9550/51382/245973/534/8992/23545/9114/535/533/245972/527/155066/10312	V-type proton ATPase
+N-hsa934-sa223	ATP6AP1	414.5	1206.5	white	rectangle	gene	0.5	black	46	17	537	ATP6AP1
+N-hsa934-sa212	Several drugs	501	831	white	rectangle	compound	0.5	black	46	17	NA	Several drugs
+N-hsa934-sa53	SIGMAR1	109.166666666667	1027.16666666667	white	rectangle	gene	0.5	black	46	17	10280	SIGMAR1
+N-hsa934-sa48	Nsp6	1513	424	white	rectangle	gene	0.5	black	46	17	NA	Nsp6
+N-hsa934-csa41	P-ATPase	2447.58333333333	119.833333333333	white	rectangle	gene	0.5	black	46	17	79572	P-ATPase
+N-hsa934-csa2	Nsp4:IDE	592.5	480	white	rectangle	gene	0.5	black	46	17	3416	Nsp4:IDE
+N-hsa934-csa42	F-ATPase	1447	1391	white	rectangle	gene	0.5	black	46	17	10632	F-ATPase
+N-hsa934-sa255	ATP5MG	1545.52941176471	1322	white	rectangle	gene	0.5	black	46	17	10632	ATP5MG
+N-hsa934-csa97	F-ATPase	1434.52941176471	1166.20588235294	white	rectangle	gene	0.5	black	46	17	NA	F-ATPase
+N-hsa934-csa18	Nsp6:SIGMAR1	112.666666666667	1127.16666666667	white	rectangle	gene	0.5	black	46	17	10280	Nsp6:SIGMAR1
+N-hsa934-sa191	SLC6A15	2095	536	white	rectangle	gene	0.5	black	46	17	55117	SLC6A15
+N-hsa934-sa9	NUP210	214.5	832	white	rectangle	gene	0.5	black	46	17	23225	NUP210
+N-hsa934-sa187	Selinexor	512	725	white	rectangle	compound	0.5	black	46	17	NA	Selinexor
+N-hsa934-sa4	Nsp4	714	754	white	rectangle	gene	0.5	black	46	17	NA	Nsp4
+N-hsa934-sa8	IDE	662	663	white	rectangle	gene	0.5	black	46	17	3416	IDE
+N-hsa934-csa14	Nsp4:NUP210	98.5	711	white	rectangle	gene	0.5	black	46	17	23225	Nsp4:NUP210
+N-hsa934-sa188	Bafilomycin A1	376	1609	white	rectangle	compound	0.5	black	46	17	NA	Bafilomycin A1
+N-hsa934-sa222	ATP13A3	2619.5	227.5	white	rectangle	gene	0.5	black	46	17	79572	ATP13A3
+N-hsa934-csa80	P-ATPase	2716.79166666667	118	white	rectangle	gene	0.5	black	46	17	NA	P-ATPase
+N-hsa934-sa13	DNAJC11	1263	917	white	rectangle	gene	0.5	black	46	17	55735	DNAJC11
+N-hsa934-csa32	V-ATPase:Nsp6	329.5	883.5	white	rectangle	gene	0.5	black	46	17	537	V-ATPase:Nsp6
+N-hsa934-sa192	Orf9c	2265	603	white	rectangle	gene	0.5	black	46	17	NA	Orf9c
+N-hsa934-csa39	Nsp3:Nsp4:Nsp6	935.75	484.833333333333	white	rectangle	gene	0.5	black	46	17	NA	Nsp3:Nsp4:Nsp6
+N-hsa934-sa162	Nsp3	1135.75	453.833333333333	white	rectangle	gene	0.5	black	46	17	NA	Nsp3
+N-hsa934-sa200	Loratadine	2122	638	white	rectangle	compound	0.5	black	46	17	NA	Loratadine
+N-hsa934-sa193	M	2234	753	white	rectangle	gene	0.5	black	46	17	NA	M
+N-hsa934-sa230	ALG11	281.5	301.5	white	rectangle	gene	0.5	black	46	17	440138	ALG11
+N-hsa934-sa217	Nsp4	1096.58823529412	1216.82352941176	white	rectangle	gene	0.5	black	46	17	NA	Nsp4
+N-hsa934-csa29	TIM complex	1214.1875	1193.625	white	rectangle	gene	0.5	black	46	17	90580/29928/26515/26520/26519	TIM complex
+N-hsa934-sa219	Nsp3 (-)	947	370.5	white	rectangle	gene	0.5	black	46	17	NA	Nsp3 (-)
+N-hsa934-sa160	Nsp3 (+)	1068.75	369.333333333333	white	rectangle	gene	0.5	black	46	17	NA	Nsp3 (+)
+N-hsa934-sa3	Nsp4 (+)	712	830	white	rectangle	gene	0.5	black	46	17	NA	Nsp4 (+)
+N-hsa934-sa220	Nsp4 (-)	701	918.5	white	rectangle	gene	0.5	black	46	17	NA	Nsp4 (-)
+N-hsa934-sa47	Nsp6 (+)	1491.16666666667	575.166666666667	white	rectangle	gene	0.5	black	46	17	NA	Nsp6 (+)
+N-hsa934-sa218	Nsp6 (-)	1358	574.5	white	rectangle	gene	0.5	black	46	17	NA	Nsp6 (-)
+N-hsa934-csa24	TOM complex	1008	1407	white	rectangle	gene	0.5	black	46	17	401505/54543/9804/56993/10452/9868	TOM complex
+N-hsa934-csa93	Nsp4_ALG11	114.5	268.5	white	rectangle	gene	0.5	black	46	17	440138	Nsp4_ALG11
+N-hsa934-csa33	V-ATPase	677.25	1182.75	white	rectangle	gene	0.5	black	46	17	537	V-ATPase
+N-hsa934-csa50	ATP6AP1:Bafilomycin A1	223	1521	white	rectangle	gene	0.5	black	46	17	537	ATP6AP1:Bafilomycin A1
+N-hsa934-csa53	SIGMAR1:Drugs	105	862	white	rectangle	gene	0.5	black	46	17	10280	SIGMAR1:Drugs
+N-hsa934-sa226	SIGMAR1	368.5	1847.5	white	rectangle	gene	0.5	black	46	17	10280	SIGMAR1
+N-hsa934-sa227	SIGMAR1	48.5	1623.5	white	rectangle	gene	0.5	black	46	17	10280	SIGMAR1
+N-hsa934-csa40	P-ATPase:Nsp6	2237.41666666667	113	white	rectangle	gene	0.5	black	46	17	79572	P-ATPase:Nsp6
+N-hsa934-csa45	SLC6A15:Nsp6	2254	429	white	rectangle	gene	0.5	black	46	17	55117	SLC6A15:Nsp6
+N-hsa934-csa43	F-ATPase:Nsp6	1451.77777777778	1526.94444444444	white	rectangle	gene	0.5	black	46	17	10632	F-ATPase:Nsp6
+N-hsa934-csa5	Nsp4_IDE	349.5	67	white	rectangle	gene	0.5	black	46	17	3416	Nsp4_IDE
+N-hsa934-csa4	Nsp4:IDE	580.5	206	white	rectangle	gene	0.5	black	46	17	3416	Nsp4:IDE
+N-hsa934-csa19	Nsp6:SIGMAR1	215.666666666667	1751.16666666667	white	rectangle	gene	0.5	black	46	17	10280	Nsp6:SIGMAR1
+N-hsa934-csa92	Nsp6:SIGMAR1	44.5	1700.5	white	rectangle	gene	0.5	black	46	17	10280	Nsp6:SIGMAR1
+N-hsa934-csa47	SLC6A15:Orf9c	2362	528	white	rectangle	gene	0.5	black	46	17	55117	SLC6A15:Orf9c
+N-hsa934-csa49	SLC6A15:Loratadine	2085	681	white	rectangle	gene	0.5	black	46	17	55117	SLC6A15:Loratadine
+N-hsa934-csa48	SLC6A15:M	2481	627	white	rectangle	gene	0.5	black	46	17	55117	SLC6A15:M
+N-hsa934-csa44	NUP210:Selinexor	129	576	white	rectangle	gene	0.5	black	46	17	23225	NUP210:Selinexor
+N-hsa934-sa224	NUP210	455.5	1700.5	white	rectangle	gene	0.5	black	46	17	23225	NUP210
+N-hsa934-csa12	Nsp4:DNAJC11	1287	770	white	rectangle	gene	0.5	black	46	17	55735	Nsp4:DNAJC11
+N-hsa934-sa154	IDE	666.516339869281	117	white	rectangle	gene	0.5	black	46	17	3416	IDE
+N-hsa934-csa13	Nsp4:NUP210	336.5	1670	white	rectangle	gene	0.5	black	46	17	23225	Nsp4:NUP210
+N-hsa934-csa34	V-ATPase:Nsp6	679.75	1006.25	white	rectangle	gene	0.5	black	46	17	537	V-ATPase:Nsp6
+N-hsa934-csa27	TIM complex:Nsp4	1138.125	1450.625	white	rectangle	gene	0.5	black	46	17	90580/29928/26515/26520/26519	TIM complex:Nsp4

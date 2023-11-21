@@ -1,0 +1,15 @@
+name	label	X	Y	color	shape	type	label.cex	label.color	width	height	genesList	tooltip
+N-hsa932-sa197	cognition	1113	2101.5	white	rectangle	function	0.5	black	46	17	NA	cognition
+N-hsa932-sa157	oxidative stress	1113	1982.75	white	rectangle	function	0.5	black	46	17	NA	oxidative stress
+N-hsa932-sa208	pulmonary edema	359	1563.5	white	rectangle	function	0.5	black	46	17	NA	pulmonary edema
+N-hsa932-sa172	thrombosis	1114	1922.5	white	rectangle	function	0.5	black	46	17	NA	thrombosis
+N-hsa932-sa61	inflammatory response	1113	2041.5	white	rectangle	function	0.5	black	46	17	NA	inflammatory response
+N-hsa932-sa209	platelet aggregation	359	1612.5	white	rectangle	function	0.5	black	46	17	NA	platelet aggregation
+N-hsa932-sa171	fibrosis	1113	1862.75	white	rectangle	function	0.5	black	46	17	NA	fibrosis
+N-hsa932-sa56	vasoconstriction	1113	1805.75	white	rectangle	function	0.5	black	46	17	NA	vasoconstriction
+N-hsa932-sa166	viral replication cycle	1121.5	321	white	rectangle	function	0.5	black	46	17	NA	viral replication cycle
+N-hsa932-sa190	neurodegeneration	1340	1738.5	white	rectangle	function	0.5	black	46	17	NA	neurodegeneration
+N-hsa932-sa73_3	ACE2, soluble	1675	366.5	white	rectangle	function	0.5	black	46	17	NA	ACE2, soluble
+N-hsa932-csa4_3	ACE2:AGTR1	1065	1800	white	rectangle	function	0.5	black	46	17	NA	ACE2:AGTR1
+N-hsa932-sa98_3	ACE2	1630	480	white	rectangle	function	0.5	black	46	17	NA	ACE2
+N-hsa932-sa194_3	MME	2380	877.5	white	rectangle	function	0.5	black	46	17	NA	MME

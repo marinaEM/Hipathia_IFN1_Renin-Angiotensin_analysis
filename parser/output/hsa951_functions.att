@@ -1,0 +1,29 @@
+name	label	X	Y	color	shape	type	label.cex	label.color	width	height	genesList	tooltip
+N-hsa951-sa390	C5b-9 deposition	2930.85714285714	498.928571428571	white	rectangle	function	0.5	black	46	17	NA	C5b-9 deposition
+N-hsa951-sa388	C4d deposition	1490.85714285714	532.928571428571	white	rectangle	function	0.5	black	46	17	NA	C4d deposition
+N-hsa951-sa531	Hypokalemia	646	1091	white	rectangle	function	0.5	black	46	17	NA	Hypokalemia
+N-hsa951-sa430	platelet activation	2103	2556.5	white	rectangle	function	0.5	black	46	17	NA	platelet activation
+N-hsa951-sa485	SARS-CoV-2 viral entry	1262	724.5	white	rectangle	function	0.5	black	46	17	NA	SARS-CoV-2 viral entry
+N-hsa951-sa271	Thrombosis	1120.5	1689.25	white	rectangle	function	0.5	black	46	17	NA	Thrombosis
+N-hsa951-sa530	vascular inflammation	223.5	632	white	rectangle	function	0.5	black	46	17	NA	vascular inflammation
+N-hsa951-sa518	vascular remodeling	250	687	white	rectangle	function	0.5	black	46	17	NA	vascular remodeling
+N-hsa951-sa408	apoptosis	3020.85714285714	413.928571428571	white	rectangle	function	0.5	black	46	17	NA	apoptosis
+N-hsa951-sa409	platelet aggregation	2840.85714285714	413.928571428571	white	rectangle	function	0.5	black	46	17	NA	platelet aggregation
+N-hsa951-sa417	MASP2 deposition	1643	536.5	white	rectangle	function	0.5	black	46	17	NA	MASP2 deposition
+N-hsa951-sa389	septal capillary necrosis	1490.85714285714	437.928571428571	white	rectangle	function	0.5	black	46	17	NA	septal capillary necrosis
+N-hsa951-sa441	thrombus formation	2348	2555.75	white	rectangle	function	0.5	black	46	17	NA	thrombus formation
+N-hsa951-sa529	Thrombosis	389.5	464	white	rectangle	function	0.5	black	46	17	NA	Thrombosis
+N-hsa951-csa43_3	C5b-9	2112	770.75	white	rectangle	function	0.5	black	46	17	NA	C5b-9
+N-hsa951-sa253_3	C5a	2146	1624	white	rectangle	function	0.5	black	46	17	NA	C5a
+N-hsa951-sa308_3	C3a	2151	1393	white	rectangle	function	0.5	black	46	17	NA	C3a
+N-hsa951-csa38_3	SERPINF2:Plasmin	533	2570	white	rectangle	function	0.5	black	46	17	NA	SERPINF2:Plasmin
+N-hsa951-sa210_3	D-dimer	1491	2293	white	rectangle	function	0.5	black	46	17	NA	D-dimer
+N-hsa951-csa16_3	PLAT:SERPINE1	1524	2610	white	rectangle	function	0.5	black	46	17	NA	PLAT:SERPINE1
+N-hsa951-csa14_3	TAT complex	527	2295.5	white	rectangle	function	0.5	black	46	17	NA	TAT complex
+N-hsa951-sa183_3	Small peptide	765	1516	white	rectangle	function	0.5	black	46	17	NA	Small peptide
+N-hsa951-sa172_3	F11	610	1526	white	rectangle	function	0.5	black	46	17	NA	F11
+N-hsa951-sa250_3	Kininogen	633	1132	white	rectangle	function	0.5	black	46	17	NA	Kininogen
+N-hsa951-csa12_3	F8:F9	571	1711	white	rectangle	function	0.5	black	46	17	NA	F8:F9
+N-hsa951-sa407_3	Bradykinin(1-5)	843	1087	white	rectangle	function	0.5	black	46	17	NA	Bradykinin(1-5)
+N-hsa951-sa364_3	C4a	1798	1252	white	rectangle	function	0.5	black	46	17	NA	C4a
+N-hsa951-sa368_3	C2b	1838	1352	white	rectangle	function	0.5	black	46	17	NA	C2b

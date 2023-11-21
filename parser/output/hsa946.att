@@ -1,0 +1,43 @@
+name	label	X	Y	color	shape	type	label.cex	label.color	width	height	genesList	tooltip
+N-hsa946-sa81	NFKB1	950	2040	white	rectangle	gene	0.5	black	46	17	4790	NFKB1
+N-hsa946-sa65	NFKBIA	1029	1891	white	rectangle	gene	0.5	black	46	17	4792	NFKBIA
+N-hsa946-sa138	CACTIN	1044.5	2141	white	rectangle	gene	0.5	black	46	17	58509	CACTIN
+N-hsa946-csa10	TAB2/TAB3/TAK1	1054	1091	white	rectangle	gene	0.5	black	46	17	23118/257397/6885	TAB2/TAB3/TAK1
+N-hsa946-csa11	TRIM30a/TRIM38	1300	972	white	rectangle	gene	0.5	black	46	17	10475	TRIM30a/TRIM38
+N-hsa946-sa38	TRAF6	927	827	white	rectangle	gene	0.5	black	46	17	7189	TRAF6
+N-hsa946-csa12	NEMO/IKKA/IKKB	1209	1439	white	rectangle	gene	0.5	black	46	17	1147/3551/8517	NEMO/IKKA/IKKB
+N-hsa946-sa56	TRIM22	1414	1349	white	rectangle	gene	0.5	black	46	17	10346	TRIM22
+N-hsa946-sa67	TRIM29	1353	1271	white	rectangle	gene	0.5	black	46	17	23650	TRIM29
+N-hsa946-csa15	TRIM14/TRIM23	1323	1436	white	rectangle	gene	0.5	black	46	17	9830/373	TRIM14/TRIM23
+N-hsa946-csa13	TRIM27/TRIM21	1092	1436	white	rectangle	gene	0.5	black	46	17	5987/6737	TRIM27/TRIM21
+N-hsa946-sa1	Orf3a	536	982	white	rectangle	gene	0.5	black	46	17	43740569	Orf3a
+N-hsa946-csa7	P65/P015	660	2050	white	rectangle	gene	0.5	black	46	17	5970/4790	P65/P015
+N-hsa946-csa4	IKBKG/IKBKB/CHUK	418	622	white	rectangle	gene	0.5	black	46	17	1147/3551/8517	IKBKG/IKBKB/CHUK
+N-hsa946-sa90	E	726	1785	white	rectangle	gene	0.5	black	46	17	NA	E
+N-hsa946-sa116	TRAF3	625.705882352941	685.588235294118	white	rectangle	gene	0.5	black	46	17	7187	TRAF3
+N-hsa946-csa8	LPS/TLR4/MYD88	855	44.5	white	rectangle	gene	0.5	black	46	17	3664/7099/4615	LPS/TLR4/MYD88
+N-hsa946-sa142	TLR4	585	159	white	rectangle	gene	0.5	black	46	17	7099	TLR4
+N-hsa946-sa141	IRF6	588	106	white	rectangle	gene	0.5	black	46	17	3664	IRF6
+N-hsa946-sa49	MYD88	1090	725	white	rectangle	gene	0.5	black	46	17	4615	MYD88
+N-hsa946-csa3	LPS/TNF /IL-1	414	23	white	rectangle	gene	0.5	black	46	17	3664/7132/3552	LPS/TNF /IL-1
+N-hsa946-csa17	TLR7/8/9	1273	598	white	rectangle	gene	0.5	black	46	17	54106/51311/51284	TLR7/8/9
+N-hsa946-sa42	ssRNA	1372	466.5	white	rectangle	gene	0.5	black	46	17	NA	ssRNA
+N-hsa946-sa137	BTRC	1502.66666666667	1795	white	rectangle	gene	0.5	black	46	17	8945	BTRC
+N-hsa946-sa74	TRIM9	1412	1731	white	rectangle	gene	0.5	black	46	17	114088	TRIM9
+N-hsa946-sa94	TICAM1	1032	313	white	rectangle	gene	0.5	black	46	17	148022	TICAM1
+N-hsa946-sa93	TLR3	1144	337	white	rectangle	gene	0.5	black	46	17	7098	TLR3
+N-hsa946-sa52	TRIM38	838	723	white	rectangle	gene	0.5	black	46	17	10475	TRIM38
+N-hsa946-sa3	TRIM59	662	399	white	rectangle	gene	0.5	black	46	17	286827	TRIM59
+N-hsa946-sa88	IFNB1	780	2120	white	rectangle	gene	0.5	black	46	17	3456	IFNB1
+N-hsa946-sa87	SERPINF2	845	2000	white	rectangle	gene	0.5	black	46	17	5345	SERPINF2
+N-hsa946-sa92	IL1b	754	1869	white	rectangle	gene	0.5	black	46	17	3553	IL1b
+N-hsa946-sa25	CASP1	664	1717	white	rectangle	gene	0.5	black	46	17	834	CASP1
+N-hsa946-sa70	TRIM23	999.666666666667	676.666666666667	white	rectangle	gene	0.5	black	46	17	373	TRIM23
+N-hsa946-sa14	PYCARD	869	1163	white	rectangle	gene	0.5	black	46	17	29108	PYCARD
+N-hsa946-sa10	NLRP3	745	1201	white	rectangle	gene	0.5	black	46	17	114548	NLRP3
+N-hsa946-sa41	double-stranded RNA	1363	409.5	white	rectangle	gene	0.5	black	46	17	NA	double-stranded RNA
+N-hsa946-sa76	TRIM39	1265	2218	white	rectangle	gene	0.5	black	46	17	56658	TRIM39
+N-hsa946-sa132	ORF8b	665	1134	white	rectangle	gene	0.5	black	46	17	NA	ORF8b
+N-hsa946-csa21	NFKB1:NFKNIA	1139	1999	white	rectangle	gene	0.5	black	46	17	4790/4792	NFKB1:NFKNIA
+N-hsa946-csa2	Hops Complex	219	970	white	rectangle	gene	0.5	black	46	17	3162/29880/151188/23155/25777/23339/55823	Hops Complex
+N-hsa946-sa34	S	472	1120	white	rectangle	gene	0.5	black	46	17	43740568	S

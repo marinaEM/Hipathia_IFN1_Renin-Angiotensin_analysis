@@ -1,0 +1,19 @@
+name	label	X	Y	color	shape	type	label.cex	label.color	width	height	genesList	tooltip
+N-hsa935-glyph4_3	CoV poly-merase complex	2035	1065	white	rectangle	function	0.5	black	46	17	NA	CoV poly-merase complex
+N-hsa935-glyph6_3	complex	2035	1345	white	rectangle	function	0.5	black	46	17	NA	complex
+N-hsa935-glyph16_3	(-)gRNA (including ORF1a ORF1b)	2276	885	white	rectangle	function	0.5	black	46	17	NA	(-)gRNA (including ORF1a ORF1b)
+N-hsa935-glyph42_3	nsp9	1881	1430	white	rectangle	function	0.5	black	46	17	NA	nsp9
+N-hsa935-glyph46_3	pp1a	2286	1255	white	rectangle	function	0.5	black	46	17	NA	pp1a
+N-hsa935-glyph53_3	pp1ab	2486	1255	white	rectangle	function	0.5	black	46	17	NA	pp1ab
+N-hsa935-glyph34_3	nsp13	636	505	white	rectangle	function	0.5	black	46	17	NA	nsp13
+N-hsa935-glyph52_3	nsp15	636	425	white	rectangle	function	0.5	black	46	17	NA	nsp15
+N-hsa935-glyph36_3	nsp16	636	345	white	rectangle	function	0.5	black	46	17	NA	nsp16
+N-hsa935-glyph19_3	viral accessory	2300	575	white	rectangle	function	0.5	black	46	17	NA	viral accessory
+N-hsa935-glyph18_3	structural proteins	2300	680	white	rectangle	function	0.5	black	46	17	NA	structural proteins
+N-hsa935-glyph45_3	nsp3	691	1150	white	rectangle	function	0.5	black	46	17	NA	nsp3
+N-hsa935-glyph67_3	nsp5	561	1235	white	rectangle	function	0.5	black	46	17	NA	nsp5
+N-hsa935-glyph66_3	nsp11	431	1315	white	rectangle	function	0.5	black	46	17	NA	nsp11
+N-hsa935-glyph41_3	nsp4	431	1235	white	rectangle	function	0.5	black	46	17	NA	nsp4
+N-hsa935-glyph56_3	nsp6	691	1235	white	rectangle	function	0.5	black	46	17	NA	nsp6
+N-hsa935-glyph37_3	nsp2	561	1150	white	rectangle	function	0.5	black	46	17	NA	nsp2
+N-hsa935-glyph39_3	nsp1	431	1150	white	rectangle	function	0.5	black	46	17	NA	nsp1

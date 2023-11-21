@@ -1,0 +1,6 @@
+name	label	X	Y	color	shape	type	label.cex	label.color	width	height	genesList	tooltip
+N-hsa946-sa88_3	IFNB1	980	2320	white	rectangle	function	0.5	black	46	17	NA	IFNB1
+N-hsa946-sa92_3	IL1b	954	2069	white	rectangle	function	0.5	black	46	17	NA	IL1b
+N-hsa946-csa21_3	NFKB1:NFKNIA	1339	2199	white	rectangle	function	0.5	black	46	17	NA	NFKB1:NFKNIA
+N-hsa946-csa2_3	Hops Complex	419	1170	white	rectangle	function	0.5	black	46	17	NA	Hops Complex
+N-hsa946-sa34_3	S	672	1320	white	rectangle	function	0.5	black	46	17	NA	S

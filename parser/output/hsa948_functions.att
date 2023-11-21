@@ -1,0 +1,36 @@
+name	label	X	Y	color	shape	type	label.cex	label.color	width	height	genesList	tooltip
+N-hsa948-path_0_sa231	Persistant ER Stress	3803	1124.625	white	rectangle	function	0.5	black	46	17	NA	Persistant ER Stress
+N-hsa948-path_1_sa69	ER stress	1243.25	1134.75	white	rectangle	function	0.5	black	46	17	NA	ER stress
+N-hsa948-path_0_sa259	high Ca2+ cytosolic concentration	3327.5	769.875	white	rectangle	function	0.5	black	46	17	NA	high Ca2+ cytosolic concentration
+N-hsa948-path_1_sa97	mitochondrion-endoplasmic reticulum membrane tethering 	415	1187.5	white	rectangle	function	0.5	black	46	17	NA	mitochondrion-endoplasmic reticulum membrane tethering 
+N-hsa948-path_0_sa44	Apoptosis	3530	2069.125	white	rectangle	function	0.5	black	46	17	NA	Apoptosis
+N-hsa948-path_0_sa135	Cell survival	3576.5	1926.125	white	rectangle	function	0.5	black	46	17	NA	Cell survival
+N-hsa948-path_0_sa58	ER Stress	3843	1056.875	white	rectangle	function	0.5	black	46	17	NA	ER Stress
+N-hsa948-path_0_sa37	ERAD	3868	864.125	white	rectangle	function	0.5	black	46	17	NA	ERAD
+N-hsa948-path_0_sa132	release of ER Ca2+	3596	813.375	white	rectangle	function	0.5	black	46	17	NA	release of ER Ca2+
+N-hsa948-path_0_sa336	accumulation of misfolded protein in ER	3759	970.625	white	rectangle	function	0.5	black	46	17	NA	accumulation of misfolded protein in ER
+N-hsa948-path_0_sa15	retrograde transport from ER to cytosol	4116	1163.625	white	rectangle	function	0.5	black	46	17	NA	retrograde transport from ER to cytosol
+N-hsa948-path_1_sa110	Apoptosis	851	963.375	white	rectangle	function	0.5	black	46	17	NA	Apoptosis
+N-hsa948-sa271	viral entry into host cell	137	339	white	rectangle	function	0.5	black	46	17	NA	viral entry into host cell
+N-hsa948-path_1_sa169	mitochondrial fission	1253.53125	1724.90625	white	rectangle	function	0.5	black	46	17	NA	mitochondrial fission
+N-hsa948-path_0_sa96	Translation initiation	4067.75	794.875	white	rectangle	function	0.5	black	46	17	NA	Translation initiation
+N-hsa948-path_1_sa159	mitochondrial outer membrane depolarization	1078.96875	1904.03125	white	rectangle	function	0.5	black	46	17	NA	mitochondrial outer membrane depolarization
+N-hsa948-path_1_sa150	Ca2+ mitochondrial concentration	885.46875	2006.21875	white	rectangle	function	0.5	black	46	17	NA	Ca2+ mitochondrial concentration
+N-hsa948-path_1_sa143	endoplasmic reticulum calcium ion homeostasis	1100	1188.5	white	rectangle	function	0.5	black	46	17	NA	endoplasmic reticulum calcium ion homeostasis
+N-hsa948-path_1_sa152	autophagy	820	1322.1875	white	rectangle	function	0.5	black	46	17	NA	autophagy
+N-hsa948-path_1_sa151	Ca2+ cytosolic concentration	734.75	1596.375	white	rectangle	function	0.5	black	46	17	NA	Ca2+ cytosolic concentration
+N-hsa948-path_0_sa36	UPR	3840	2174.125	white	rectangle	function	0.5	black	46	17	NA	UPR
+N-hsa948-path_1_sa109	endoplasmic reticulum organization	207	968.5	white	rectangle	function	0.5	black	46	17	NA	endoplasmic reticulum organization
+N-hsa948-path_1_sa120	unfolded protein response (UPR)	816.5	1076.75	white	rectangle	function	0.5	black	46	17	NA	unfolded protein response (UPR)
+N-hsa948-sa266	pulmonary fibrosis	893	134	white	rectangle	function	0.5	black	46	17	NA	pulmonary fibrosis
+N-hsa948-sa280	viral RNA genome replication	1001	264	white	rectangle	function	0.5	black	46	17	NA	viral RNA genome replication
+N-hsa948-path_1_sa31	mitochondrial calcium ion transmembrane transport	1395.96875	2075.28125	white	rectangle	function	0.5	black	46	17	NA	mitochondrial calcium ion transmembrane transport
+N-hsa948-path_0_sa211	hyperoxidation	1917	1033.5	white	rectangle	function	0.5	black	46	17	NA	hyperoxidation
+N-hsa948-path_0_sa16	protein ubiquitination and destruction	4106	878.5	white	rectangle	function	0.5	black	46	17	NA	protein ubiquitination and destruction
+N-hsa948-path_1_sa154	mitochondria fragmentation	1241.03125	1794.90625	white	rectangle	function	0.5	black	46	17	NA	mitochondria fragmentation
+N-hsa948-path_1_csa14_3	SIGMAR1:ITPR3	1868.5	1632	white	rectangle	function	0.5	black	46	17	NA	SIGMAR1:ITPR3
+N-hsa948-csa29_3	ACE2:Spike	1442	365	white	rectangle	function	0.5	black	46	17	NA	ACE2:Spike
+N-hsa948-path_0_sa54_3	BCL2	1512	767.5	white	rectangle	function	0.5	black	46	17	NA	BCL2
+N-hsa948-path_0_sa261_3	AP-1	3290	2374.125	white	rectangle	function	0.5	black	46	17	NA	AP-1
+N-hsa948-path_0_sa606_3	HYOU1	2285	906	white	rectangle	function	0.5	black	46	17	NA	HYOU1
+N-hsa948-sa278_3	ACE2	1260	783.5	white	rectangle	function	0.5	black	46	17	NA	ACE2

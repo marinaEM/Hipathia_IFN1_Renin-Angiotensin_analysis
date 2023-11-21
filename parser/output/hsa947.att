@@ -1,0 +1,58 @@
+name	label	X	Y	color	shape	type	label.cex	label.color	width	height	genesList	tooltip
+N-hsa947-csa6	NLRP3:SUGT1:HSP90	1809	1200	white	rectangle	gene	0.5	black	46	17	114548/10910	NLRP3:SUGT1:HSP90
+N-hsa947-sa92	NLRP3	1824	930	white	rectangle	gene	0.5	black	46	17	114548	NLRP3
+N-hsa947-csa4	SUGT1:HSP90AB1	2009	935	white	rectangle	gene	0.5	black	46	17	3326/10910	SUGT1:HSP90AB1
+N-hsa947-csa28	ASC:MAVS	1174	1947.5	white	rectangle	gene	0.5	black	46	17	29108/57506	ASC:MAVS
+N-hsa947-sa104	ASC	964	1988	white	rectangle	gene	0.5	black	46	17	29108	ASC
+N-hsa947-sa102	MAVS	1049	2140	white	rectangle	gene	0.5	black	46	17	57506	MAVS
+N-hsa947-csa24	TRAF3:SARS Orf3a	1474	2170	white	rectangle	gene	0.5	black	46	17	1489669/7187	TRAF3:SARS Orf3a
+N-hsa947-sa3	Orf3a	1264	2210	white	rectangle	gene	0.5	black	46	17	1489669	Orf3a
+N-hsa947-sa99	TRAF3	1234	2100	white	rectangle	gene	0.5	black	46	17	7187	TRAF3
+N-hsa947-csa7	CASP1(120-197):CASP1(317-404)	2739.625	1966.875	white	rectangle	gene	0.5	black	46	17	834	CASP1(120-197):CASP1(317-404)
+N-hsa947-sa168	CASP1	2557.58333333333	1987.375	white	rectangle	gene	0.5	black	46	17	834	CASP1
+N-hsa947-sa169	CASP1	2556.08333333333	1904.625	white	rectangle	gene	0.5	black	46	17	834	CASP1
+N-hsa947-csa13	NLRP3 oligomer:ASC	1915.375	1923.25	white	rectangle	gene	0.5	black	46	17	114548/29108	NLRP3 oligomer:ASC
+N-hsa947-sa103	ASC	1724	1990	white	rectangle	gene	0.5	black	46	17	29108	ASC
+N-hsa947-sa101	NLRP3	1821	1597	white	rectangle	gene	0.5	black	46	17	114548	NLRP3
+N-hsa947-csa10	NLRP3 oligomer:ASC:proCaspase1	2201.6875	1928.625	white	rectangle	gene	0.5	black	46	17	834/29108/114548	NLRP3 oligomer:ASC:proCaspase1
+N-hsa947-sa26	CTSG	2465	1892.5	white	rectangle	gene	0.5	black	46	17	1511	CTSG
+N-hsa947-csa23	Nf-KB Complex	2610.25	1212.5	white	rectangle	gene	0.5	black	46	17	4791/4790	Nf-KB Complex
+N-hsa947-csa22	Nf-KB Complex	2611.5	960	white	rectangle	gene	0.5	black	46	17	4790/4791	Nf-KB Complex
+N-hsa947-csa21	NF-KB COMPLEX:IKBA	2880	935.625	white	rectangle	gene	0.5	black	46	17	4791/4790	NF-KB COMPLEX:IKBA
+N-hsa947-sa135	NLRP3 Elicitor Small Molecules	1466.5	1723.75	white	rectangle	compound	0.5	black	46	17	NA	NLRP3 Elicitor Small Molecules
+N-hsa947-sa136	NLRP3 Elicitor Proteins	1615	1650	white	rectangle	gene	0.5	black	46	17	351	NLRP3 Elicitor Proteins
+N-hsa947-sa1	Reactive Oxygen Species	1172.5	1445	white	rectangle	compound	0.5	black	46	17	NA	Reactive Oxygen Species
+N-hsa947-csa3	TXNIP:NLRP3	1589	1002.5	white	rectangle	gene	0.5	black	46	17	114548/10628	TXNIP:NLRP3
+N-hsa947-sa142	Ca2+	1271.5	1297.5	white	rectangle	compound	0.5	black	46	17	NA	Ca2+
+N-hsa947-csa5	Caspase-1 Tetramer	2731.5	1828.25	white	rectangle	gene	0.5	black	46	17	834	Caspase-1 Tetramer
+N-hsa947-csa30	TRAF3:SARS Orf3a	2324	570	white	rectangle	gene	0.5	black	46	17	1489669/7187	TRAF3:SARS Orf3a
+N-hsa947-sa100	CASP1	2079	1810	white	rectangle	gene	0.5	black	46	17	834	CASP1
+N-hsa947-sa8	TXNIP	1513.5	850.5	white	rectangle	gene	0.5	black	46	17	10628	TXNIP
+N-hsa947-sa83	p50	2624	770	white	rectangle	gene	0.5	black	46	17	4790	p50
+N-hsa947-sa86	p65	2734	770	white	rectangle	gene	0.5	black	46	17	4791	p65
+N-hsa947-csa29	ASC:MAVS:TRAF3	1341	1917	white	rectangle	gene	0.5	black	46	17	7187/29108/57506	ASC:MAVS:TRAF3
+N-hsa947-csa27	ASC:MAVS:TRAF3	1514	1917.5	white	rectangle	gene	0.5	black	46	17	7187/29108/57506	ASC:MAVS:TRAF3
+N-hsa947-csa1	Thioredoxin:TXNIP	1414	676.25	white	rectangle	gene	0.5	black	46	17	7295/10628	Thioredoxin:TXNIP
+N-hsa947-sa7	TXN	1304	850	white	rectangle	gene	0.5	black	46	17	7295	TXN
+N-hsa947-sa82	IKBA	2752	911	white	rectangle	gene	0.5	black	46	17	NA	IKBA
+N-hsa947-sa15	proIL-1B	2629	1725	white	rectangle	gene	0.5	black	46	17	3553	proIL-1B
+N-hsa947-sa93	proIL-18	2789	1427.5	white	rectangle	gene	0.5	black	46	17	3606	proIL-18
+N-hsa947-sa94	proIL-1B	2459	1427.5	white	rectangle	gene	0.5	black	46	17	3553	proIL-1B
+N-hsa947-sa152	Heme	585	1757	white	rectangle	compound	0.5	black	46	17	NA	Heme
+N-hsa947-sa154	O2	711.5	1798.5	white	rectangle	compound	0.5	black	46	17	NA	O2
+N-hsa947-sa153	NADPH	663.5	1775.5	white	rectangle	compound	0.5	black	46	17	NA	NADPH
+N-hsa947-sa161	HMOX1	797	1670	white	rectangle	gene	0.5	black	46	17	3162	HMOX1
+N-hsa947-sa84	p105	2424	770	white	rectangle	gene	0.5	black	46	17	4790	p105
+N-hsa947-sa158	CO	1057.25	1564.25	white	rectangle	compound	0.5	black	46	17	NA	CO
+N-hsa947-sa140	E	950.875	1297.1875	white	rectangle	gene	0.5	black	46	17	1489671	E
+N-hsa947-sa146	E	1114	1172	white	rectangle	gene	0.5	black	46	17	1489671	E
+N-hsa947-sa17	IL-1B	2929	1720	white	rectangle	gene	0.5	black	46	17	3553	IL-1B
+N-hsa947-sa16	IL-18	2934	1652.5	white	rectangle	gene	0.5	black	46	17	3606	IL-18
+N-hsa947-sa14	proIL-18	2664	1655	white	rectangle	gene	0.5	black	46	17	3606	proIL-18
+N-hsa947-sa171	CASP1	2556.66666666667	2116	white	rectangle	gene	0.5	black	46	17	834	CASP1
+N-hsa947-sa170	CASP1	2657.33333333333	2082	white	rectangle	gene	0.5	black	46	17	834	CASP1
+N-hsa947-sa175	TXN	1301.5	1002.5	white	rectangle	gene	0.5	black	46	17	7295	TXN
+N-hsa947-sa172	proIL-1B	2913.5	1783.5	white	rectangle	gene	0.5	black	46	17	3553	proIL-1B
+N-hsa947-sa18	proIL-18	2899	1593.25	white	rectangle	gene	0.5	black	46	17	3606	proIL-18
+N-hsa947-sa21	IL-1B	3154	1720	white	rectangle	gene	0.5	black	46	17	3553	IL-1B
+N-hsa947-sa20	IL-18	3154	1650	white	rectangle	gene	0.5	black	46	17	3606	IL-18

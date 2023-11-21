@@ -1,0 +1,7 @@
+name	label	X	Y	color	shape	type	label.cex	label.color	width	height	genesList	tooltip
+N-hsa933-sa463	mt DNA replication	1818	1018.5	white	rectangle	function	0.5	black	46	17	NA	mt DNA replication
+N-hsa933-sa391_3	TXN2	1175	1758	white	rectangle	function	0.5	black	46	17	NA	TXN2
+N-hsa933-sa690_3	precursor protein N-terminus binding	852	2097	white	rectangle	function	0.5	black	46	17	NA	precursor protein N-terminus binding
+N-hsa933-csa35_3	complex 4	2071.33333333333	448	white	rectangle	function	0.5	black	46	17	NA	complex 4
+N-hsa933-csa60_3	mtDNA encoded OXPHOS units	2145.75	1903.5	white	rectangle	function	0.5	black	46	17	NA	mtDNA encoded OXPHOS units
+N-hsa933-csa55_3	MT tRNAs	1870.5	1416	white	rectangle	function	0.5	black	46	17	NA	MT tRNAs

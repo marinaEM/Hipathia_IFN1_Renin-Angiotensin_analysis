@@ -1,0 +1,6 @@
+name	label	X	Y	color	shape	type	label.cex	label.color	width	height	genesList	tooltip
+N-hsa937-sa74	Maintenance of tight junction	703.5	1399.5	white	rectangle	function	0.5	black	46	17	NA	Maintenance of tight junction
+N-hsa937-sa73	Activity of sodium channels	2322.5	1432.5	white	rectangle	function	0.5	black	46	17	NA	Activity of sodium channels
+N-hsa937-sa77	RNA Polymerase II-dependent Transcription 	1780	455	white	rectangle	function	0.5	black	46	17	NA	RNA Polymerase II-dependent Transcription 
+N-hsa937-sa78	Chromatin organization	1585	680	white	rectangle	function	0.5	black	46	17	NA	Chromatin organization
+N-hsa937-sa17_3	TBP	1790	975	white	rectangle	function	0.5	black	46	17	NA	TBP

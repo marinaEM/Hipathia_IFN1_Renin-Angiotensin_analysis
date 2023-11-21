@@ -1,0 +1,16 @@
+name	label	X	Y	color	shape	type	label.cex	label.color	width	height	genesList	tooltip
+N-hsa940-csa4	AP-1	1175	414	white	rectangle	gene	0.5	black	46	17	3725,3727	AP-1
+N-hsa940-csa1	JNK	716	652	white	rectangle	gene	0.5	black	46	17	5599,5601,5602	JNK
+N-hsa940-sa75	3b	1083	130	white	rectangle	gene	0.5	black	46	17	1489670	3b
+N-hsa940-csa2	MLK1/2/3	262	245	white	rectangle	gene	0.5	black	46	17	4293,4294,4296	MLK1/2/3
+N-hsa940-csa5	SARS-CoV-1 proteins	125	51	white	rectangle	gene	0.5	black	46	17	1489669,1489670,1489674,1489668	SARS-CoV-1 proteins
+N-hsa940-csa3	MEKK1/4	256	475	white	rectangle	gene	0.5	black	46	17	4214,4216	MEKK1/4
+N-hsa940-csa12	JNK	470	651	white	rectangle	gene	0.5	black	46	17	5599,5601,5602	JNK
+N-hsa940-sa4	MAP2K4	537	598	white	rectangle	gene	0.5	black	46	17	6416	MAP2K4
+N-hsa940-sa5	MAP2K7	522	402	white	rectangle	gene	0.5	black	46	17	5609	MAP2K7
+N-hsa940-sa76	7a	544	130	white	rectangle	gene	0.5	black	46	17	1489674	7a
+N-hsa940-sa77	3a	444	130	white	rectangle	gene	0.5	black	46	17	1489669	3a
+N-hsa940-sa78	S	650	130	white	rectangle	gene	0.5	black	46	17	1489668	S
+N-hsa940-sa12	BCL2	1146	731	white	rectangle	gene	0.5	black	46	17	596	BCL2
+N-hsa940-sa34	TP53	1045	950	white	rectangle	gene	0.5	black	46	17	7157	TP53
+N-hsa940-sa33	ATF2	1050	888	white	rectangle	gene	0.5	black	46	17	1386	ATF2

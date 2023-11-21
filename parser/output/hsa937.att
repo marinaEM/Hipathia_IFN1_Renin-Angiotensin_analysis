@@ -1,0 +1,30 @@
+name	label	X	Y	color	shape	type	label.cex	label.color	width	height	genesList	tooltip
+N-hsa937-csa7	CRB3:PALS1:PATJ complex	747.5	1214.5	white	rectangle	gene	0.5	black	46	17	92359/10207/64398	CRB3:PALS1:PATJ complex
+N-hsa937-sa34	CRB3	537.525974025974	1234.05194805195	white	rectangle	gene	0.5	black	46	17	92359	CRB3
+N-hsa937-sa33	PATJ	629.525974025974	1236.05194805195	white	rectangle	gene	0.5	black	46	17	10207	PATJ
+N-hsa937-sa30	MPP5	280.071428571429	1234.96103896104	white	rectangle	gene	0.5	black	46	17	64398	MPP5
+N-hsa937-csa3	E-PALS1	567.5	1032.5	white	rectangle	gene	0.5	black	46	17	64398	E-PALS1
+N-hsa937-sa32	E	177.525974025974	1073.05194805195	white	rectangle	gene	0.5	black	46	17	NA	E
+N-hsa937-csa4	ASIC1 trimer:H+:STOML3	2129.52597402597	1187.14285714286	white	rectangle	gene	0.5	black	46	17	161003/41	ASIC1 trimer:H+:STOML3
+N-hsa937-sa25	ASIC1	1858.07142857143	1221.32467532468	white	rectangle	gene	0.5	black	46	17	41	ASIC1
+N-hsa937-sa24	STOML3	1982.52597402597	1234.14285714286	white	rectangle	gene	0.5	black	46	17	161003	STOML3
+N-hsa937-csa2	histone	1176.77597402597	435.142857142857	white	rectangle	gene	0.5	black	46	17	333932/8350/8359/8370/121504/8294/8349	histone
+N-hsa937-sa9	H4C14	935	514	white	rectangle	gene	0.5	black	46	17	8370	H4C14
+N-hsa937-sa8	H4-16	935	470.775510204081	white	rectangle	gene	0.5	black	46	17	121504	H4-16
+N-hsa937-sa2	H4C1	935	427.551020408161	white	rectangle	gene	0.5	black	46	17	8359	H4C1
+N-hsa937-sa3	H3C15	935	342.673469387757	white	rectangle	gene	0.5	black	46	17	333932	H3C15
+N-hsa937-sa1	H3C1	935	384.326530612242	white	rectangle	gene	0.5	black	46	17	8350	H3C1
+N-hsa937-sa5	H4C9	935	557.224489795919	white	rectangle	gene	0.5	black	46	17	8294	H4C9
+N-hsa937-sa7	H2BC21	935	600.448979591839	white	rectangle	gene	0.5	black	46	17	8349	H2BC21
+N-hsa937-sa6	H2A	935	643.673469387757	white	rectangle	gene	0.5	black	46	17	NA	H2A
+N-hsa937-csa10	ATP1A:ATP1B:FXYDs	2846.5	1168	white	rectangle	gene	0.5	black	46	17	5348/486/5349/53828/53827/53826/53822/476/481	ATP1A:ATP1B:FXYDs
+N-hsa937-csa8	P-TEFb	1799.47402597403	283.357142857143	white	rectangle	gene	0.5	black	46	17	904/1025	P-TEFb
+N-hsa937-sa15	CDK9	1625	300	white	rectangle	gene	0.5	black	46	17	1025	CDK9
+N-hsa937-sa11	CCNT1	1461	351	white	rectangle	gene	0.5	black	46	17	904	CCNT1
+N-hsa937-csa1	histone	1458.77597402597	434.142857142857	white	rectangle	gene	0.5	black	46	17	333932/8350/8359/8370/121504/8349/8294	histone
+N-hsa937-sa21	BRD2	1370.52597402597	717.142857142857	white	rectangle	gene	0.5	black	46	17	6046	BRD2
+N-hsa937-sa12	BRD4	1231.02597402597	234.142857142857	white	rectangle	gene	0.5	black	46	17	23476	BRD4
+N-hsa937-sa17	TBP	1590	775	white	rectangle	gene	0.5	black	46	17	6908	TBP
+N-hsa937-sa13	E	1299.02597402597	163.142857142857	white	rectangle	gene	0.5	black	46	17	NA	E
+N-hsa937-sa79	JQ-1	1235	678.5	white	rectangle	compound	0.5	black	46	17	NA	JQ-1
+N-hsa937-sa26	H+	1710.02597402597	1289.64285714286	white	rectangle	compound	0.5	black	46	17	NA	H+

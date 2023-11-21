@@ -1,0 +1,144 @@
+name	label	X	Y	color	shape	type	label.cex	label.color	width	height	genesList	tooltip
+N-hsa938-csa430	ACE2:SPIKE complex	533.5	350.5	white	rectangle	gene	0.5	black	46	17	59272/43740568	ACE2:SPIKE complex
+N-hsa938-csa389	Nucleocapsid	5054.625	941.956730769231	white	rectangle	gene	0.5	black	46	17	43740575	Nucleocapsid
+N-hsa938-sa1462	ACE2	180.5	444.5	white	rectangle	gene	0.5	black	46	17	59272	ACE2
+N-hsa938-sa2009	S	3846.55806036069	369.903150303644	white	rectangle	gene	0.5	black	46	17	43740568	S
+N-hsa938-sa2369	Heparan sulfate	357	444.5	white	rectangle	compound	0.5	black	46	17	NA	Heparan sulfate
+N-hsa938-csa398	Replication transcription complex:N oligomer	3574.5	2269.5	white	rectangle	gene	0.5	black	46	17	43740575	Replication transcription complex:N oligomer
+N-hsa938-sa1887	N	3730.22222222222	2919	white	rectangle	gene	0.5	black	46	17	43740575	N
+N-hsa938-csa410	Replication transcription complex	2151.71428571429	1910.85714285714	white	rectangle	gene	0.5	black	46	17	NA	Replication transcription complex
+N-hsa938-sa2199	Nsp16	2003.78373015873	1588.92475981621	white	rectangle	gene	0.5	black	46	17	NA	Nsp16
+N-hsa938-sa2205	Nsp15	2090.11111111111	1589.92475981621	white	rectangle	gene	0.5	black	46	17	NA	Nsp15
+N-hsa938-sa2206	Nsp14	2176.77777777778	1586.92475981621	white	rectangle	gene	0.5	black	46	17	NA	Nsp14
+N-hsa938-sa2198	Nsp13	2262.44444444445	1586.92475981621	white	rectangle	gene	0.5	black	46	17	NA	Nsp13
+N-hsa938-sa2197	Nsp12	2348.11111111111	1584.92475981621	white	rectangle	gene	0.5	black	46	17	NA	Nsp12
+N-hsa938-sa2201	Nsp9	2523.84795321638	1586.92475981621	white	rectangle	gene	0.5	black	46	17	NA	Nsp9
+N-hsa938-sa2202	Nsp8	2611.84795321638	1586.92475981621	white	rectangle	gene	0.5	black	46	17	NA	Nsp8
+N-hsa938-sa2203	Nsp7	2698.84795321638	1584.92475981621	white	rectangle	gene	0.5	black	46	17	NA	Nsp7
+N-hsa938-sa2204	Nsp6	2789.84795321638	1582.92475981621	white	rectangle	gene	0.5	black	46	17	NA	Nsp6
+N-hsa938-sa2222	Nsp3	2879.5	1594.5	white	rectangle	gene	0.5	black	46	17	NA	Nsp3
+N-hsa938-sa2228	Nsp4	2971	1593	white	rectangle	gene	0.5	black	46	17	NA	Nsp4
+N-hsa938-sa2362	Nsp8	3369.42397660819	1577.2318452381	white	rectangle	gene	0.5	black	46	17	NA	Nsp8
+N-hsa938-sa2360	Nsp10	3575.42397660819	1577.2318452381	white	rectangle	gene	0.5	black	46	17	NA	Nsp10
+N-hsa938-sa2357	Nsp2	3341.5	639	white	rectangle	gene	0.5	black	46	17	NA	Nsp2
+N-hsa938-csa440	Replication transcription complex	3283.10989010989	1902.14285714286	white	rectangle	gene	0.5	black	46	17	NA	Replication transcription complex
+N-hsa938-csa391	Nucleocapsid	5108.23076923077	2238.76682692308	white	rectangle	gene	0.5	black	46	17	43740575	Nucleocapsid
+N-hsa938-csa397	Nucleocapsid	4589	2089	white	rectangle	gene	0.5	black	46	17	43740575	Nucleocapsid
+N-hsa938-sa2153	(+)ss gRNA	3258.5	3109	white	rectangle	gene	0.5	black	46	17	NA	(+)ss gRNA
+N-hsa938-csa439	Endoplasmic reticulum	3017	1504	white	rectangle	gene	0.5	black	46	17	NA	Endoplasmic reticulum
+N-hsa938-csa368	ACE2:SPIKE complex	3444.34615384615	378.413461538461	white	rectangle	gene	0.5	black	46	17	43740568/59272	ACE2:SPIKE complex
+N-hsa938-sa1545	ACE2	3826	448	white	rectangle	gene	0.5	black	46	17	59272	ACE2
+N-hsa938-csa441	S1:NRP1 complex	1806	343	white	rectangle	gene	0.5	black	46	17	8829	S1:NRP1 complex
+N-hsa938-sa1539	S1	3063	255	white	rectangle	gene	0.5	black	46	17	NA	S1
+N-hsa938-sa2371	NRP1	2665	441	white	rectangle	gene	0.5	black	46	17	8829	NRP1
+N-hsa938-csa369	Nucleocapsid	1816	858.291666666667	white	rectangle	gene	0.5	black	46	17	43740575	Nucleocapsid
+N-hsa938-csa374	Nucleocapsid	2452.88080808081	272.154292929293	white	rectangle	gene	0.5	black	46	17	43740575	Nucleocapsid
+N-hsa938-sa2024	M	2361.36538461538	262.278150303644	white	rectangle	gene	0.5	black	46	17	43740571	M
+N-hsa938-sa2025	Orf7a	2432.23987854251	187.827112854251	white	rectangle	gene	0.5	black	46	17	43740573	Orf7a
+N-hsa938-sa2039	E	20.4844322344325	257.867436017929	white	rectangle	gene	0.5	black	46	17	43740570	E
+N-hsa938-sa1601	S2	2502.83333333333	452.5	white	rectangle	gene	0.5	black	46	17	NA	S2
+N-hsa938-sa2372	cholesterol	1985	447.5	white	rectangle	compound	0.5	black	46	17	NA	cholesterol
+N-hsa938-csa365	Nucleocapsid	1331.66666666667	836.416666666667	white	rectangle	gene	0.5	black	46	17	43740575	Nucleocapsid
+N-hsa938-sa2342	ds gRNA	2442	2227.5	white	rectangle	gene	0.5	black	46	17	NA	ds gRNA
+N-hsa938-sa1891	M	4486.88480392157	2625.31818181818	white	rectangle	gene	0.5	black	46	17	43740571	M
+N-hsa938-sa2347	Orf6 ds sgmRNA	2463	2492.5	white	rectangle	gene	0.5	black	46	17	NA	Orf6 ds sgmRNA
+N-hsa938-sa2224	pp1a Nsp6-11	3231.5	1011.5	white	rectangle	gene	0.5	black	46	17	43740578	pp1a Nsp6-11
+N-hsa938-sa2241	Nsp5	2365.25	1031.5	white	rectangle	gene	0.5	black	46	17	NA	Nsp5
+N-hsa938-sa2240	pp1a Nsp3-11	3186.5	841.5	white	rectangle	gene	0.5	black	46	17	43740578	pp1a Nsp3-11
+N-hsa938-sa2105	Orf7a (+)ss sgmRNA	3243.94932518462	3505.6075036075	white	rectangle	gene	0.5	black	46	17	NA	Orf7a (+)ss sgmRNA
+N-hsa938-sa2346	Orf7a ds sgmRNA	2463	2449.5	white	rectangle	gene	0.5	black	46	17	NA	Orf7a ds sgmRNA
+N-hsa938-sa2350	Orf9b ds sgmRNA	2463	2612.5	white	rectangle	gene	0.5	black	46	17	NA	Orf9b ds sgmRNA
+N-hsa938-sa2220	pp1a Nsp3-11	3126.5	731.5	white	rectangle	gene	0.5	black	46	17	43740578	pp1a Nsp3-11
+N-hsa938-sa1962	N (+)ss sgmRNA	3316.94932518462	3350.05882352941	white	rectangle	gene	0.5	black	46	17	43740575	N (+)ss sgmRNA
+N-hsa938-sa2354	N ds sgmRNA	2463	2295.5	white	rectangle	gene	0.5	black	46	17	NA	N ds sgmRNA
+N-hsa938-sa1686	M	4386.70833333333	2859.08333333333	white	rectangle	gene	0.5	black	46	17	43740571	M
+N-hsa938-sa2229	pp1ab nsp6-16	2569	1001	white	rectangle	gene	0.5	black	46	17	43740578	pp1ab nsp6-16
+N-hsa938-csa431	ACE2:SPIKE complex	470.5	1007.5	white	rectangle	gene	0.5	black	46	17	59272/43740568	ACE2:SPIKE complex
+N-hsa938-sa1524	CTSB	706.75	1037	white	rectangle	gene	0.5	black	46	17	1508	CTSB
+N-hsa938-sa1525	CTSL	867.75	1036	white	rectangle	gene	0.5	black	46	17	1514	CTSL
+N-hsa938-sa2113	M (+)ss sgmRNA	3297.94932518462	3389.65043290043	white	rectangle	gene	0.5	black	46	17	NA	M (+)ss sgmRNA
+N-hsa938-sa2343	M ds sgmRNA	2463	2327.5	white	rectangle	gene	0.5	black	46	17	NA	M ds sgmRNA
+N-hsa938-sa1893	S	4683.2181372549	2627.31818181818	white	rectangle	gene	0.5	black	46	17	43740568	S
+N-hsa938-sa2245	Orf7a	4783.93819776715	2625.31818181818	white	rectangle	gene	0.5	black	46	17	43740573	Orf7a
+N-hsa938-sa2365	Nsp3-4	3213.5	1258.5	white	rectangle	gene	0.5	black	46	17	NA	Nsp3-4
+N-hsa938-sa1892	E	4584.55147058824	2624.31818181818	white	rectangle	gene	0.5	black	46	17	43740570	E
+N-hsa938-sa2356	Nsp1	3126.5	546	white	rectangle	gene	0.5	black	46	17	NA	Nsp1
+N-hsa938-sa2107	Orf8 (+)ss sgmRNA	3188.94932518462	3611.32972582973	white	rectangle	gene	0.5	black	46	17	NA	Orf8 (+)ss sgmRNA
+N-hsa938-sa2349	Orf8 ds sgmRNA	2463	2570.5	white	rectangle	gene	0.5	black	46	17	NA	Orf8 ds sgmRNA
+N-hsa938-sa2348	Orf3a ds sgmRNA	2463	2532.5	white	rectangle	gene	0.5	black	46	17	NA	Orf3a ds sgmRNA
+N-hsa938-sa2322	Orf3a (-)ss sgmRNA	1668.05555555556	2423.38888888889	white	rectangle	gene	0.5	black	46	17	NA	Orf3a (-)ss sgmRNA
+N-hsa938-sa2352	Orf7b ds sgmRNA	2463	2695.5	white	rectangle	gene	0.5	black	46	17	NA	Orf7b ds sgmRNA
+N-hsa938-sa2318	Orf7b (-)ss sgmRNA	1668.05555555556	2575.38888888889	white	rectangle	gene	0.5	black	46	17	NA	Orf7b (-)ss sgmRNA
+N-hsa938-sa1789	pp1a	2989.79166666667	591.427777777778	white	rectangle	gene	0.5	black	46	17	43740578	pp1a
+N-hsa938-sa1790	pp1ab	2815.79166666667	590.427777777778	white	rectangle	gene	0.5	black	46	17	43740578	pp1ab
+N-hsa938-sa2063	S2	2873.10576923077	440.846153846154	white	rectangle	gene	0.5	black	46	17	NA	S2
+N-hsa938-sa1876	Orf7b	4377.91666666667	3302.675	white	rectangle	gene	0.5	black	46	17	43740574	Orf7b
+N-hsa938-sa2106	Orf7b (+)ss sgmRNA	3112.94932518462	3723.6075036075	white	rectangle	gene	0.5	black	46	17	NA	Orf7b (+)ss sgmRNA
+N-hsa938-csa428	Host translation complex	4310.11111111111	2781.77777777778	white	rectangle	gene	0.5	black	46	17	NA	Host translation complex
+N-hsa938-sa2108	Orf6  (+)ss sgmRNA	3225.94932518462	3541.6075036075	white	rectangle	gene	0.5	black	46	17	NA	Orf6  (+)ss sgmRNA
+N-hsa938-sa1878	Orf9b	4383.25	3205.675	white	rectangle	gene	0.5	black	46	17	NA	Orf9b
+N-hsa938-sa1874	Orf6	4381.25	3059.675	white	rectangle	gene	0.5	black	46	17	43740572	Orf6
+N-hsa938-sa2344	E ds sgmRNA	2463	2366.5	white	rectangle	gene	0.5	black	46	17	NA	E ds sgmRNA
+N-hsa938-sa2326	E (-)ss sgmRNA	1668.05555555556	2260.38888888889	white	rectangle	gene	0.5	black	46	17	43740570	E (-)ss sgmRNA
+N-hsa938-sa2242	Nsp3-4	2580	1081	white	rectangle	gene	0.5	black	46	17	NA	Nsp3-4
+N-hsa938-sa2351	Orf14 ds sgmRNA	2463	2652.5	white	rectangle	gene	0.5	black	46	17	NA	Orf14 ds sgmRNA
+N-hsa938-sa2319	Orf14 (-)ss sgmRNA	1668.05555555556	2539.38888888889	white	rectangle	gene	0.5	black	46	17	NA	Orf14 (-)ss sgmRNA
+N-hsa938-sa2328	(-)ss gRNA	1703.05555555556	2120.38888888889	white	rectangle	gene	0.5	black	46	17	NA	(-)ss gRNA
+N-hsa938-sa1687	E	4385.375	2909.08333333333	white	rectangle	gene	0.5	black	46	17	43740570	E
+N-hsa938-sa2111	E (+)ss sgmRNA	3275.94932518462	3426.65043290043	white	rectangle	gene	0.5	black	46	17	NA	E (+)ss sgmRNA
+N-hsa938-sa2109	Orf9b (+)ss sgmRNA	3163.94932518462	3648.32972582973	white	rectangle	gene	0.5	black	46	17	NA	Orf9b (+)ss sgmRNA
+N-hsa938-sa2244	pp1ab Nsp3-16	2601.5	855.5	white	rectangle	gene	0.5	black	46	17	43740578	pp1ab Nsp3-16
+N-hsa938-sa1921	FURIN	3187	451	white	rectangle	gene	0.5	black	46	17	5045	FURIN
+N-hsa938-sa1537	TMPRSS2	3339.16666666667	449.5	white	rectangle	gene	0.5	black	46	17	7113	TMPRSS2
+N-hsa938-sa1544	Camostat mesylate	3238	97	white	rectangle	compound	0.5	black	46	17	NA	Camostat mesylate
+N-hsa938-sa1877	Orf14	4384.875	3252.925	white	rectangle	gene	0.5	black	46	17	NA	Orf14
+N-hsa938-sa2110	Orf14 (+)ss sgmRNA	3144.94932518462	3687.32972582973	white	rectangle	gene	0.5	black	46	17	NA	Orf14 (+)ss sgmRNA
+N-hsa938-sa2345	S ds sgmRNA	2463	2406.5	white	rectangle	gene	0.5	black	46	17	NA	S ds sgmRNA
+N-hsa938-sa2221	pp1ab Nsp3-16	2651.5	735.5	white	rectangle	gene	0.5	black	46	17	43740578	pp1ab Nsp3-16
+N-hsa938-sa2325	S (-)ss sgmRNA	1668.05555555556	2299.38888888889	white	rectangle	gene	0.5	black	46	17	NA	S (-)ss sgmRNA
+N-hsa938-sa1873	Orf3a	4383.91666666667	3108.675	white	rectangle	gene	0.5	black	46	17	43740569	Orf3a
+N-hsa938-sa1688	S	4380.04166666667	2961.08333333333	white	rectangle	gene	0.5	black	46	17	43740568	S
+N-hsa938-sa2112	S (+)ss sgmRNA	3261.94932518462	3465.65043290043	white	rectangle	gene	0.5	black	46	17	NA	S (+)ss sgmRNA
+N-hsa938-sa1675	(+)ss gRNA	1709	1685.875	white	rectangle	gene	0.5	black	46	17	NA	(+)ss gRNA
+N-hsa938-sa1667	N	1705.81818181818	1254.45454545455	white	rectangle	gene	0.5	black	46	17	43740575	N
+N-hsa938-csa429	Host translation complex	3697.11111111111	3138.33333333333	white	rectangle	gene	0.5	black	46	17	NA	Host translation complex
+N-hsa938-sa2104	Orf3a (+)ss sgmRNA	3208.94932518462	3576.6075036075	white	rectangle	gene	0.5	black	46	17	NA	Orf3a (+)ss sgmRNA
+N-hsa938-sa2216	Nsp1	2568.65	623.594117647059	white	rectangle	gene	0.5	black	46	17	NA	Nsp1
+N-hsa938-sa2327	M (-)ss sgmRNA	1668.05555555556	2221.38888888889	white	rectangle	gene	0.5	black	46	17	43740571	M (-)ss sgmRNA
+N-hsa938-sa2353	N  (-)ss sgmRNA	1668.05555555556	2182.5	white	rectangle	gene	0.5	black	46	17	43740575	N  (-)ss sgmRNA
+N-hsa938-sa2321	Orf8 (-)ss sgmRNA	1668.05555555556	2459.38888888889	white	rectangle	gene	0.5	black	46	17	NA	Orf8 (-)ss sgmRNA
+N-hsa938-sa1875	Orf7a	4382.58333333333	3010.675	white	rectangle	gene	0.5	black	46	17	43740573	Orf7a
+N-hsa938-csa427	Host translation complex	2289	555	white	rectangle	gene	0.5	black	46	17	NA	Host translation complex
+N-hsa938-sa2324	Orf7a (-)ss sgmRNA	1668.05555555556	2341.38888888889	white	rectangle	gene	0.5	black	46	17	NA	Orf7a (-)ss sgmRNA
+N-hsa938-sa2323	Orf6 (-)ss sgmRNA	1668.05555555556	2381.38888888889	white	rectangle	gene	0.5	black	46	17	NA	Orf6 (-)ss sgmRNA
+N-hsa938-sa2320	Orf9b (-)ss sgmRNA	1668.05555555556	2496.38888888889	white	rectangle	gene	0.5	black	46	17	NA	Orf9b (-)ss sgmRNA
+N-hsa938-sa1879	Orf8	4381.91666666667	3156.675	white	rectangle	gene	0.5	black	46	17	43740577	Orf8
+N-hsa938-csa357	Nucleocapsid	465.846153846154	858.163461538462	white	rectangle	gene	0.5	black	46	17	43740575	Nucleocapsid
+N-hsa938-csa387	Nucleocapsid	5045.5	170.163461538461	white	rectangle	gene	0.5	black	46	17	43740575	Nucleocapsid
+N-hsa938-csa438	Double-membrane vesicle	3003	1876	white	rectangle	gene	0.5	black	46	17	NA	Double-membrane vesicle
+N-hsa938-sa2239	ACE2	3160	171.5	white	rectangle	gene	0.5	black	46	17	59272	ACE2
+N-hsa938-sa2238	ACE2	3079	445	white	rectangle	gene	0.5	black	46	17	59272	ACE2
+N-hsa938-sa2066	M	2240.58333333333	451.966961492455	white	rectangle	gene	0.5	black	46	17	43740571	M
+N-hsa938-sa2067	Orf7a	2139.45782726046	445.515924043062	white	rectangle	gene	0.5	black	46	17	43740573	Orf7a
+N-hsa938-sa2115	E	1750.56275303644	796.725518724696	white	rectangle	gene	0.5	black	46	17	43740570	E
+N-hsa938-sa2114	Orf7a	1743.43724696356	690.274481275304	white	rectangle	gene	0.5	black	46	17	43740573	Orf7a
+N-hsa938-sa2116	M	1738.56275303644	990.725518724696	white	rectangle	gene	0.5	black	46	17	43740571	M
+N-hsa938-sa2297	Orf6 (-)ss sgmRNA	3125	2494.5	white	rectangle	gene	0.5	black	46	17	NA	Orf6 (-)ss sgmRNA
+N-hsa938-sa2364	Nsp11	3676.57602339181	1577.2318452381	white	rectangle	gene	0.5	black	46	17	NA	Nsp11
+N-hsa938-sa2296	Orf7a (-)ss sgmRNA	3127	2457.5	white	rectangle	gene	0.5	black	46	17	NA	Orf7a (-)ss sgmRNA
+N-hsa938-sa2300	Orf9b (-)ss sgmRNA	3130	2619.5	white	rectangle	gene	0.5	black	46	17	NA	Orf9b (-)ss sgmRNA
+N-hsa938-sa2355	N (-)ss sgmRNA	3124	2297.5	white	rectangle	gene	0.5	black	46	17	NA	N (-)ss sgmRNA
+N-hsa938-sa1516	S1	824	938	white	rectangle	gene	0.5	black	46	17	NA	S1
+N-hsa938-sa2292	M (-)ss sgmRNA	3127	2330.5	white	rectangle	gene	0.5	black	46	17	43740571	M (-)ss sgmRNA
+N-hsa938-sa2299	Orf8 (-)ss sgmRNA	3127	2575.5	white	rectangle	gene	0.5	black	46	17	NA	Orf8 (-)ss sgmRNA
+N-hsa938-sa2298	Orf3a (-)ss sgmRNA	3125	2534.5	white	rectangle	gene	0.5	black	46	17	NA	Orf3a (-)ss sgmRNA
+N-hsa938-sa2302	Orf7b (-)ss sgmRNA	3129	2692.5	white	rectangle	gene	0.5	black	46	17	NA	Orf7b (-)ss sgmRNA
+N-hsa938-sa2251	Orf7b	5325.27153110048	2625.31818181818	white	rectangle	gene	0.5	black	46	17	43740574	Orf7b
+N-hsa938-sa2249	Orf9b	5138.60486443381	2625.31818181818	white	rectangle	gene	0.5	black	46	17	NA	Orf9b
+N-hsa938-sa2246	Orf6	4872.60486443381	2625.31818181818	white	rectangle	gene	0.5	black	46	17	43740572	Orf6
+N-hsa938-sa2294	E (-)ss sgmRNA	3124	2368.5	white	rectangle	gene	0.5	black	46	17	43740570	E (-)ss sgmRNA
+N-hsa938-sa2301	Orf14 (-)ss sgmRNA	3125	2656.5	white	rectangle	gene	0.5	black	46	17	NA	Orf14 (-)ss sgmRNA
+N-hsa938-sa2250	Orf14	5232.22986443381	2625.31818181818	white	rectangle	gene	0.5	black	46	17	NA	Orf14
+N-hsa938-sa2295	S (-)ss sgmRNA	3132	2409.5	white	rectangle	gene	0.5	black	46	17	NA	S (-)ss sgmRNA
+N-hsa938-sa2247	Orf3a	4963.27153110048	2625.31818181818	white	rectangle	gene	0.5	black	46	17	43740569	Orf3a
+N-hsa938-sa2248	Orf8	5052.27153110048	2625.31818181818	white	rectangle	gene	0.5	black	46	17	43740577	Orf8

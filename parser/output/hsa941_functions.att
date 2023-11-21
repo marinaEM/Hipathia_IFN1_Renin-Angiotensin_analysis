@@ -1,0 +1,4 @@
+name	label	X	Y	color	shape	type	label.cex	label.color	width	height	genesList	tooltip
+N-hsa941-sa480	transcription of proinflammatory proteins	820	2447.5	white	rectangle	function	0.5	black	46	17	NA	transcription of proinflammatory proteins
+N-hsa941-sa475_3	NFKBIA	1380	2330	white	rectangle	function	0.5	black	46	17	NA	NFKBIA
+N-hsa941-sa405_3	ITCH	1225	835	white	rectangle	function	0.5	black	46	17	NA	ITCH

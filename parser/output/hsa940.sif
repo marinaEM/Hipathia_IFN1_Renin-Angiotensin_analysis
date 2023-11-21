@@ -1,0 +1,19 @@
+
+V1	V2	V3
+N-hsa940-csa1	activation	N-hsa940-csa4
+N-hsa940-csa1	activation	N-hsa940-sa12
+N-hsa940-csa1	activation	N-hsa940-sa34
+N-hsa940-csa1	activation	N-hsa940-sa33
+N-hsa940-sa75	activation	N-hsa940-csa4
+N-hsa940-csa2	activation	N-hsa940-sa5
+N-hsa940-csa5	activation	N-hsa940-csa2
+N-hsa940-csa5	activation	N-hsa940-csa3
+N-hsa940-csa5	activation	N-hsa940-sa4
+N-hsa940-csa5	activation	N-hsa940-sa5
+N-hsa940-csa3	activation	N-hsa940-sa4
+N-hsa940-csa12	activation	N-hsa940-csa1
+N-hsa940-sa4	activation	N-hsa940-csa1
+N-hsa940-sa5	activation	N-hsa940-csa1
+N-hsa940-sa76	activation	N-hsa940-csa1
+N-hsa940-sa77	activation	N-hsa940-csa1
+N-hsa940-sa78	activation	N-hsa940-csa1

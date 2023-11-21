@@ -1,0 +1,147 @@
+name	label	X	Y	color	shape	type	label.cex	label.color	width	height	genesList	tooltip
+N-hsa942-csa6	SIRT5:Nsp14	2001	845	white	rectangle	gene	0.5	black	46	17	23408	SIRT5:Nsp14
+N-hsa942-sa403	SIRT5	1962	1023.8	white	rectangle	gene	0.5	black	46	17	23408	SIRT5
+N-hsa942-sa120	Nsp14	2098	1025	white	rectangle	gene	0.5	black	46	17	NA	Nsp14
+N-hsa942-csa8	IMPDH2:Nsp14	4838	1287	white	rectangle	gene	0.5	black	46	17	3615	IMPDH2:Nsp14
+N-hsa942-sa209	IMPDH2	5050	1257	white	rectangle	gene	0.5	black	46	17	3615	IMPDH2
+N-hsa942-sa410	Nsp14	5005.5	1397.5	white	rectangle	gene	0.5	black	46	17	NA	Nsp14
+N-hsa942-csa7	GLA:Nsp14	1409	2399	white	rectangle	gene	0.5	black	46	17	2717	GLA:Nsp14
+N-hsa942-sa55	GLA	1513.66666666667	2583.33333333333	white	rectangle	gene	0.5	black	46	17	2717	GLA
+N-hsa942-sa54	H2O	1434.66666666667	2284.33333333333	white	rectangle	compound	0.5	black	46	17	NA	H2O
+N-hsa942-sa82	ADP	1022.875	1844.5	white	rectangle	compound	0.5	black	46	17	NA	ADP
+N-hsa942-sa242	Thioredoxin	5069	2018.5	white	rectangle	compound	0.5	black	46	17	NA	Thioredoxin
+N-hsa942-csa4	ribonucleoside reductase	3443.125	1012.375	white	rectangle	gene	0.5	black	46	17	6240/6241/50484	ribonucleoside reductase
+N-hsa942-sa198	1-(5'-Phosphoribosyl)-5-formamido-4-imidazolecarboxamide	5098	719.5	white	rectangle	compound	0.5	black	46	17	NA	1-(5'-Phosphoribosyl)-5-formamido-4-imidazolecarboxamide
+N-hsa942-sa199	ATIC	4975	853	white	rectangle	gene	0.5	black	46	17	471	ATIC
+N-hsa942-sa225	GDP	5202	1975.5	white	rectangle	compound	0.5	black	46	17	NA	GDP
+N-hsa942-csa3	ribonucleoside reductase	4845	1913	white	rectangle	gene	0.5	black	46	17	6240/6241/50484	ribonucleoside reductase
+N-hsa942-sa289	Pi	5339.375	1831.04411764706	white	rectangle	compound	0.5	black	46	17	NA	Pi
+N-hsa942-sa277	ENTPD2	5530	1994	white	rectangle	gene	0.5	black	46	17	954	ENTPD2
+N-hsa942-sa290	ENTPD4	5530	1808	white	rectangle	gene	0.5	black	46	17	9583	ENTPD4
+N-hsa942-sa291	ENTPD5	5529	1851	white	rectangle	gene	0.5	black	46	17	957	ENTPD5
+N-hsa942-sa292	ENTPD6	5530	1894	white	rectangle	gene	0.5	black	46	17	955	ENTPD6
+N-hsa942-sa293	CANT1	5528	1937	white	rectangle	gene	0.5	black	46	17	124583	CANT1
+N-hsa942-sa229	GTP	5198	2193.5	white	rectangle	compound	0.5	black	46	17	NA	GTP
+N-hsa942-sa215	GMP	5204	1777.5	white	rectangle	compound	0.5	black	46	17	NA	GMP
+N-hsa942-sa316	NT5E	5050.5	1211.5	white	rectangle	gene	0.5	black	46	17	4907	NT5E
+N-hsa942-sa69	Nicotinamide D-ribonucleotide	1155	1567.5	white	rectangle	compound	0.5	black	46	17	NA	Nicotinamide D-ribonucleotide
+N-hsa942-sa204	XMP	5209	1416.5	white	rectangle	compound	0.5	black	46	17	NA	XMP
+N-hsa942-sa283	NTPCR	5506	2081	white	rectangle	gene	0.5	black	46	17	84284	NTPCR
+N-hsa942-sa170	2-(Formamido)-N1-(5'-phosphoribosyl)acetamidine	2497	734.5	white	rectangle	compound	0.5	black	46	17	NA	2-(Formamido)-N1-(5'-phosphoribosyl)acetamidine
+N-hsa942-sa354	ATP	3958.125	874.125	white	rectangle	compound	0.5	black	46	17	NA	ATP
+N-hsa942-sa160	GART	1582	622	white	rectangle	gene	0.5	black	46	17	2618	GART
+N-hsa942-sa202	IMP	5208	1162.5	white	rectangle	compound	0.5	black	46	17	NA	IMP
+N-hsa942-sa301	AMP	4158.5	899.5	white	rectangle	compound	0.5	black	46	17	NA	AMP
+N-hsa942-sa317	Hypoxanthine	4396	1167.5	white	rectangle	compound	0.5	black	46	17	NA	Hypoxanthine
+N-hsa942-sa357	2-deoxy--D-ribose 1-phosphate	4193.125	1319.625	white	rectangle	compound	0.5	black	46	17	NA	2-deoxy--D-ribose 1-phosphate
+N-hsa942-sa348	PNP	4117.5	1129.5	white	rectangle	gene	0.5	black	46	17	4860	PNP
+N-hsa942-sa153	5-phospho-beta-D-ribosylamine	985	734.5	white	rectangle	compound	0.5	black	46	17	NA	5-phospho-beta-D-ribosylamine
+N-hsa942-sa162	Glycine	1161	815.5	white	rectangle	compound	0.5	black	46	17	NA	Glycine
+N-hsa942-sa166	5-phosphoribosyl-N-formylglycinamide	1931	734.5	white	rectangle	compound	0.5	black	46	17	NA	5-phosphoribosyl-N-formylglycinamide
+N-hsa942-sa85	L-Glutamine	658	1933.5	white	rectangle	compound	0.5	black	46	17	NA	L-Glutamine
+N-hsa942-sa171	PFAS	2309	660	white	rectangle	gene	0.5	black	46	17	5198	PFAS
+N-hsa942-sa184	1-(5-Phospho-D-ribosyl)-5-amino-4-imidazolecarboxylate	3504	730.5	white	rectangle	compound	0.5	black	46	17	NA	1-(5-Phospho-D-ribosyl)-5-amino-4-imidazolecarboxylate
+N-hsa942-sa194	L-Aspartate	3789	783.5	white	rectangle	compound	0.5	black	46	17	NA	L-Aspartate
+N-hsa942-sa185	PAICS	3654	607	white	rectangle	gene	0.5	black	46	17	10606	PAICS
+N-hsa942-sa137	Nicotinate	477	1110.5	white	rectangle	compound	0.5	black	46	17	NA	Nicotinate
+N-hsa942-sa110	5-phospho--D-ribose 1-diphosphate	913	1245.5	white	rectangle	compound	0.5	black	46	17	NA	5-phospho--D-ribose 1-diphosphate
+N-hsa942-sa138	NAPRT1	422	1331	white	rectangle	gene	0.5	black	46	17	NA	NAPRT1
+N-hsa942-sa183	H	3067.44852941176	797.147058823529	white	rectangle	compound	0.5	black	46	17	NA	H
+N-hsa942-sa251	Deoxyguanosine	4094	1764.5	white	rectangle	compound	0.5	black	46	17	NA	Deoxyguanosine
+N-hsa942-sa255	DCK	4374	1711	white	rectangle	gene	0.5	black	46	17	1633	DCK
+N-hsa942-sa216	GMPS	5354	1603	white	rectangle	gene	0.5	black	46	17	8833	GMPS
+N-hsa942-sa179	Aminoimidazole ribotide	3139	735.5	white	rectangle	compound	0.5	black	46	17	NA	Aminoimidazole ribotide
+N-hsa942-sa136	CO2	665	1580.5	white	rectangle	compound	0.5	black	46	17	NA	CO2
+N-hsa942-sa359	Deoxyadenosine	3600	1388.5	white	rectangle	compound	0.5	black	46	17	NA	Deoxyadenosine
+N-hsa942-sa68	N-Ribosyl-nicotinamide	1154	1357.5	white	rectangle	compound	0.5	black	46	17	NA	N-Ribosyl-nicotinamide
+N-hsa942-sa104	NRK1	1073	1463	white	rectangle	gene	0.5	black	46	17	NA	NRK1
+N-hsa942-sa296	NADP	5702.25	1335.88461538462	white	rectangle	compound	0.5	black	46	17	NA	NADP
+N-hsa942-sa334	Ammonium	4704.625	1015.5	white	rectangle	compound	0.5	black	46	17	NA	Ammonium
+N-hsa942-sa299	GMPR	5504	1447	white	rectangle	gene	0.5	black	46	17	2766	GMPR
+N-hsa942-sa300	GMPR2	5504	1494	white	rectangle	gene	0.5	black	46	17	51292	GMPR2
+N-hsa942-sa333	Adenosine	4160	1034.5	white	rectangle	compound	0.5	black	46	17	NA	Adenosine
+N-hsa942-sa342	ADK	4081	973	white	rectangle	gene	0.5	black	46	17	132	ADK
+N-hsa942-sa205	NAD	5358.41666666667	1199.15250828511	white	rectangle	compound	0.5	black	46	17	NA	NAD
+N-hsa942-sa210	IMPDH1	5189	1258	white	rectangle	gene	0.5	black	46	17	3614	IMPDH1
+N-hsa942-sa213	Mycophenolic acid	5027	1327	white	rectangle	compound	0.5	black	46	17	NA	Mycophenolic acid
+N-hsa942-sa212	Merimepodib	5056	1370	white	rectangle	compound	0.5	black	46	17	NA	Merimepodib
+N-hsa942-sa214	Ribavirin	5162	1391	white	rectangle	compound	0.5	black	46	17	NA	Ribavirin
+N-hsa942-sa159	5-phospho-beta-D-ribosylglycinamide	1428	736.5	white	rectangle	compound	0.5	black	46	17	NA	5-phospho-beta-D-ribosylglycinamide
+N-hsa942-sa201	10-Formyltetrahydrofolate	4742.16176470588	682.352941176471	white	rectangle	compound	0.5	black	46	17	NA	10-Formyltetrahydrofolate
+N-hsa942-sa321	XDH	4493	1296	white	rectangle	gene	0.5	black	46	17	7498	XDH
+N-hsa942-sa27	Galacitol	1756	2036.5	white	rectangle	compound	0.5	black	46	17	NA	Galacitol
+N-hsa942-sa28	AKR1B1	1980	2097	white	rectangle	gene	0.5	black	46	17	231	AKR1B1
+N-hsa942-sa245	dGTP	4575	2211.5	white	rectangle	compound	0.5	black	46	17	NA	dGTP
+N-hsa942-sa262	ENPP1	4361	1969.5	white	rectangle	gene	0.5	black	46	17	5167	ENPP1
+N-hsa942-sa264	ITPA	4276	1993	white	rectangle	gene	0.5	black	46	17	3704	ITPA
+N-hsa942-sa95	ENPP3	1335	1728	white	rectangle	gene	0.5	black	46	17	5169	ENPP3
+N-hsa942-sa71	Deamino-NAD	491	1872.5	white	rectangle	compound	0.5	black	46	17	NA	Deamino-NAD
+N-hsa942-sa84	NADSYN1	846	1930	white	rectangle	gene	0.5	black	46	17	55191	NADSYN1
+N-hsa942-sa144	CD38	783	1082.58823529412	white	rectangle	gene	0.5	black	46	17	952	CD38
+N-hsa942-sa75	NADK	1443	1949	white	rectangle	gene	0.5	black	46	17	65220	NADK
+N-hsa942-sa238	dGDP	4576	1977.5	white	rectangle	compound	0.5	black	46	17	NA	dGDP
+N-hsa942-sa232	NME3	4923	2051	white	rectangle	gene	0.5	black	46	17	4832	NME3
+N-hsa942-csa2	Nucleoside diphosphate kinase	4870	2184	white	rectangle	gene	0.5	black	46	17	4830/4831	Nucleoside diphosphate kinase
+N-hsa942-sa383	NME7	3121.875	1197.125	white	rectangle	gene	0.5	black	46	17	29922	NME7
+N-hsa942-sa382	NME6	3048.875	1198.125	white	rectangle	gene	0.5	black	46	17	10201	NME6
+N-hsa942-sa381	NME5	2963.875	1198.125	white	rectangle	gene	0.5	black	46	17	8382	NME5
+N-hsa942-sa226	GUK1	4907	1869	white	rectangle	gene	0.5	black	46	17	2987	GUK1
+N-hsa942-sa391	AK7	3807	943	white	rectangle	gene	0.5	black	46	17	122481	AK7
+N-hsa942-sa392	AK1	3719	849	white	rectangle	gene	0.5	black	46	17	203	AK1
+N-hsa942-sa390	AK8	3807	848	white	rectangle	gene	0.5	black	46	17	158067	AK8
+N-hsa942-sa370	AK5	3418	1268	white	rectangle	gene	0.5	black	46	17	26289	AK5
+N-hsa942-sa2	-D-Galactose	2351.6875	2322.25	white	rectangle	compound	0.5	black	46	17	NA	-D-Galactose
+N-hsa942-sa5	GALK1	2459.6875	2266.75	white	rectangle	gene	0.5	black	46	17	2584	GALK1
+N-hsa942-sa369	dADP	3332	1152.5	white	rectangle	compound	0.5	black	46	17	NA	dADP
+N-hsa942-csa5	Nucleoside diphosphate kinase	2943.875	1233.125	white	rectangle	gene	0.5	black	46	17	4830/4831	Nucleoside diphosphate kinase
+N-hsa942-sa248	dGMP	4578	1763.5	white	rectangle	compound	0.5	black	46	17	NA	dGMP
+N-hsa942-sa364	dAMP	3325	1393.5	white	rectangle	compound	0.5	black	46	17	NA	dAMP
+N-hsa942-sa146	D-Ribose 5P	844	734.5	white	rectangle	compound	0.5	black	46	17	NA	D-Ribose 5P
+N-hsa942-sa148	PRPS1	825	910	white	rectangle	gene	0.5	black	46	17	5631	PRPS1
+N-hsa942-sa149	PRPS2	825	953	white	rectangle	gene	0.5	black	46	17	5634	PRPS2
+N-hsa942-sa151	PRPS1L1	825	996	white	rectangle	gene	0.5	black	46	17	221823	PRPS1L1
+N-hsa942-sa66	Nicotinamide	1153	1116.5	white	rectangle	compound	0.5	black	46	17	NA	Nicotinamide
+N-hsa942-sa108	NAMPT	975	1507	white	rectangle	gene	0.5	black	46	17	10135	NAMPT
+N-hsa942-sa30	NADPH	2126	1884.5	white	rectangle	compound	0.5	black	46	17	NA	NADPH
+N-hsa942-sa256	Guanine	4364	1586.5	white	rectangle	compound	0.5	black	46	17	NA	Guanine
+N-hsa942-sa326	GDA	4227	1504	white	rectangle	gene	0.5	black	46	17	9615	GDA
+N-hsa942-sa363	ADA	3822.625	1444.125	white	rectangle	gene	0.5	black	46	17	100	ADA
+N-hsa942-sa346	Adenine	4174	1194.5	white	rectangle	compound	0.5	black	46	17	NA	Adenine
+N-hsa942-sa350	APRT	3826	1052	white	rectangle	gene	0.5	black	46	17	353	APRT
+N-hsa942-sa195	1-(5'-Phosphoribosyl)-5-amino-4-imidazolecarboxamide	4577	723.5	white	rectangle	compound	0.5	black	46	17	NA	1-(5'-Phosphoribosyl)-5-amino-4-imidazolecarboxamide
+N-hsa942-sa158	PPAT	1027	983	white	rectangle	gene	0.5	black	46	17	5471	PPAT
+N-hsa942-sa72	Nicotinate D-ribonucleotide	461	1554.5	white	rectangle	compound	0.5	black	46	17	NA	Nicotinate D-ribonucleotide
+N-hsa942-sa92	NMNAT1	864	1672	white	rectangle	gene	0.5	black	46	17	64802	NMNAT1
+N-hsa942-sa91	NMNAT2	862	1719	white	rectangle	gene	0.5	black	46	17	23057	NMNAT2
+N-hsa942-sa93	NMNAT3	864	1767	white	rectangle	gene	0.5	black	46	17	349565	NMNAT3
+N-hsa942-sa332	HPRT1	4802.5	1083.5	white	rectangle	gene	0.5	black	46	17	3251	HPRT1
+N-hsa942-sa1	D-Galactose	2131.6875	2325.25	white	rectangle	compound	0.5	black	46	17	NA	D-Galactose
+N-hsa942-sa53	Stachyose	1361	2328.5	white	rectangle	compound	0.5	black	46	17	NA	Stachyose
+N-hsa942-sa58	Migalastat	1581	2440	white	rectangle	compound	0.5	black	46	17	NA	Migalastat
+N-hsa942-sa49	Raffinose	1660	2328.5	white	rectangle	compound	0.5	black	46	17	NA	Raffinose
+N-hsa942-sa20	Lactose	2568	2490.5	white	rectangle	compound	0.5	black	46	17	NA	Lactose
+N-hsa942-sa24	GLB1	2333	2435	white	rectangle	gene	0.5	black	46	17	2720	GLB1
+N-hsa942-sa57	LCT	2332	2537	white	rectangle	gene	0.5	black	46	17	3938	LCT
+N-hsa942-sa33	Melibiose	1750	2492.5	white	rectangle	compound	0.5	black	46	17	NA	Melibiose
+N-hsa942-sa26	-D-Glucose	2043.5	2492.5	white	rectangle	compound	0.5	black	46	17	NA	-D-Glucose
+N-hsa942-sa131	Quinolinate	630	1300.5	white	rectangle	compound	0.5	black	46	17	NA	Quinolinate
+N-hsa942-sa132	QPRT	818	1486	white	rectangle	gene	0.5	black	46	17	23475	QPRT
+N-hsa942-sa313	Inosine	4854	1168.5	white	rectangle	compound	0.5	black	46	17	NA	Inosine
+N-hsa942-sa80	NNT	1884	1801	white	rectangle	gene	0.5	black	46	17	23530	NNT
+N-hsa942-sa305	AMDP2	4667	858	white	rectangle	gene	0.5	black	46	17	NA	AMDP2
+N-hsa942-sa304	AMPD1	4579	853	white	rectangle	gene	0.5	black	46	17	270	AMPD1
+N-hsa942-sa306	AMPD3	4623	809	white	rectangle	gene	0.5	black	46	17	272	AMPD3
+N-hsa942-sa189	1-(5'-Phosphoribosyl)-5-amino-4-(N-succinocarboxamide)-imidazole	4037	724.5	white	rectangle	compound	0.5	black	46	17	NA	1-(5'-Phosphoribosyl)-5-amino-4-(N-succinocarboxamide)-imidazole
+N-hsa942-sa115	Histone N6-acetyl-L-lysine	2084	1098.5	white	rectangle	compound	0.5	black	46	17	NA	Histone N6-acetyl-L-lysine
+N-hsa942-sa119	H2O	1895.57142857143	1125	white	rectangle	compound	0.5	black	46	17	NA	H2O
+N-hsa942-sa257	Guanosine	4826	1584.5	white	rectangle	compound	0.5	black	46	17	NA	Guanosine
+N-hsa942-sa10	UDP--D-Glucose	2562	2209.5	white	rectangle	compound	0.5	black	46	17	NA	UDP--D-Glucose
+N-hsa942-sa197	ADSL	4480	660	white	rectangle	gene	0.5	black	46	17	158	ADSL
+N-hsa942-sa8	UDP--D-Galactose	2833.5	2321.75	white	rectangle	compound	0.5	black	46	17	NA	UDP--D-Galactose
+N-hsa942-sa4	-D-Galactose-1P	2553.3125	2321.5	white	rectangle	compound	0.5	black	46	17	NA	-D-Galactose-1P
+N-hsa942-sa9	GALT	2723	2265	white	rectangle	gene	0.5	black	46	17	2592	GALT
+N-hsa942-sa19	GALE	3020	2375	white	rectangle	gene	0.5	black	46	17	2582	GALE
+N-hsa942-sa145	D-Ribose 1P	584	735.5	white	rectangle	compound	0.5	black	46	17	NA	D-Ribose 1P
+N-hsa942-sa147	PGM2	733	684	white	rectangle	gene	0.5	black	46	17	55276	PGM2
+N-hsa942-csa1	lactose synthetase	2735	2550	white	rectangle	gene	0.5	black	46	17	2683/3906	lactose synthetase
+N-hsa942-sa3	GALM	2248.6875	2267.75	white	rectangle	gene	0.5	black	46	17	130589	GALM

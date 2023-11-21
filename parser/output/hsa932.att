@@ -1,0 +1,60 @@
+name	label	X	Y	color	shape	type	label.cex	label.color	width	height	genesList	tooltip
+N-hsa932-sa26	AGTR1	660	1658	white	rectangle	gene	0.5	black	46	17	185	AGTR1
+N-hsa932-sa23	angiotensin II	702.5	1003.5	white	rectangle	compound	0.5	black	46	17	NA	angiotensin II
+N-hsa932-csa9	MAS1:AGTR1	520	1170	white	rectangle	gene	0.5	black	46	17	4142/185	MAS1:AGTR1
+N-hsa932-sa140	AGTR1	530	1060	white	rectangle	gene	0.5	black	46	17	185	AGTR1
+N-hsa932-csa5	ACE2-Spike complex	1000	230	white	rectangle	gene	0.5	black	46	17	1489668/59272	ACE2-Spike complex
+N-hsa932-sa30	ACE2	1290	280	white	rectangle	gene	0.5	black	46	17	59272	ACE2
+N-hsa932-sa38	S	1015.5	70.5	white	rectangle	gene	0.5	black	46	17	1489668	S
+N-hsa932-sa45	Camostat mesilate	880	159.5	white	rectangle	compound	0.5	black	46	17	NA	Camostat mesilate
+N-hsa932-sa40	TMPRSS2	900	270	white	rectangle	gene	0.5	black	46	17	7113	TMPRSS2
+N-hsa932-sa39	MME	2180	781.5	white	rectangle	gene	0.5	black	46	17	4311	MME
+N-hsa932-sa29	ACE	530	905	white	rectangle	gene	0.5	black	46	17	1636	ACE
+N-hsa932-sa37	Calcitriol	264	413.5	white	rectangle	compound	0.5	black	46	17	NA	Calcitriol
+N-hsa932-sa169	estradiol	1165	388.5	white	rectangle	compound	0.5	black	46	17	NA	estradiol
+N-hsa932-sa156	LNPEP	1420	1650	white	rectangle	gene	0.5	black	46	17	4012	LNPEP
+N-hsa932-sa132	androgen	1075	366.5	white	rectangle	compound	0.5	black	46	17	NA	androgen
+N-hsa932-sa22	angiotensin 1-9	1614.5	748.5	white	rectangle	compound	0.5	black	46	17	NA	angiotensin 1-9
+N-hsa932-sa21	angiotensin I	704.5	748.5	white	rectangle	compound	0.5	black	46	17	NA	angiotensin I
+N-hsa932-sa27	MAS1	1805	1655	white	rectangle	gene	0.5	black	46	17	4142	MAS1
+N-hsa932-sa62	angiotensin III	695.25	1296.75	white	rectangle	compound	0.5	black	46	17	NA	angiotensin III
+N-hsa932-sa64	ENPEP	526	1323	white	rectangle	gene	0.5	black	46	17	2028	ENPEP
+N-hsa932-sa73	ACE2, soluble	1475	166.5	white	rectangle	gene	0.5	black	46	17	59272	ACE2, soluble
+N-hsa932-sa25	AGTR2	1148	1655	white	rectangle	gene	0.5	black	46	17	186	AGTR2
+N-hsa932-sa79	AGTR2	982.78947368421	1655.28947368421	white	rectangle	gene	0.5	black	46	17	186	AGTR2
+N-hsa932-sa51	angiotensin A	1077.5	1163.5	white	rectangle	compound	0.5	black	46	17	NA	angiotensin A
+N-hsa932-sa24	angiotensin 1-7	1614.5	1003.5	white	rectangle	compound	0.5	black	46	17	NA	angiotensin 1-7
+N-hsa932-sa70	CGP42112A	1048.5	1725.5	white	rectangle	compound	0.5	black	46	17	NA	CGP42112A
+N-hsa932-sa160	angiotensin 3-7	1390	1429.5	white	rectangle	compound	0.5	black	46	17	NA	angiotensin 3-7
+N-hsa932-sa63	angiotensin IV	695.5	1436	white	rectangle	compound	0.5	black	46	17	NA	angiotensin IV
+N-hsa932-sa34	AGT	715	230	white	rectangle	gene	0.5	black	46	17	183	AGT
+N-hsa932-sa134	ethynylestradiol	805	221.875	white	rectangle	compound	0.5	black	46	17	NA	ethynylestradiol
+N-hsa932-sa100	ACE	2190	1055	white	rectangle	gene	0.5	black	46	17	1636	ACE
+N-hsa932-sa195	aldosterone	2097.5	1605.75	white	rectangle	compound	0.5	black	46	17	NA	aldosterone
+N-hsa932-sa66	Lisinopril	382	809.5	white	rectangle	compound	0.5	black	46	17	NA	Lisinopril
+N-hsa932-sa69	Losartan	393.5	1685.5	white	rectangle	compound	0.5	black	46	17	NA	Losartan
+N-hsa932-sa168	ACE2	985	478.5	white	rectangle	gene	0.5	black	46	17	59272	ACE2
+N-hsa932-sa201	Calcitriol	1145	427.5	white	rectangle	compound	0.5	black	46	17	NA	Calcitriol
+N-hsa932-sa32	angiotensin 1-5	1897	1223.5	white	rectangle	compound	0.5	black	46	17	NA	angiotensin 1-5
+N-hsa932-sa50	MRGPRD	1535	1655	white	rectangle	gene	0.5	black	46	17	116512	MRGPRD
+N-hsa932-sa71	REN	463.5	492	white	rectangle	gene	0.5	black	46	17	5972	REN
+N-hsa932-sa94	MRGPRD	1698	1655	white	rectangle	gene	0.5	black	46	17	116512	MRGPRD
+N-hsa932-sa49	alamandine	1452.5	1163.5	white	rectangle	compound	0.5	black	46	17	NA	alamandine
+N-hsa932-sa43	ADAM17	1560	280	white	rectangle	gene	0.5	black	46	17	6868	ADAM17
+N-hsa932-sa77	MAS1	1985	1655	white	rectangle	gene	0.5	black	46	17	4142	MAS1
+N-hsa932-sa159	AR234960	1952.5	1730	white	rectangle	compound	0.5	black	46	17	NA	AR234960
+N-hsa932-sa136	CTSD	960	590	white	rectangle	gene	0.5	black	46	17	1509	CTSD
+N-hsa932-sa137	CTSG	910	640	white	rectangle	gene	0.5	black	46	17	1511	CTSG
+N-hsa932-sa121	angiotensin 1-12	920	962.5	white	rectangle	compound	0.5	black	46	17	NA	angiotensin 1-12
+N-hsa932-sa47	PRCP	1000	675	white	rectangle	gene	0.5	black	46	17	5547	PRCP
+N-hsa932-sa48	THOP1	1410	890	white	rectangle	gene	0.5	black	46	17	7064	THOP1
+N-hsa932-sa120	PREP	1390	967	white	rectangle	gene	0.5	black	46	17	5550	PREP
+N-hsa932-sa122	CMA1	808	935	white	rectangle	gene	0.5	black	46	17	1215	CMA1
+N-hsa932-sa144	KLK1	665	795	white	rectangle	gene	0.5	black	46	17	3816	KLK1
+N-hsa932-sa162	ENPEP	526.461538461539	1415.15384615385	white	rectangle	gene	0.5	black	46	17	2028	ENPEP
+N-hsa932-sa161	QGC001	372	1329.5	white	rectangle	compound	0.5	black	46	17	NA	QGC001
+N-hsa932-sa65	ANPEP 	525	1470	white	rectangle	gene	0.5	black	46	17	290	ANPEP 
+N-hsa932-sa152	LNPEP	1262	1650	white	rectangle	gene	0.5	black	46	17	4012	LNPEP
+N-hsa932-csa4	ACE2:AGTR1	865	1600	white	rectangle	gene	0.5	black	46	17	185/59272	ACE2:AGTR1
+N-hsa932-sa98	ACE2	1430	280	white	rectangle	gene	0.5	black	46	17	59272	ACE2
+N-hsa932-sa194	MME	2180	677.5	white	rectangle	gene	0.5	black	46	17	4311	MME

@@ -1,0 +1,22 @@
+hsa932	Renin-angiotensin pathway
+hsa933	Electron Transport Chain disruption
+hsa934	Nsp4 and Nsp6 protein interactions
+hsa935	SARS-CoV-2 RTC and transcription
+hsa936	Interferon 1 pathway
+hsa937	E protein interactions
+hsa938	Virus replication cycle
+hsa939	TGFbeta signalling
+hsa940	JNK pathway
+hsa941	PAMP signalling
+hsa942	Nsp14 and metabolism
+hsa943	Apoptosis pathway
+hsa944	Pyrimidine deprivation
+hsa945	Nsp9 protein interactions
+hsa946	Orf3a protein interactions
+hsa947	NLRP3 inflammasome activation
+hsa948	Endoplasmatic Reticulum stress
+hsa949	Orf10 Cul2 pathway
+hsa950	Interferon lambda pathway
+hsa951	Coagulation pathway
+hsa952	HMOX1 pathway
+hsa953	Kynurenine synthesis pathway

@@ -1,0 +1,6 @@
+name	label	X	Y	color	shape	type	label.cex	label.color	width	height	genesList	tooltip
+N-hsa940-sa16	Innate Immunity	1393	458	white	rectangle	function	0.5	black	46	17	NA	Innate Immunity
+N-hsa940-sa18	Autophagy	1412.5	717	white	rectangle	function	0.5	black	46	17	NA	Autophagy
+N-hsa940-sa17	Apoptosis	1412.5	763	white	rectangle	function	0.5	black	46	17	NA	Apoptosis
+N-hsa940-sa36	TP53 signalling	1365	951.5	white	rectangle	function	0.5	black	46	17	NA	TP53 signalling
+N-hsa940-sa33_3	ATF2	1250	1088	white	rectangle	function	0.5	black	46	17	NA	ATF2
