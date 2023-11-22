@@ -2,7 +2,7 @@
 ## Project: COVID-19 Disease Map
 ## Script purpose: Translate COVID-19 Disease Map diagrams to HiPathia 
 ## using a dedicated converter
-## Date: 30.11.2021
+## Date: 05.04.2022
 ## Author: Marek Ostaszewski
 ##################################################
 library(httr)
@@ -11,10 +11,10 @@ source("https://gitlab.lcsb.uni.lu/marek.ostaszewski/systems_biology_translators
 
 setwd("/home/m3m/INFO_PROYECTO/Coronavirus/converter_2HiPathia/SIF_05042022/")
 
-### A wrapper function to conversion/reduction calls
+### A wrapper function for conversion/reduction calls
 ### Uses MINERVA project url, writes results to target directory,
 ### 'use_model_name' allows to use diagram name instead of id when writing
-### 'plot_graph' plots the outcome of the conversion/redcution
+### 'plot_graph' plots the outcome of the conversion/reduction
 convert_minerva_to_hipathia <- function(minerva_url, project = NULL, target_directory, 
                                         use_model_name = F, plot_graph = F) {
   if(!dir.exists(target_directory)) { dir.create(target_directory, recursive = T) }
